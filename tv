@@ -43,19 +43,19 @@ http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 #EXTINF:-1 group-title="Tamil" , Rasi TV
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" , Rasi Tamil
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" , Rasi Movies
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" , Rasi Hollywood
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil", Rasi Music
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil", KTV 
 https://suntvvodaf-live.s.llnwi.net/KTVHD/KTVHD.isml/manifest.mpd
@@ -64,14 +64,14 @@ https://suntvvodaf-live.s.llnwi.net/KTVHD/KTVHD.isml/manifest.mpd
 https://suntvvodaf-live.s.llnwi.net:443/SunMusic/SunMusic.isml/manifest.mpd
 
 #EXTINF:-1 group-title="Tamil", KBO
-https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+http://bit.ly/riyazknanshik
 
 #EXTINF:-1, group-title="Tamil", (SG) Vasantham
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
 
 #EXTINF:-1 group-title="Tamil" , Astro Vaanavil
-https://linear-playback.astro.com.my/linear-livewvdaf/2309/default_ott.mpd
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_03.m3u8
 
 #EXTINF:-1 group-title="Tamil" , Astro Thangathirai
 https://linear-playback.astro.com.my/linear-livewvdaf/1007/default_ott.mpd
