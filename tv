@@ -46,7 +46,7 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 http://tamiltvlive.herokuapp.com/http://139.99.41.37:1935/dream/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Tamil" ,  Yupp Thirai
+#EXTINF:-1 group-title="Tamil" , Yupp Thirai
 http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
