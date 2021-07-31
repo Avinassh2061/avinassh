@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" url-epg="https://weareblahs.github.io/epg/rtmklik.xml" refresh="3600"
 
 
 
