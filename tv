@@ -20,19 +20,33 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
 #EXTINF:-1 group-title="Tamil", SUN Music
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
 https://linear-playback.astro.com.my/linear-livewvdaf/5011/default_ott.mpd
+https://suntvvodaf-live.s.llnwi.net:443/SunMusic/SunMusic.isml/manifest.mpd
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9025&e=.m3u8
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9013&e=.m3u8
+http://naviin04.webd.pro/star7/star.php?id=48013&e=.m3u8
+
 
 #EXTINF:-1 group-title="Tamil" , SUN TV
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
 https://linear-playback.astro.com.my/linear-livewvdaf/2310/default_ott.mpd
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9016&e=.m3u8
+http://bdtvlive.xyz/redbox/redbox.php?id=2336&e=.m3u8
+http://naviin04.webd.pro/star7/star.php?id=48012&e=.m3u8
+http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="Tamil", MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+https://idvd.multitvsolution.com/idvo/mksix.m3u8
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK Tunes
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(01)/index.m3u8
+
 
 #EXTINF:-1 group-title="Tamil",MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil", Thirai Tamil
 http://tamiltvlive.herokuapp.com/http://139.99.41.37:1935/dream/live/playlist.m3u8
@@ -59,24 +73,127 @@ http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil", KTV 
 https://suntvvodaf-live.s.llnwi.net/KTVHD/KTVHD.isml/manifest.mpd
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
+https://bdtvlive.xyz/redbox/redbox.php?id=2335&e=.m3u8
+http://naviin04.webd.pro/star7/star.php?id=48014&e=.m3u8
+http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
+https://ritesh.ch:443/miniproxy/miniproxy.php/http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
 
-#EXTINF:-1 group-title="Tamil", SUN Music
-https://suntvvodaf-live.s.llnwi.net:443/SunMusic/SunMusic.isml/manifest.mpd
 
-#EXTINF:-1 group-title="Tamil", KBO
+#EXTINF:-1 group-title="Tamil", Zee Thirai
+https://watchindia.net:8443/live/60275/20486/2142.ts
+https://oreotv.us/live/gee/zee_v3.m3u8?id=0-9-224
 http://bit.ly/riyazknanshik
+https://bit.ly/37g7c4z
+https://saalamatv.fun/zee5/getplay.php?c=out/v1/48fbba85dc7643df9a97fbf6c30cf6a3
+https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8
+https://watchindia.net:8443/live/68653/13548/2142.ts
+http://app.tamiltvlive.in/zee.php?c=0-9-224&q=6&Auth_Token=911d5e9ccdb4a54bf44678702bb6c80ce9fd4060
+http://173.212.237.70//zee5.php?url=http://z5ams.akamaized.net/zthirai/index.m3u8
+
 
 #EXTINF:-1, group-title="Tamil", (SG) Vasantham
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
 
+
 #EXTINF:-1 group-title="Tamil" , Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_03.m3u8
 
-#EXTINF:-1 group-title="Tamil" , Astro Thangathirai
-https://linear-playback.astro.com.my/linear-livewvdaf/1007/default_ott.mpd
+
+#EXTINF:-1 group-title="Tamil" , Vijay Super
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
+https://mhdtvapp.xyz/delta/planet/max.php?id=36128&e=.m3u8
+http://naviin04.webd.pro/star7/star.php?id=48007&e=.m3u8
+http://t100v.com/play.php?token=RED&id=48007
 
 
+#EXTINF:-1 group-title="Tamil",KBO TAMIL
+https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
+http://app.tamiltvlive.in/ylive.php?c=Kbo&Auth_Token=911d5e9ccdb4a54bf44678702bb6c80ce9fd4060
+https://watchindia.net:8443/live/68653/13548/2152.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" ,3Tamil TV
+https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" ,Aathavan HD
+http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1302877558.m3u8
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" ,Japan Tamil
+http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
+http://198.144.149.82:8080/NOTV/japan/tracks-v1a1/mono.m3u8?token=GTR
+
+
+#EXTINF:-1 group-title="Tamil" ,ACN Cinema(Local)
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" ,KalaignarTV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=kalaignar-tv&e=.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" ,Sirippoli TV
+http://103.199.161.254:80/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/Stream(02)/index.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=sirippoli-tv&e=.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=chithiram-tv&e=.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" ,RAJ TV(Tamil)
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
+http://212.224.98.196:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=
+https://mhdtvapp.xyz/yupp/yupp.php?c=raj-tv&e=.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" ,ZEE TAMIL(Yupp)
+http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
+http://naviin04.webd.pro/star7/star.php?id=48032&e=.m3u8
+https://watchindia.net:8443/live/60275/20486/887.ts
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil
+https://bit.ly/3rQR29J
+http://app.tamiltvlive.in/zee.php?c=0-9-zeetamil&q=10&Auth_Token=1423378c80c168331b0c4ea4c9df2cf6007c1fe0
+http://173.212.237.70//zee5.php?url=http://z5ams.akamaized.net/zeetamil/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,Raj Digital
+http://212.224.98.196:2200/R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=
+http://naviin04.webd.pro/star7/star.php?id=48039&e=.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=raj-digital-plus&e=.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,Raj Musix
+http://212.224.98.196:2200/R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=
+http://naviin04.webd.pro/star7/star.php?id=48044&e=.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=raj-musix&e=.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,Jaya TV
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=
+https://jiocdn.fun/live.php?c=Jaya_TV_HD&q=800&e=.m3u8
+http://naviin04.webd.pro/star7/star.php?id=48010&e=.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,Jaya Max
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=
+http://naviin04.webd.pro/star7/star.php?id=48069&e=.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,Jaya Movies
+https://cutt.ly/pnm4j3M
+http://naviin04.webd.pro/star7/star.php?id=48052&e=.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,Polimer
+http://212.224.98.196:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=
+http://bdtvlive.xyz/redbox/redbox.php?id=2325&e=.m3u8
+http://naviin04.webd.pro/star7/star.php?id=48040&e=.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=polimertv&e=.m3u8
+ 
+ 
+ 
+ 
 
 
 
