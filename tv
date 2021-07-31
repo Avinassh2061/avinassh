@@ -1,18 +1,21 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" refresh="3600"
+
+
 
 #EXTINF:-1 ,##########  TAMIL ##########
 
 
 #EXTINF:-1 group-title="Tamil", Astro Vellithirai
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
+http://103.145.12.38:25461/live/thestuff1/thestuff1/1400566.m3u8?token=TkBRUEAOFQhDAgsFVANUWgYPV1gGV18HBABeU1cABw8GAQADBgAFCgUXHxVDRkNdVFprCAEQAwQBAAgCVAFKGkARXENsD1MQWxcKBwYLABoZFUAICFcbDwUcGkcLU0QCWxdVXR9EUkoVUEFZUV5uXFBBXQIAEANbQFxUG0BYCGdRB1RQXQIVCEMEERsSW0JIFw0WNgBQXBVxWV9eFlYKGGYGVx8TJF9WTxcfFVJbRUpUQ1FDX1xMWVkcGlQNQghMRxsbCxErbhBNF1ZPRFdfS1xYWkNfEFQGQAgaG0BeFWdHB0pFQQNWXwRHEQ0SAhMUF1pVGTpRVltbVVtDC1gISxdYGwURShVfDltaQ19AbkhcUxZbC0dVWUg=
+
 
 #EXTINF:-1 group-title="Tamil", Astro Vinmeen HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
-https://linear-playback.astro.com.my/linear-livewvdaf/2105/default_ott.mpd
+http://103.145.12.38:25461/live/thestuff1/thestuff1/1400751.m3u8?token=TkBRUEAOFQhDV1JWB1QBDlEEBFNTUwwDA1JeA1IPA1kMUwhSAlUGBVYXHxVDRkNdVFprCAEQAwQBAAgAVwZKGkARXENsD1MQWxcKBwYLABoZFUAICFcbDwUcGkcLU0QCWxdVXR9EUkoVUEFZUV5uXFBBXQIAEANbQFxUG0BYCGdRB1RQXQIVCEMEERsSW0JIFw0WNQBeXF5aXRh6A1sHQUYLWBFxA0VaAFERGxJQWExHVkAERwhXQFlcFBUBWBNWQRBAEwlEemtDGRFSSEZUVkZeWw9HCBtYBkUAFU4VD0tqEFxCRxRSUwxQQRUKEAEaGRVZAB1tWlpbXl1UFl4JVkZAAxMHRBsQDFpdXkRdQ2dFXlBDX1xMWVlN
 
 #EXTINF:-1  group-title="Tamil" , Star Vijay HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
-https://linear-playback.astro.com.my/linear-livewvdaf/2707/default_ott.mpd
 
 #EXTINF:-1 group-title="Tamil", SUN Music
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
@@ -65,6 +68,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 
 #EXTINF:-1, group-title="Tamil", (SG) Vasantham
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
+https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
 
 #EXTINF:-1 group-title="Tamil" , Astro Vaanavil
 https://linear-playback.astro.com.my/linear-livewvdaf/2309/default_ott.mpd
@@ -118,6 +122,22 @@ https://link.zozotv.xyz:443/Freemium3/unlimited99/336
 #EXTINF:-1 group-title="Olympic" ,OLYMPIC 12
 https://link.zozotv.xyz:443/Freemium3/unlimited99/337
 
+#EXTINF:-1 group-title="Olympic" ,RTM Tokyo 2020 Channel 1 (HD)
+https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="Olympic" ,RTM Tokyo 2020 Channel 2 (HD)
+https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="Olympic" ,RTM Tokyo 2020 Channel 3 (HD)
+https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="Olympic" ,RTM Tokyo 2020 Channel 4 (HD)
+https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="Olympic" ,RTM Tokyo 2020 Channel 5 (HD)
+https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+
 
 
 
@@ -148,22 +168,38 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 group-title="Astro",TV1 HD
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 https://linear-playback.astro.com.my/linear-livewvdaf/711/default_ott.mpd
-
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
 
 
 #EXTINF:-1 group-title="Astro",TV2 HD
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 https://linear-playback.astro.com.my/linear-livewvdaf/5027/default_ott.mpd
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 
 
 #EXTINF:-1 group-title="Astro",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+
 
 
 #EXTINF:-1, group-title="Astro", (MY) Boo
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+
+
+
+
+############### RADIO ##################
+
+
+#EXTINF:-1, group-title="RADIO", Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+
 
