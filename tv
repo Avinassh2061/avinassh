@@ -32,6 +32,7 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
 
 #EXTINF:-1 group-title="Tamil", MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="Tamil", MK Six (BACKUP)
 https://idvd.multitvsolution.com/idvo/mksix.m3u8
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
 
@@ -60,41 +61,21 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 #EXTINF:-1 group-title="Tamil" , Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
-#EXTINF:-1 group-title="Tamil" , Rasi TV (backup)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Tamil
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Movies
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
-#EXTINF:-1 group-title="Tamil" , Rasi Movies (backup)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Hollywood
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", Rasi Music
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 
@@ -104,29 +85,17 @@ https://suntvvodaf-live.s.llnwi.net/KTVHD/KTVHD.isml/manifest.mpd
 https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
 
 
-#EXTINF:-1 group-title="Tamil", Zee Thirai
-http://173.212.237.70//zee5.php?url=http://z5ams.akamaized.net/zthirai/index.m3u8
-#EXTINF:-1 group-title="Tamil", Zee Thirai (backup)
-http://156.146.43.241:2200/R-EX/TAMIL_ZEE_THIRAI-in/tracks-v1a1/mono.m3u8?token=
-
-
 #EXTINF:-1, group-title="Tamil", (SG) Vasantham
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
-#EXTINF:-1, group-title="Tamil", (SG) Vasantham (backup)
-https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
 
 
-#EXTINF:-1 group-title="Tamil" , Astro Vaanavil HD
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_03.m3u8
-
-
-#ETINF:-1 group-title="Tamil",KBO TAMIL
+#EXTINF:-1 group-title="Tamil", KBO TAMIL
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 
 
-#EXTINF:-1 group-title="Tamil" , 3 Tamil TV
+#EXTINF:-1 group-title="Tamil", 3 Tamil TV
 https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Tamil" , 3 TAMIL (backup)
+#EXTINF:-1 group-title="Tamil", 3 TAMIL (backup)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 
@@ -134,10 +103,6 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1302877558.m3u8
 #EXTINF:-1 group-title="Tamil" ,Aathavan HD (backup)
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Tamil" ,Japan Tamil
-http://198.144.149.82:8080/NOTV/japan/tracks-v1a1/mono.m3u8?token=GTR
 
 
 #EXTINF:-1 group-title="Tamil" ,ACN Cinema
@@ -156,8 +121,6 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=sirippoli-tv&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV (backup)
-https://mhdtvapp.xyz/yupp/yupp.php?c=chithiram-tv&e=.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" ,ZEE TAMIL
@@ -170,9 +133,6 @@ http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 
 #EXTINF:-1 group-title="Tamil" , Vijay Super
 http://watchindia.net:8880/live/60275/20486/2190.m3u8
-#EXTINF:-1 group-title="Tamil" , Vijay Super (backup)
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/tracks-v1a1/mono.m3u8?token=veera4utv
-
 
 
 
