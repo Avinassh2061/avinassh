@@ -14,8 +14,6 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 
 #EXTINF:-1  group-title="Tamil" , Star Vijay HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
-#EXTINF:-1  group-title="Tamil" , Star Vijay HD (BACKUP)
-http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", Sun Music HD
@@ -130,10 +128,8 @@ http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,ZEE THIRAI
 http://rv.bleutv.net:80/live/477816014111154/477816014111154/83914.m3u8
-#EXTINF:-1 group-title="Tamil" ,ZEE THIRAI (BACKUP)
-http://152.89.62.111:8080/88888/99999/273045
 
- 
+
 #EXTINF:-1 group-title="Tamil" ,Mon Tamil
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
  
@@ -161,51 +157,6 @@ http://pn.tvott.info:80/live/307271135111/307271135111/83946.m3u8
 
 
 
-
-#EXTINF:-1 ,##########  OLYMPIC ##########
-
-
-
-#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 01
-https://link.zozotv.xyz:443/Freemium3/unlimited99/318
-
-#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 02
-https://link.zozotv.xyz:443/Freemium3/unlimited99/319
-
-#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 03
-https://link.zozotv.xyz:443/Freemium3/unlimited99/320
-
-#EXTINF:-1 group-title="Olympic",Special Event Sports HD 04
-https://link.zozotv.xyz:443/Freemium3/unlimited99/321
-
-#EXTINF:-1 group-title="Olympic",Special Event Sports HD 05
-https://link.zozotv.xyz:443/Freemium3/unlimited99/322
-
-#EXTINF:-1 group-title="Olympic",Special Event Sports HD 06
-https://link.zozotv.xyz:443/Freemium3/unlimited99/323
-
-#EXTINF:-1 group-title="Olympic",Special Event Sports HD 07
-https://link.zozotv.xyz:443/Freemium3/unlimited99/324
-
-#EXTINF:-1 group-title="Olympic",Special Event Sports HD 08
-https://link.zozotv.xyz:443/Freemium3/unlimited99/325
-
-#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 09
-https://link.zozotv.xyz:443/Freemium3/unlimited99/326
-
-#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 10
-https://link.zozotv.xyz:443/Freemium3/unlimited99/327
-
-#EXTINF:-1 group-title="Olympic",Special Event Sports HD 11
-https://link.zozotv.xyz:443/Freemium3/unlimited99/336
-
-#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 12
-https://link.zozotv.xyz:443/Freemium3/unlimited99/337
-
-
-
-
-
 #EXTINF:-1 ,############# Astro ##################
 
 
@@ -222,25 +173,12 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 group-title="Astro" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" ,TV1 
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 group-title="Astro",TV1 HD (backup)
-https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
-#EXTINF:-1 group-title="Astro",TV1 HD (backup 2)
-https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
-
 
 #EXTINF:-1 group-title="Astro" ,TV2 HD
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 group-title="Astro" ,TV2 HD (backup)
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
-#EXTINF:-1 group-title="Astro" ,TV2 HD (backup 2)
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+
 
 
 #EXTINF:-1 group-title="Astro" ,TV3 
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 group-title="Astro",TV3 (backup)
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 
@@ -269,7 +207,6 @@ https://astro3.rastream.com/raaga
 
 
 
-#EXTINF:-1, group-title="VOD", PULANAIVU (2019)
-http://s32.uptofiles.net//files/Tamil%202021%20Movies/Pulanaivu%20(2019)/Pulanaivu%20(Tamil)/Pulanaivu%20(Original)/Pulanaivu%20(640x360)/Pulanaivu%202019%20HD.mp4
-
+#EXTINF:-1, group-title="VOD", Thittam Irandu
+http://s27.uptofiles.net/share/Thittam_Irandu_2021_HD.mp4
 
