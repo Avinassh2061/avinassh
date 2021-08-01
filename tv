@@ -154,10 +154,6 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 
 
-#EXTINF:-1 group-title="Tamil", Astro Vaanavil HD
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
-
-
 #EXTINF:-1  group-title="Tamil", TATA SKY TAMIL CINEMA
 http://pn.tvott.info:80/live/307271135111/307271135111/83946.m3u8
 
@@ -174,29 +170,29 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/157
 https://link.zozotv.xyz:443/Freemium4/unlimited99/158
 
 
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 1
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 1
 https://link.zozotv.xyz:443/Freemium4/unlimited99/318
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 2
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 2
 https://link.zozotv.xyz:443/Freemium4/unlimited99/319
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 3
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 3
 https://link.zozotv.xyz:443/Freemium4/unlimited99/320
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 4
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 4
 https://link.zozotv.xyz:443/Freemium4/unlimited99/321
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 5
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 5
 https://link.zozotv.xyz:443/Freemium4/unlimited99/322
-#EXTINF:-1 group-title="SPORT  ,OLYMPIC 6
+#EXTINF:-1 group-title="SPORT"  ,OLYMPIC 6
 https://link.zozotv.xyz:443/Freemium4/unlimited99/323
-#EXTINF:-1 group-title="SPORT  ,OLYMPIC 7
+#EXTINF:-1 group-title="SPORT"  ,OLYMPIC 7
 https://link.zozotv.xyz:443/Freemium4/unlimited99/324
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 8
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/325
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 9
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 9
 https://link.zozotv.xyz:443/Freemium4/unlimited99/326
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 10
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 10
 https://link.zozotv.xyz:443/Freemium4/unlimited99/327
-#EXTINF:-1 group-title="SPORT   ,OLYMPIC 11
+#EXTINF:-1 group-title="SPORT"   ,OLYMPIC 11
 https://link.zozotv.xyz:443/Freemium4/unlimited99/336
-#EXTINF:-1 group-title="SPORT ,OLYMPIC 12
+#EXTINF:-1 group-title="SPORT" ,OLYMPIC 12
 https://link.zozotv.xyz:443/Freemium4/unlimited99/337
 
 
@@ -217,10 +213,6 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
 #EXTINF:-1 group-title="Astro" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Astro" ,TV2 HD
-https://link.zozotv.xyz:443/Freemium4/unlimited99/15
 
 
 #EXTINF:-1 group-title="Astro" ,TV3 
@@ -252,12 +244,8 @@ https://astro3.rastream.com/raaga
 
 
 
-#EXTINF:-1, Thittam Irandu (2021)
+#EXTINF:-1,Thittam Irandu (2021)
 http://s27.uptofiles.net/share/Thittam_Irandu_2021_HD.mp4
-
-
-#EXTINF:-1,Weilai Movie
-https://link.zozotv.xyz:443/Freemium4/unlimited99/268
 #EXTINF:-1,Malik 2021
 https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/329.mp4
 #EXTINF:-1,Waiting for Rain (2021)
