@@ -124,9 +124,9 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_03.m3u8
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 
 
-#EXTINF:-1 group-title="Tamil" ,3 Tamil TV
+#EXTINF:-1 group-title= "Tamil" , 3 Tamil TV
 https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Tamil , 3 TAMIL ()backup
+#EXTINF:-1 group-title="Tamil" , 3 TAMIL (backup)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 
