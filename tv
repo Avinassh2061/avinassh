@@ -6,20 +6,14 @@
 
 #EXTINF:-1 group-title="Tamil", Astro Vellithirai
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
-#EXTINF:-1 group-title="Tamil", Astro Vellithirai (backup)
-http://103.145.12.38:25461/live/thestuff1/thestuff1/1400566.m3u8?token=TkBRUEAOFQhDAgsFVANUWgYPV1gGV18HBABeU1cABw8GAQADBgAFCgUXHxVDRkNdVFprCAEQAwQBAAgCVAFKGkARXENsD1MQWxcKBwYLABoZFUAICFcbDwUcGkcLU0QCWxdVXR9EUkoVUEFZUV5uXFBBXQIAEANbQFxUG0BYCGdRB1RQXQIVCEMEERsSW0JIFw0WNgBQXBVxWV9eFlYKGGYGVx8TJF9WTxcfFVJbRUpUQ1FDX1xMWVkcGlQNQghMRxsbCxErbhBNF1ZPRFdfS1xYWkNfEFQGQAgaG0BeFWdHB0pFQQNWXwRHEQ0SAhMUF1pVGTpRVltbVVtDC1gISxdYGwURShVfDltaQ19AbkhcUxZbC0dVWUg=
 
 
 #EXTINF:-1 group-title="Tamil", Astro Vinmeen HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
-#EXTINF:-1 group-title="Tamil", Astro Vinmeen HD (backup)
-http://103.145.12.38:25461/live/thestuff1/thestuff1/1400751.m3u8?token=TkBRUEAOFQhDV1JWB1QBDlEEBFNTUwwDA1JeA1IPA1kMUwhSAlUGBVYXHxVDRkNdVFprCAEQAwQBAAgAVwZKGkARXENsD1MQWxcKBwYLABoZFUAICFcbDwUcGkcLU0QCWxdVXR9EUkoVUEFZUV5uXFBBXQIAEANbQFxUG0BYCGdRB1RQXQIVCEMEERsSW0JIFw0WNQBeXF5aXRh6A1sHQUYLWBFxA0VaAFERGxJQWExHVkAERwhXQFlcFBUBWBNWQRBAEwlEemtDGRFSSEZUVkZeWw9HCBtYBkUAFU4VD0tqEFxCRxRSUwxQQRUKEAEaGRVZAB1tWlpbXl1UFl4JVkZAAxMHRBsQDFpdXkRdQ2dFXlBDX1xMWVlN
 
 
 #EXTINF:-1  group-title="Tamil" , Star Vijay HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
-#EXTINF:-1  group-title="Tamil" , Star Vijay HD (backup)
-http://103.145.12.38:25461/live/thestuff1/thestuff1/1400716.m3u8?token=TkBRUEAOFQhDBwEFBVEHXQIDUVlXAQFUA1QPUVZWBFpRAVxSB1AGA1MXHxVDRkNdVFprCAEQAwQBAAgAUwFKGkARXENsD1MQWxcKBwYLABoZFUAICFcbDwUcGkcLU0QCWxdVXR9EUkoVUEFZUV5uXFBBXQIAEANbQFxUG0BYCGdRB1RQXQIVCEMEERsSW0JIFw0WNQBeXF5aXRh6A1sHQUYLWBFxA0VaAFERGxJQWExHVkAERwhXQFlcFBUBWBNWQRBAEwlEemtDGRFSSEZUVkZeWw9HCBtYBkUAFU4VD0tqEFxCRxRSUwxQQRUKEAEaGRVZAB1tWlpbXl1UFl4JVkZAAxMHRBsQDFpdXkRdQ2dFXlBDX1xMWVlN
 
 
 #EXTINF:-1 group-title="Tamil", Sun Music HD
@@ -51,12 +45,15 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil", MAX TV
 http://tamiltvlive.herokuapp.com/http://139.99.41.37:1935/dream/live/playlist.m3u8
+#EXTINF:-1 group-title="Tamil", MAX TV (backup)
+http://139.99.41.37:1935/dream/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Yupp Thirai
 http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" , Yupp Thirai (backup)
-http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+http://istreamiptv.gq/vdn/thirai/auth.php
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi TV
@@ -91,6 +88,8 @@ http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil", KBO TAMIL
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
+#EXTINF:-1 group-title="Tamil", KBO TAMIL (BACKUP)
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", 3 Tamil TV
@@ -133,6 +132,20 @@ http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 
 #EXTINF:-1 group-title="Tamil" , Vijay Super
 http://watchindia.net:8880/live/60275/20486/2190.m3u8
+
+
+#EXTINF:-1 group-title="Tamil", Polimer TV
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+#EXTINF:-1 group-title="Tamil", Polimer TV (backup)
+https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
+
+
+#EXTINF:-1  group-title="Tamil", SIGARAM TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
+
+
+#EXTINF:-1 group-title="Tamil", Astro Vaanavil HD
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
 
 
