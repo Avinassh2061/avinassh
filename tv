@@ -18,9 +18,11 @@ http://103.145.12.38:25461/live/thestuff1/thestuff1/1400751.m3u8?token=TkBRUEAOF
 
 #EXTINF:-1  group-title="Tamil" , Star Vijay HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
+#EXTINF:-1  group-title="Tamil" , Star Vijay HD (backup)
+http://103.145.12.38:25461/live/thestuff1/thestuff1/1400716.m3u8?token=TkBRUEAOFQhDBwEFBVEHXQIDUVlXAQFUA1QPUVZWBFpRAVxSB1AGA1MXHxVDRkNdVFprCAEQAwQBAAgAUwFKGkARXENsD1MQWxcKBwYLABoZFUAICFcbDwUcGkcLU0QCWxdVXR9EUkoVUEFZUV5uXFBBXQIAEANbQFxUG0BYCGdRB1RQXQIVCEMEERsSW0JIFw0WNQBeXF5aXRh6A1sHQUYLWBFxA0VaAFERGxJQWExHVkAERwhXQFlcFBUBWBNWQRBAEwlEemtDGRFSSEZUVkZeWw9HCBtYBkUAFU4VD0tqEFxCRxRSUwxQQRUKEAEaGRVZAB1tWlpbXl1UFl4JVkZAAxMHRBsQDFpdXkRdQ2dFXlBDX1xMWVlN
 
 
-#EXTINF:-1 group-title="Tamil", SUN Music
+#EXTINF:-1 group-title="Tamil", Sun Music HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
 
 
@@ -46,7 +48,7 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 
 
-#EXTINF:-1 group-title="Tamil", MAX Tv
+#EXTINF:-1 group-title="Tamil", MAX TV
 http://tamiltvlive.herokuapp.com/http://139.99.41.37:1935/dream/live/playlist.m3u8
 
 
@@ -58,25 +60,45 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 #EXTINF:-1 group-title="Tamil" , Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil" , Rasi TV (backup)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Tamil" , Rasi Movies
+#EXTINF:-1 group-title= "Tamil" , Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:-1 group-title= "Tamil" , Rasi Movies (backup)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
 
+
 #EXTINF:-1 group-title="Tamil" , Rasi Hollywood
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", Rasi Music
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Tamil", KTV 
+#EXTINF:-1 group-title="Tamil", KTV HD
 https://suntvvodaf-live.s.llnwi.net/KTVHD/KTVHD.isml/manifest.mpd
 #EXTINF:-1 group-title="Tamil", KTV (backup)
 https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
@@ -85,7 +107,7 @@ https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
 #EXTINF:-1 group-title="Tamil", Zee Thirai
 http://173.212.237.70//zee5.php?url=http://z5ams.akamaized.net/zthirai/index.m3u8
 #EXTINF:-1 group-title="Tamil", Zee Thirai (backup)
-http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
+http://156.146.43.241:2200/R-EX/TAMIL_ZEE_THIRAI-in/tracks-v1a1/mono.m3u8?token=
 
 
 #EXTINF:-1, group-title="Tamil", (SG) Vasantham
@@ -94,7 +116,7 @@ http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
 
 
-#EXTINF:-1 group-title="Tamil" , Astro Vaanavil
+#EXTINF:-1 group-title="Tamil" , Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_03.m3u8
 
 
@@ -104,6 +126,8 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,3 Tamil TV
 https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Tamil , 3 TAMIL ()backup
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" ,Aathavan HD
@@ -145,7 +169,7 @@ http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
  
 
 #EXTINF:-1 group-title="Tamil" , Vijay Super
-http://87.98.150.108:1935/live/vijaysuper_fr.stream/playlist.m3u8
+http://watchindia.net:8880/live/60275/20486/2190.m3u8
 #EXTINF:-1 group-title="Tamil" , Vijay Super (backup)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/tracks-v1a1/mono.m3u8?token=veera4utv
 
@@ -156,40 +180,40 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TA
 
 
 
-#EXTINF:-1 group-title="Olympic" ,OLYMPIC 1
+#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 01
 https://link.zozotv.xyz:443/Freemium3/unlimited99/318
 
-#EXTINF:-1 group-title="Olympic" ,OLYMPIC 2
+#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 02
 https://link.zozotv.xyz:443/Freemium3/unlimited99/319
 
-#EXTINF:-1 group-title="Olympic" ,OLYMPIC 3
+#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 03
 https://link.zozotv.xyz:443/Freemium3/unlimited99/320
 
-#EXTINF:-1 group-title="Olympic",OLYMPIC 4
+#EXTINF:-1 group-title="Olympic",Special Event Sports HD 04
 https://link.zozotv.xyz:443/Freemium3/unlimited99/321
 
-#EXTINF:-1 group-title="Olympic",OLYMPIC 5
+#EXTINF:-1 group-title="Olympic",Special Event Sports HD 05
 https://link.zozotv.xyz:443/Freemium3/unlimited99/322
 
-#EXTINF:-1 group-title="Olympic",OLYMPIC 6
+#EXTINF:-1 group-title="Olympic",Special Event Sports HD 06
 https://link.zozotv.xyz:443/Freemium3/unlimited99/323
 
-#EXTINF:-1 group-title="Olympic",OLYMPIC 7
+#EXTINF:-1 group-title="Olympic",Special Event Sports HD 07
 https://link.zozotv.xyz:443/Freemium3/unlimited99/324
 
-#EXTINF:-1 group-title="Olympic",OLYMPIC 8
+#EXTINF:-1 group-title="Olympic",Special Event Sports HD 08
 https://link.zozotv.xyz:443/Freemium3/unlimited99/325
 
-#EXTINF:-1 group-title="Olympic" ,OLYMPIC 9
+#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 09
 https://link.zozotv.xyz:443/Freemium3/unlimited99/326
 
-#EXTINF:-1 group-title="Olympic" ,OLYMPIC 10
+#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 10
 https://link.zozotv.xyz:443/Freemium3/unlimited99/327
 
-#EXTINF:-1 group-title="Olympic",OLYMPIC 11
+#EXTINF:-1 group-title="Olympic",Special Event Sports HD 11
 https://link.zozotv.xyz:443/Freemium3/unlimited99/336
 
-#EXTINF:-1 group-title="Olympic" ,OLYMPIC 12
+#EXTINF:-1 group-title="Olympic" ,Special Event Sports HD 12
 https://link.zozotv.xyz:443/Freemium3/unlimited99/337
 
 
@@ -199,24 +223,20 @@ https://link.zozotv.xyz:443/Freemium3/unlimited99/337
 #EXTINF:-1 ,############# Astro ##################
 
 
-#EXTINF:-1 group-title="Astro" ,Astro Awani
+#EXTINF:-1 group-title="Astro" , Astro Awani HD
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 group-title="Astro" ,Astro Awani (backup)
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 
 
-#EXTINF:-1 group-title="Astro",Berita RTM HD
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Astro",Bernama TV
+#EXTINF:-1 group-title="Astro" , BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Astro",HBO Malaysia
+#EXTINF:-1 group-title="Astro" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro",TV1 HD
+#EXTINF:-1 group-title="Astro" ,TV1 
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="Astro",TV1 HD (backup)
 https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
@@ -224,26 +244,21 @@ https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.
 https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
 
 
-#EXTINF:-1 group-title="Astro",TV2 HD
+#EXTINF:-1 group-title="Astro" ,TV2 HD
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 group-title="Astro",TV2 HD (backup)
+#EXTINF:-1 group-title="Astro" ,TV2 HD (backup)
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
-#EXTINF:-1 group-title="Astro",TV2 HD (backup 2)
-https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
-#EXTINF:-1 group-title="Astro",TV2 HD (backup 3)
+#EXTINF:-1 group-title="Astro" ,TV2 HD (backup 2)
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 
 
-#EXTINF:-1 group-title="Astro",TV3
+#EXTINF:-1 group-title="Astro" ,TV3 
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 group-title="Astro",TV3 (backup)
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 group-title="Astro",TV3 (backup1)
-https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
 
 
-
-#EXTINF:-1, group-title="Astro", (MY) Boo
+#EXTINF:-1, group-title="Astro", BOO HD
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
 
@@ -252,13 +267,13 @@ http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 ############### RADIO ##################
 
 
-#EXTINF:-1, group-title="RADIO", Minnal FM
+#EXTINF:-1, group-title="RADIO", MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 
 
-#EXTINF:-1, group-title="RADIO", Osai
+#EXTINF:-1, group-title="RADIO", OSAI
 https://astro4.rastream.com/osai
 
-#EXTINF:-1, group-title="RADIO", THR Raaga
+#EXTINF:-1, group-title="RADIO", THR RAAGA
 https://astro3.rastream.com/raaga
 
