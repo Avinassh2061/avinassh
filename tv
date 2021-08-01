@@ -14,6 +14,8 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 
 #EXTINF:-1  group-title="Tamil" , Star Vijay HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
+#EXTINF:-1  group-title="Tamil" , Star Vijay HD (BACKUP)
+http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", Sun Music HD
@@ -125,6 +127,12 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/inde
 #EXTINF:-1 group-title="Tamil" ,ZEE TAMIL
 http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Tamil" ,ZEE THIRAI
+http://rv.bleutv.net:80/live/477816014111154/477816014111154/83914.m3u8
+#EXTINF:-1 group-title="Tamil" ,ZEE THIRAI (BACKUP)
+http://152.89.62.111:8080/88888/99999/273045
+
  
 #EXTINF:-1 group-title="Tamil" ,Mon Tamil
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
@@ -146,6 +154,11 @@ https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index
 
 #EXTINF:-1 group-title="Tamil", Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
+
+
+#EXTINF:-1  group-title="Tamil", TATA SKY TAMIL CINEMA
+http://pn.tvott.info:80/live/307271135111/307271135111/83946.m3u8
+
 
 
 
@@ -249,4 +262,14 @@ https://astro4.rastream.com/osai
 
 #EXTINF:-1, group-title="RADIO", THR RAAGA
 https://astro3.rastream.com/raaga
+
+
+
+#################### VOD #####################
+
+
+
+#EXTINF:-1, group-title="VOD", PULANAIVU (2019)
+http://s32.uptofiles.net//files/Tamil%202021%20Movies/Pulanaivu%20(2019)/Pulanaivu%20(Tamil)/Pulanaivu%20(Original)/Pulanaivu%20(640x360)/Pulanaivu%202019%20HD.mp4
+
 
