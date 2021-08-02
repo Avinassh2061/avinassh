@@ -95,8 +95,7 @@ https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
 
 
 #EXTINF:-1, group-title="Tamil", (SG) Vasantham
-http://210.210.155.35/uq2663/h/h29/index.m3u8
-
+http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil", KBO TAMIL
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
@@ -252,7 +251,7 @@ https://astro3.rastream.com/raaga
 #EXTINF:-1 group-title="VOD", Thittam Irandu (2021)
 http://s27.uptofiles.net/share/Thittam_Irandu_2021_HD.mp4
 
-#EXTINF:-1 group-title="VOD", Black Widow (2021)
-https://drive.google.com/u/0/uc?export=download&confirm=5J1i&id=1avUcRUCufsDHzAq1sZFMkQEAAIX85_a5
+#EXTINF:-1 group-title="VOD", 
+
 
 
