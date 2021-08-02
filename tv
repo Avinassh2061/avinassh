@@ -253,14 +253,24 @@ https://astro3.rastream.com/raaga
 
 
 
+
 ################# Movie ###############
+
+
 
 #EXTINF:-1 group-title="Movie", Sony Pix
 https://link.zozotv.xyz:443/live/Freemium4/unlimited99/298
 
 
 #EXTINF:-1 group-title="Movie", Star Movies
-https://link.zozotv.xyz:443/live/Freemium4/unlimited99/299.ts
+https://link.zozotv.xyz:443/live/Freemium4/unlimited99/299
+
+
+#EXTINF:-1 group-title="Movie", HBO
+https://link.zozotv.xyz:443/live/Freemium4/unlimited99/96
+
+
+
 
 
 #################### VOD #####################
