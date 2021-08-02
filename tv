@@ -36,8 +36,8 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil", MK Six (BACKUP)
-https://idvd.multitvsolution.com/idvo/mksix.m3u8
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
+https://idvd.multitvsolution.com/idvo/mksix.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" ,MK Tunes
@@ -52,13 +52,6 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil",MK TV (backup)
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
-
-
-#EXTINF:-1 group-title="Tamil", MAX TV
-http://tamiltvlive.herokuapp.com/http://139.99.41.37:1935/dream/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Tamil", MAX TV (backup)
-http://139.99.41.37:1935/dream/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Yupp Thirai
@@ -96,10 +89,10 @@ https://suntvvodaf-live.s.llnwi.net/KTVHD/KTVHD.isml/manifest.mpd
 https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
 
 
-#EXTINF:-1 group-title="Tamil", KBO TAMIL
+#EXTINF:-1 group-title="Tamil", KBO 
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 
-#EXTINF:-1 group-title="Tamil", KBO TAMIL (BACKUP)
+#EXTINF:-1 group-title="Tamil", KBO (BACKUP)
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 
 
@@ -108,13 +101,6 @@ https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27
 
 #EXTINF:-1 group-title="Tamil", 3 TAMIL (backup)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-
-#EXTINF:-1 group-title="Tamil" ,Aathavan HD
-http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1302877558.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,Aathavan HD (backup)
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" ,ACN Cinema
@@ -134,10 +120,6 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=sirippoli-tv&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
-
-
-#EXTINF:-1 group-title="Tamil" ,ZEE TAMIL
-http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" ,ZEE THIRAI
@@ -198,40 +180,40 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 
 
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports 01 HD
+#EXTINF:-1 group-title="SPORT" , Special Event Sports 01 HD
 https://link.zozotv.xyz:443/Freemium4/unlimited99/318
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports 02 HD 
+#EXTINF:-1 group-title="SPORT" , Special Event Sports 02 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/319
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports 03 HD 
+#EXTINF:-1 group-title="SPORT" , Special Event Sports 03 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/320
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports 04 HD 
+#EXTINF:-1 group-title="SPORT" , Special Event Sports 04 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/321
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports 05 HD 
+#EXTINF:-1 group-title="SPORT" , Special Event Sports 05 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/322
 
-#EXTINF:-1 group-title="SPORT"  ,Special Event Sports 06 HD 
+#EXTINF:-1 group-title="SPORT"  , Special Event Sports 06 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/323
 
-#EXTINF:-1 group-title="SPORT"  ,Special Event Sports 07 HD 
+#EXTINF:-1 group-title="SPORT"  , Special Event Sports 07 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/324
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports 08 HD 
+#EXTINF:-1 group-title="SPORT" , Special Event Sports 08 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/325
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports 09 HD 
+#EXTINF:-1 group-title="SPORT" , Special Event Sports 09 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/326
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports 10 HD 
+#EXTINF:-1 group-title="SPORT" , Special Event Sports 10 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/327
 
-#EXTINF:-1 group-title="SPORT"   ,Special Event Sports 11 HD 
+#EXTINF:-1 group-title="SPORT"  , Special Event Sports 11 HD 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/336
 
-#EXTINF:-1 group-title="SPORT" ,Special Event Sports HD 12
+#EXTINF:-1 group-title="SPORT" , Special Event Sports HD 12
 https://link.zozotv.xyz:443/Freemium4/unlimited99/337
 
 
