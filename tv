@@ -13,7 +13,10 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 #EXTINF:-1 group-title="Tamil", Astro Vinmeen HD (backup)
 https://link.zozotv.xyz:443/Freemium4/unlimited99/57
 #EXTINF:-1 group-title="Tamil", Astro Vinmeen HD (backup 2)
-http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74883.ts
+
+
+#EXTINF:-1 group-title="Tamil", ABO Astro Thangathirai
+http://line.megacdn.live:80/2A7648CB/BnrXm5vZKH/191838?play_token=axMEfJ34wt
 
 
 #EXTINF:-1 group-title="Tamil" , Astro Vaanavil HD
