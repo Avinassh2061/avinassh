@@ -144,7 +144,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 
 
 #EXTINF:-1  group-title="Tamil", TATA SKY TAMIL CINEMA
-http://pn.tvott.info:80/live/307271135111/307271135111/83946.m3u8
+http://pn.tvott.info:80/307271135111/307271135111/83946
 
 
 
@@ -154,7 +154,7 @@ http://pn.tvott.info:80/live/307271135111/307271135111/83946.m3u8
 
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
-https://link.zozotv.xyz:443/live/Freemium4/unlimited99/154.ts
+https://link.zozotv.xyz:443/Freemium4/unlimited99/154
 
 
 #EXTINF:-1 group-title="SPORT" , Astro Supersport HD
@@ -248,15 +248,15 @@ https://astro3.rastream.com/raaga
 
 
 #EXTINF:-1 group-title="Movie", Sony Pix
-https://link.zozotv.xyz:443/live/Freemium4/unlimited99/298.ts
+https://link.zozotv.xyz:443/Freemium4/unlimited99/298
 
 
 #EXTINF:-1 group-title="Movie", Star Movies
-https://link.zozotv.xyz:443/live/Freemium4/unlimited99/299.ts
+https://link.zozotv.xyz:443/Freemium4/unlimited99/299
 
 
-#EXTINF:-1 group-title="Movie", HBO
-https://link.zozotv.xyz:443/live/Freemium4/unlimited99/96.ts
+#EXTINF:-1 group-title="Movie", HBO HD
+https://link.zozotv.xyz:443/Freemium4/unlimited99/96
 
 
 
