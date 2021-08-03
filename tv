@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 
 
 ##########  TAMIL ##########
@@ -12,11 +12,6 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 #EXTINF:-1 group-title="Tamil", Astro Vinmeen HD (backup)
 https://link.zozotv.xyz:443/Freemium4/unlimited99/57
-#EXTINF:-1 group-title="Tamil", Astro Vinmeen HD (backup 2)
-
-
-#EXTINF:-1 group-title="Tamil", ABO Astro Thangathirai
-http://line.megacdn.live:80/2A7648CB/BnrXm5vZKH/191838?play_token=axMEfJ34wt
 
 
 #EXTINF:-1 group-title="Tamil" , Astro Vaanavil HD
@@ -86,7 +81,7 @@ http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", KTV HD
-https://suntvvodaf-live.s.llnwi.net/KTVHD/KTVHD.isml/manifest.mpd
+http://watchindia.net:8880/live/33253/72963/845.m3u8
 
 #EXTINF:-1 group-title="Tamil", KTV (backup)
 https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
@@ -106,10 +101,6 @@ https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 
-#EXTINF:-1 group-title="Tamil" ,ACN Cinema
-http://ammacable.com:1935/acn/acncinema/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Tamil" ,KalaignarTV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
 
@@ -120,17 +111,29 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=kalaignar-tv&e=.m3u8
 #EXTINF:-1 group-title="Tamil" ,Sirippoli TV
 https://mhdtvapp.xyz/yupp/yupp.php?c=sirippoli-tv&e=.m3u8
 
+#EXTINF:-1 group-title="Tamil" ,Sirippoli TV (backup)
+http://watchindia.net:8880/live/33253/72963/2084.m3u8
+
 
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 
+#EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV (backup)
+http://watchindia.net:8880/live/33253/72963/2149.m3u8
+
 
 #EXTINF:-1 group-title="Tamil" ,ZEE THIRAI
 http://rv.bleutv.net:80/live/477816014111154/477816014111154/83914.m3u8
- 
+
+#EXTINF:-1 group-title="Tamil" ,ZEE THIRAI (backup)
+http://watchindia.net:8880/live/33253/72963/2142.m3u8
+
 
 #EXTINF:-1 group-title="Tamil" , VIJAY SUPER
 http://watchindia.net:8880/live/60275/20486/2190.m3u8
+
+#EXTINF:-1 group-title="Tamil" , VIJAY SUPER (backup)
+http://watchindia.net:8880/live/33253/72963/2190.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", Polimer TV
@@ -183,42 +186,41 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 
 
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports 01 HD
+#EXTINF:-1 group-title="SPORT" , ASSP 785
 https://link.zozotv.xyz:443/Freemium4/unlimited99/318
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports 02 HD 
+#EXTINF:-1 group-title="SPORT" , ASSP 786
 https://link.zozotv.xyz:443/Freemium4/unlimited99/319
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports 03 HD 
+#EXTINF:-1 group-title="SPORT" , ASSP 787
 https://link.zozotv.xyz:443/Freemium4/unlimited99/320
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports 04 HD 
+#EXTINF:-1 group-title="SPORT" , ASSP 788
 https://link.zozotv.xyz:443/Freemium4/unlimited99/321
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports 05 HD 
+#EXTINF:-1 group-title="SPORT" , ASSP 789
 https://link.zozotv.xyz:443/Freemium4/unlimited99/322
 
-#EXTINF:-1 group-title="SPORT"  , Special Event Sports 06 HD 
+#EXTINF:-1 group-title="SPORT"  , ASSP 790
 https://link.zozotv.xyz:443/Freemium4/unlimited99/323
 
-#EXTINF:-1 group-title="SPORT"  , Special Event Sports 07 HD 
+#EXTINF:-1 group-title="SPORT"  ,ASSP 791
 https://link.zozotv.xyz:443/Freemium4/unlimited99/324
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports 08 HD 
+#EXTINF:-1 group-title="SPORT" , ASSP 792
 https://link.zozotv.xyz:443/Freemium4/unlimited99/325
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports 09 HD 
+#EXTINF:-1 group-title="SPORT" , ASSP 793
 https://link.zozotv.xyz:443/Freemium4/unlimited99/326
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports 10 HD 
+#EXTINF:-1 group-title="SPORT" , ASSP 794
 https://link.zozotv.xyz:443/Freemium4/unlimited99/327
 
-#EXTINF:-1 group-title="SPORT"  , Special Event Sports 11 HD 
+#EXTINF:-1 group-title="SPORT"  , ASSP 795
 https://link.zozotv.xyz:443/Freemium4/unlimited99/336
 
-#EXTINF:-1 group-title="SPORT" , Special Event Sports HD 12
+#EXTINF:-1 group-title="SPORT" , ASSP 796
 https://link.zozotv.xyz:443/Freemium4/unlimited99/337
-
 
 
 
