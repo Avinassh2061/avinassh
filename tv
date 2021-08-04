@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg
+#EXTM3U x-url-tvg="https://weareblahs.github.io/epg/astro.xml" ,tvg-url="https://weareblahs.github.io/epg/astro.xml
 
 
 
@@ -9,13 +9,6 @@
 
 
 
-#EXTINF:-1 group-title="tamil" ,Yupp Thirai HD
-
-http://1.9.58.102/PLTV/88888888/224/3221227762/3221227762.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
 
 
 #EXTINF:-1 group-title="Tamil", Astro Vellithirai
@@ -129,53 +122,53 @@ http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 
 
-#EXTINF:-1  group-title="Tamil", TATA SKY TAMIL CINEMA
+#EXTINF:-1  group-title="Tamil" , TATA SKY TAMIL CINEMA
 http://pn.tvott.info:80/307271135111/307271135111/83946
 
 
-#EXTINF:-1,Adithya TV
+#EXTINF:-1 group-title="Tamil"  ,Adithya TV
 http://watchindia.net:8880/live/33253/72963/855.ts
 
 
-EXTINF:-1,Star Vijay HD (in)
+EXTINF:-1 group-title="Tamil"   ,Star Vijay HD (in)
 http://watchindia.net:8880/live/33253/72963/846.ts
 http://watchindia.net:8880/live/33253/72963/2140.ts
 
 
-#EXTINF:-1,Sun TV HD
+#EXTINF:-1  group-title="Tamil"  ,Sun TV HD
 http://watchindia.net:8880/live/33253/72963/843.ts
 
 
-#EXTINF:-1,Sun Music HD
+#EXTINF:-1 group-title="Tamil"  ,Sun Music HD
 http://watchindia.net:8880/live/33253/72963/844.ts
 
 
-#EXTINF:-1,Jaya Max
+#EXTINF:-1  group-title="Tamil"  ,Jaya Max
 http://watchindia.net:8880/live/33253/72963/852.ts
 
 
-#EXTINF:-1,Jaya Movie
+#EXTINF:-1 group-title="Tamil"  ,Jaya Movie
 http://watchindia.net:8880/live/33253/72963/849.ts
 
 
-#EXTINF:-1,Jaya TV HD
+#EXTINF:-1 group-title="Tamil"  ,Jaya TV HD
 http://watchindia.net:8880/live/33253/72963/851.ts
 http://watchindia.net:8880/live/33253/72963/964.ts
 
 
-#EXTINF:-1,Peppers
+#EXTINF:-1  group-title="Tamil"   ,Peppers
 http://watchindia.net:8880/live/33253/72963/870.ts
 
 
-#EXTINF:-1,Raj Digital Plus
+#EXTINF:-1  group-title="Tamil"   ,Raj Digital Plus
 http://watchindia.net:8880/live/33253/72963/857.ts
 
 
-#EXTINF:-1,Raj Musix Tamil
+#EXTINF:-1  group-title="Tamil"   ,Raj Musix Tamil
 http://watchindia.net:8880/live/33253/72963/861.ts
 
 
-#EXTINF:-1,Raj TV
+#EXTINF:-1 group-title="Tamil"   ,Raj TV
 http://watchindia.net:8880/live/33253/72963/854.ts
 
 
@@ -194,25 +187,23 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport HD
-http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23453
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23453
 
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 2 HD
-http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23452
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-
+http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23452
 
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 3 HD
-http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451
 
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
-http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-
+http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 
 
 
@@ -227,34 +218,49 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",1
 http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",2
 http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",3
 http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",3
 http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",4
 http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",5
 http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",6
 http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",7
 http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",8
 http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",9
 http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",10
 http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",11
 http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",12
 http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",13
 http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",14
 http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+
 #EXTINF:-1 group-title="OLIMPIC",15
 http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 
@@ -262,50 +268,6 @@ http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 
 
 
-
-########################### BEIN ########################
-
-
-
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 1
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 1
-http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 2
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 3
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 4
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 4 SD
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 5
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 5 SD
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports 6
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports MAX 4
-http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports MAX 5
-http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports MAX 6
-http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN",beIN Sports MAX 7
-http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
 
 
 
