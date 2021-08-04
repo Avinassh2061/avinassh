@@ -20,7 +20,8 @@
 
 
 #EXTINF:-1 group-title="Tamil", Astro Vaanavil HD
-#https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
+#https://garuda-cdn.xyz/live/60c355026a422/12345/60b12369e45e1/60b12369e45e1.ts
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
 
 #EXTINF:-1  group-title="Tamil" , Star Vijay HD
@@ -55,6 +56,7 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 #http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 http://istreamiptv.gq/vdn/thirai/auth.php
+https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.ts
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi TV
@@ -62,19 +64,23 @@ http://istreamiptv.gq/vdn/thirai/auth.php
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Tamil
-#http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#https://garuda-cdn.xyz/live/60c355026a422/12345/608d14740adbc/608d14740adbc.ts
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Movies
-#http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#https://garuda-cdn.xyz/live/60c355026a422/12345/608d142b6dcdf/608d142b6dcdf.ts
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Hollywood
-#http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+#https://garuda-cdn.xyz/live/60c355026a422/12345/608d14509f57f/608d14509f57f.ts
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", Rasi Music
-#http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+#https://garuda-cdn.xyz/live/60c355026a422/12345/608d14b693f4b/608d14b693f4b.ts
+http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", KTV HD
@@ -108,7 +114,8 @@ http://watchindia.net:8880/live/33253/72963/2149.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" ,ZEE THIRAI
-#http://watchindia.net:8880/live/33253/72963/2142.m3u8
+#https://garuda-cdn.xyz/live/60c355026a422/12345/6079438879c23/6079438879c23.ts
+http://watchindia.net:8880/live/33253/72963/2142.m3u8
 http://rv.bleutv.net:80/live/477816014111154/477816014111154/83914.m3u8
 
 
@@ -171,6 +178,9 @@ http://watchindia.net:8880/live/33253/72963/964.ts
 #EXTINF:-1 group-title="Tamil"   ,Raj TV
 #http://watchindia.net:8880/live/33253/72963/854.ts
 
+
+#EXTINF:-1 group-title="Tamil"   , Star Vijay Music
+#https://garuda-cdn.xyz/live/60c355026a422/12345/60c3906b2791d/60c3906b2791d.ts
 
 
 
@@ -307,47 +317,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 #EXTINF:-1, group-title="News", TV2 HD
 #http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-
-
-
-
-################### SONY LIV ##################
-
-
-
-
-#EXTINF: -1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SonyLiv",Sony PIX HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-
-#EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLiv",SONY TEN1 HD
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-
-#EXTINF: -1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="SonyLiv",Sony Ten 1 SD
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-
-#EXTINF: -1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SonyLiv",SONY TEN 2 HD
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-
-#EXTINF: -1 tvg-id="523" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SonyLiv",Sony Ten 2 SD
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SonyLiv",SONY TEN 3 HD
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-
-#EXTINF: -1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SonyLiv",Sony Ten 3 SD
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 SD
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-
-#EXTINF: -1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SonyLiv",Sony SIX HD
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-
-#EXTINF: -1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SonyLiv",Sony Six SD
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 
 
