@@ -301,8 +301,12 @@ https://astro3.rastream.com/raaga
 
 
 
+################# News #############
 
 
+
+#EXTINF:-1, group-title="News", TV2 HD
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #################### VOD #####################
 
