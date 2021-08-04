@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8|User-Agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 #EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
@@ -104,26 +104,6 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 1
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885147
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 2
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885148
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 3
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885149
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 4
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885150
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 5
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885151
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 6
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885152
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 7
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885153
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 8
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885154
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 9
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885155
-#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 10
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885156
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
