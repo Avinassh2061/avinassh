@@ -1,14 +1,6 @@
-#EXTM3U  url-tvg="https://kodi.botallen.com/tv/epg.xml"
+#EXTM3U 
 
-
-
-
-
-
-###############################  TAMIL   ############################## 
-
-
-
+#EXTINF:-1,###############################  TAMIL   ############################## 
 
 
 #EXTINF:-1 group-title="Tamil", Astro Vellithirai
@@ -64,23 +56,19 @@ https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.ts
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Tamil
-#https://garuda-cdn.xyz/live/60c355026a422/12345/608d14740adbc/608d14740adbc.ts
-http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Movies
-#https://garuda-cdn.xyz/live/60c355026a422/12345/608d142b6dcdf/608d142b6dcdf.ts
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" , Rasi Hollywood
-#https://garuda-cdn.xyz/live/60c355026a422/12345/608d14509f57f/608d14509f57f.ts
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+#http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", Rasi Music
-#https://garuda-cdn.xyz/live/60c355026a422/12345/608d14b693f4b/608d14b693f4b.ts
-http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+#http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil", KTV HD
@@ -188,7 +176,7 @@ http://watchindia.net:8880/live/33253/72963/964.ts
 
 
 
-############### SPORT ################
+#EXTINF:-1 ,############### SPORT ################
 
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
@@ -220,7 +208,7 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 
 
 
-####################### OLIMPIC #######################
+#EXTINF:-1,####################### OLIMPIC #######################
 
 
 
@@ -297,7 +285,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 
 
-############### RADIO ##################
+#EXTINF:-1,############### RADIO ##################
 
 
 #EXTINF:-1, group-title="RADIO", MINNAL FM
@@ -311,7 +299,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 
 
-################# News #############
+#EXTINF:-1,################# News #############
 
 
 
@@ -323,7 +311,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 
 
-#################### VOD #####################
+#EXTINF:-1,#################### VOD #####################
 
 
 
