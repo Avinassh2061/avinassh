@@ -1,157 +1,156 @@
 #EXTM3U
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
-#http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
-#http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
-#https://garuda-cdn.xyz/live/60c355026a422/12345/60b12369e45e1/60b12369e45e1.ts
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1  group-title="Tamil" ,Star Vijay HD
-#http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-#http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,SUN TV
-#http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK Six
-#http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
 https://idvd.multitvsolution.com/idvo/mksix.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK Tunes
-#http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(01)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK TV
-#http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Yupp Thirai
-#http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
+http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 http://istreamiptv.gq/vdn/thirai/auth.php
 https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.ts
 
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
-#http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Tamil
-#http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Movies
-#http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Hollywood
-#http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Music
-#http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KTV HD
-#http://watchindia.net:8880/live/33253/72963/845.m3u8
+http://watchindia.net:8880/live/33253/72963/845.m3u8
 https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KBO 
-#https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,3 Tamil TV
-#https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KalaignarTV
-#http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
 https://mhdtvapp.xyz/yupp/yupp.php?c=kalaignar-tv&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Sirippoli TV
-#https://mhdtvapp.xyz/yupp/yupp.php?c=sirippoli-tv&e=.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=sirippoli-tv&e=.m3u8
 http://watchindia.net:8880/live/33253/72963/2084.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
-#http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 http://watchindia.net:8880/live/33253/72963/2149.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,ZEE THIRAI
-#https://garuda-cdn.xyz/live/60c355026a422/12345/6079438879c23/6079438879c23.ts
+https://garuda-cdn.xyz/live/60c355026a422/12345/6079438879c23/6079438879c23.ts
 http://watchindia.net:8880/live/33253/72963/2142.m3u8
 http://rv.bleutv.net:80/live/477816014111154/477816014111154/83914.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,VIJAY SUPER
-#http://watchindia.net:8880/live/60275/20486/2190.m3u8
+http://watchindia.net:8880/live/60275/20486/2190.m3u8
 http://watchindia.net:8880/live/33253/72963/2190.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Polimer TV
-#http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,TATA SKY TAMIL CINEMA
-#http://pn.tvott.info:80/307271135111/307271135111/83946
+http://pn.tvott.info:80/307271135111/307271135111/83946
 
 #EXTINF:-1 group-title="Tamil" ,Adithya TV
-#http://watchindia.net:8880/live/33253/72963/855
+http://watchindia.net:8880/live/33253/72963/855
 
 EXTINF:-1 group-title="Tamil" ,Star Vijay HD (in)
-#http://watchindia.net:8880/live/33253/72963/846.ts
+http://watchindia.net:8880/live/33253/72963/846.ts
 http://watchindia.net:8880/live/33253/72963/2140.ts
 
 #EXTINF:-1 group-title="Tamil" ,Sun TV HD
-#http://watchindia.net:8880/live/33253/72963/843.ts
+http://watchindia.net:8880/live/33253/72963/843.ts
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-#http://watchindia.net:8880/live/33253/72963/844.ts
+http://watchindia.net:8880/live/33253/72963/844.ts
 
 #EXTINF:-1 group-title="Tamil" ,Jaya Max
-#http://watchindia.net:8880/live/33253/72963/852.ts
+http://watchindia.net:8880/live/33253/72963/852.ts
 
 #EXTINF:-1 group-title="Tamil" ,Jaya Movie
-#http://watchindia.net:8880/live/33253/72963/849.ts
+http://watchindia.net:8880/live/33253/72963/849.ts
 
 #EXTINF:-1 group-title="Tamil" ,Jaya TV HD
-#http://watchindia.net:8880/live/33253/72963/851.ts
+http://watchindia.net:8880/live/33253/72963/851.ts
 http://watchindia.net:8880/live/33253/72963/964.ts
 
 #EXTINF:-1 group-title="Tamil" ,Peppers
-#http://watchindia.net:8880/live/33253/72963/870.ts
+http://watchindia.net:8880/live/33253/72963/870.ts
 
 #EXTINF:-1  group-title="Tamil" ,Raj Digital Plus
-#http://watchindia.net:8880/live/33253/72963/857.ts
+http://watchindia.net:8880/live/33253/72963/857.ts
 
 #EXTINF:-1 group-title="Tamil" ,Raj Musix Tamil
-#http://watchindia.net:8880/live/33253/72963/861.ts
+http://watchindia.net:8880/live/33253/72963/861.ts
 
 #EXTINF:-1 group-title="Tamil" ,Raj TV
-#http://watchindia.net:8880/live/33253/72963/854.ts
+http://watchindia.net:8880/live/33253/72963/854.ts
 
 #EXTINF:-1 group-title="Tamil" ,Star Vijay Music
-#https://garuda-cdn.xyz/live/60c355026a422/12345/60c3906b2791d/60c3906b2791d.ts
+https://garuda-cdn.xyz/live/60c355026a422/12345/60c3906b2791d/60c3906b2791d.ts
 
 
            SPORT
 
 #EXTM3U
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
-#http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport HD
-#http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23453
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 2 HD
-#http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23452
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 3 HD
-#http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
-#http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 
 
@@ -159,59 +158,59 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 
 #EXTM3U
 #EXTINF:-1 group-title="OLIMPIC",1
-#http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",2
-#http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",3
-#http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",3
-#http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",4
-#http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",5
-#http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",6
-#http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",7
-#http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",8
-#http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",9
-#http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",10
-#http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",11
-#http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",12
-#http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",13
-#http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",14
-#http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",15
-#http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 
 
                Movie
 
 #EXTM3U
 #EXTINF:-1 group-title="Movie" , HBO HD
-#http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
@@ -222,13 +221,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 #EXTM3U
 #EXTINF:-1, group-title="RADIO", MINNAL FM
-#https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 
 #EXTINF:-1, group-title="RADIO", OSAI
-#https://astro4.rastream.com/osai
+https://astro4.rastream.com/osai
 
 #EXTINF:-1, group-title="RADIO", THR RAAGA
-#https://astro3.rastream.com/raaga
+https://astro3.rastream.com/raaga
 
 
                  News 
@@ -236,7 +235,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 #EXTM3U
 #EXTINF:-1, group-title="News", TV2 HD
-#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 
                   VOD 
