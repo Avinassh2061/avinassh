@@ -89,9 +89,6 @@ http://watchindia.net:8880/live/33253/72963/861.ts
 http://watchindia.net:8880/live/33253/72963/854.ts
 #EXTINF:-1 group-title="Tamil" ,Adithya
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884939
-
-           SPORT
-#EXTM3U
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -107,55 +104,40 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
-
-            OLIMPIC
-#EXTM3U
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 1
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 1
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885147
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 2
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 2
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885148
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 3
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 3
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885149
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 4
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 4
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885150
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 5
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 5
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885151
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 6
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 6
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885152
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 7
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 7
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885153
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 8
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 8
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885154
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 9
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 9
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885155
-#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 10
+#EXTINF:-1 group-title="OLIMPIADE 2021", ASTRO 10
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885156
-   
-          Movie
-#EXTM3U
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
-
-               RADIO 
-#EXTM3U
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 #EXTINF:-1, group-title="RADIO" ,OSAI
 https://astro4.rastream.com/osai
 #EXTINF:-1, group-title="RADIO" ,THR RAAGA
 https://astro3.rastream.com/raaga
-
-                 News 
-#EXTM3U
 #EXTINF:-1, group-title="News", TV2 HD
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-
-                  VOD 
-#EXTM3U
-#EXTINF:-1 group-title="VOD", Thittam Irandu (2021)
+#EXTINF:-1,Thittam Irandu (2021)
 http://s27.uptofiles.net/share/Thittam_Irandu_2021_HD.mp4
 
 
