@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1,          TAMIL 
+          TAMIL 
 
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
@@ -135,7 +135,7 @@ http://watchindia.net:8880/live/33253/72963/964.ts
 #https://garuda-cdn.xyz/live/60c355026a422/12345/60c3906b2791d/60c3906b2791d.ts
 
 
-#EXTINF:-1 ,           SPORT
+           SPORT
 
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
@@ -211,7 +211,7 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 #http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 
 
-#EXTINF:-1,               Movie
+               Movie
 
 
 #EXTINF:-1 group-title="Movie" , HBO HD
@@ -221,7 +221,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 
-#EXTINF:-1,                 RADIO 
+               RADIO 
 
 
 #EXTINF:-1, group-title="RADIO", MINNAL FM
@@ -234,14 +234,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #https://astro3.rastream.com/raaga
 
 
-#EXTINF:-1,                  News 
+                 News 
 
 
 #EXTINF:-1, group-title="News", TV2 HD
 #http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 
-#EXTINF:-1,                   VOD 
+                  VOD 
 
 
 #EXTINF:-1 group-title="VOD", Thittam Irandu (2021)
