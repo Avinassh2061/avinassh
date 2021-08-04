@@ -91,10 +91,8 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 #EXTINF:-1 group-title="Tamil" ,TATA SKY TAMIL CINEMA
 http://pn.tvott.info:80/307271135111/307271135111/83946
 
-#EXTINF:-1 group-title="Tamil" ,Adithya TV
+EXTINF:-1 group-title="Tamil" ,Star Vijay HD-(IN)
 http://watchindia.net:8880/live/33253/72963/855
-
-EXTINF:-1 group-title="Tamil" ,Star Vijay HD (in)
 http://watchindia.net:8880/live/33253/72963/846.ts
 http://watchindia.net:8880/live/33253/72963/2140.ts
 
@@ -111,8 +109,8 @@ http://watchindia.net:8880/live/33253/72963/852.ts
 http://watchindia.net:8880/live/33253/72963/849.ts
 
 #EXTINF:-1 group-title="Tamil" ,Jaya TV HD
-http://watchindia.net:8880/live/33253/72963/851.ts
 http://watchindia.net:8880/live/33253/72963/964.ts
+http://watchindia.net:8880/live/33253/72963/851.ts
 
 #EXTINF:-1 group-title="Tamil" ,Peppers
 http://watchindia.net:8880/live/33253/72963/870.ts
