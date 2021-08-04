@@ -87,8 +87,8 @@ http://watchindia.net:8880/live/33253/72963/857.ts
 http://watchindia.net:8880/live/33253/72963/861.ts
 #EXTINF:-1 group-title="Tamil" ,Raj TV
 http://watchindia.net:8880/live/33253/72963/854.ts
-#EXTINF:-1 group-title="Tamil" ,Vijay Music
-https://garuda-cdn.xyz/live/60c355026a422/12345/60c3906b2791d/60c3906b2791d.ts
+#EXTINF:-1 group-title="Tamil" ,Adithya
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884939
 
            SPORT
 #EXTM3U
@@ -110,40 +110,28 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 
             OLIMPIC
 #EXTM3U
-#EXTINF:-1 group-title="OLIMPIC",1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",3
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",4
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",5
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",6
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",7
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",8
-http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",9
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",10
-http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",11
-http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",12
-http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",13
-http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",14
-http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",15
-http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
-
-             Movie
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 1
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885147
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 2
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885148
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 3
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885149
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 4
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885150
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 5
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885151
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 6
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885152
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 7
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885153
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 8
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885154
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 9
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885155
+#EXTINF: -1 group-title="OLIMPIADE 2021", ASTRO 10
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885156
+   
+          Movie
 #EXTM3U
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
