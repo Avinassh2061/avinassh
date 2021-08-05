@@ -92,6 +92,7 @@ http://watchindia.net:8880/live/33253/72963/857.m3u8
 http://watchindia.net:8880/live/33253/72963/861.m3u8
 #EXTINF:-1 group-title="Tamil" ,Raj TV
 http://watchindia.net:8880/live/33253/72963/854.m3u8
+
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -107,19 +108,56 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
+
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+http://tvplaymundo.com/live/test0/test0/10960.m3u8
+#EXTINF:-1 group-title="Movie" , SYFY FHD
+http://tvplaymundo.com/live/test0/test0/4866.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 01 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4746.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 02 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4745.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 03 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4744.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 04 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4743.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 05 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4742.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 06 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4741.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 07 PPV
+http://tvplaymundo.com:80/live/test0/test0/4740.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 08 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4739.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 09 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4738.m3u8
+#EXTINF:-1 group-title="Movie" ,CINEMA 10 PPV 
+http://tvplaymundo.com:80/live/test0/test0/4737.m3u8
+#EXTINF:-1 group-title="Movie" ,HBO FHD 
+http://tvplaymundo.com:80/live/test0/test0/10960.m3u8
+#EXTINF:-1 group-title="Movie" ,HBO 2 FHD 
+http://tvplaymundo.com:80/live/test0/test0/4940.m3u8
+#EXTINF:-1 group-title="Movie" ,HBO + FHD 
+http://tvplaymundo.com:80/live/test0/test0/4935.m3u8
+#EXTINF:-1 group-title="Movie" ,HBO XTREME FHD 
+http://tvplaymundo.com:80/live/test0/test0/4908.m3u8
+#EXTINF:-1 group-title="Movie" ,WARNER TV FHD 
+http://tvplaymundo.com:80/live/test0/test0/4826.m3u8
+
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 #EXTINF:-1, group-title="RADIO" ,OSAI
 https://astro4.rastream.com/osai
 #EXTINF:-1, group-title="RADIO" ,THR RAAGA
 https://astro3.rastream.com/raaga
+
 #EXTINF:-1, group-title="News", TV2 HD
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
 #EXTINF:-1 group-title="VOD" ,Thittam Irandu (2021)
 http://s27.uptofiles.net/share/Thittam_Irandu_2021_HD.mp4
 
