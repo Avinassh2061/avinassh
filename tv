@@ -59,8 +59,8 @@ http://watchindia.net:8880/live/33253/72963/2084.m3u8
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 http://watchindia.net:8880/live/33253/72963/2149.m3u8
-#EXTINF:-1 group-title="Tamil" ,ZEE THIRAI
-
+#EXTINF:-1 group-title="Tamil" ,Japan Tamil
+http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil" ,VIJAY SUPER
 http://watchindia.net:8880/live/60275/20486/2190.m3u8
 http://watchindia.net:8880/live/33253/72963/2190.m3u8
@@ -70,7 +70,6 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 #EXTINF:-1 group-title="Tamil" ,TATA SKY TAMIL CINEMA
 http://pn.tvott.info:80/307271135111/307271135111/83946
 EXTINF:-1 group-title="Tamil" ,Star Vijay HD-(IN)
-http://watchindia.net:8880/live/33253/72963/855
 http://watchindia.net:8880/live/33253/72963/846.m3u8
 http://watchindia.net:8880/live/33253/72963/2140.m3u8
 #EXTINF:-1 group-title="Tamil" ,Sun TV HD
@@ -143,8 +142,6 @@ http://tvplaymundo.com:80/live/test0/test0/4737.m3u8
 http://tvplaymundo.com:80/live/test0/test0/10960.m3u8
 #EXTINF:-1 group-title="Movie" ,HBO 2 FHD 
 http://tvplaymundo.com:80/live/test0/test0/4940.m3u8
-#EXTINF:-1 group-title="Movie" ,HBO + FHD 
-http://tvplaymundo.com:80/live/test0/test0/4935.m3u8
 #EXTINF:-1 group-title="Movie" ,HBO XTREME FHD 
 http://tvplaymundo.com:80/live/test0/test0/4908.m3u8
 #EXTINF:-1 group-title="Movie" ,WARNER TV FHD 
@@ -157,7 +154,7 @@ https://astro4.rastream.com/osai
 #EXTINF:-1, group-title="RADIO" ,THR RAAGA
 https://astro3.rastream.com/raaga
 
-#EXTINF:-1, group-title="News", TV2 HD
+#EXTINF:-1, group-title="News", TV2 
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 group-title="VOD" ,Thittam Irandu (2021)
