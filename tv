@@ -1,6 +1,7 @@
 #EXTM3U
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,stream
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8|User-Agent=VLC
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 #EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
