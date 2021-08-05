@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,stream
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,stream
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,stream
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 #EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,stream
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1  group-title="Tamil" ,Star Vijay HD
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,stream
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,stream
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
 #EXTINF:-1 group-title="Tamil" ,SUN TV
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,stream
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
 #EXTINF:-1 group-title="Tamil" ,MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
