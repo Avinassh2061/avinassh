@@ -91,6 +91,8 @@ http://watchindia.net:8880/live/33253/72963/857.m3u8
 http://watchindia.net:8880/live/33253/72963/861.m3u8
 #EXTINF:-1 group-title="Tamil" ,Raj TV
 http://watchindia.net:8880/live/33253/72963/854.m3u8
+#EXTINF:-1 group-title="Tamil" ,7s Music
+http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
@@ -109,6 +111,67 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 #EXTINF:-1 group-title="SPORT" ,ESPN
 http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:-1 group-title="OLIMPIC",1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",2
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",3
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",3
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",4
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",5
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",6
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",7
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",8
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",9
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",10
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",11
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",12
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",13
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",14
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",15
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/FQvpobn
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/eQvpTep
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/aQvsV56
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/mQva7rf
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/eQvswWX
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/aQvsV56
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/nQvstaV
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/lQvsphH
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/aQvsV56
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/GQvsdAz
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/KQvsh79
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/rQvsxxk
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/aQvsV56
+#EXTINF:-1 group-title="OLIMPIC",ASTRO
+https://cutt.ly/hQvsbhk
 
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
