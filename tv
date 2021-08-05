@@ -31,7 +31,7 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 http://istreamiptv.gq/vdn/thirai/auth.php
-https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.ts
+https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Tamil
@@ -43,7 +43,6 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,KTV HD
-http://watchindia.net:8880/live/33253/72963/845.m3u8
 https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
 #EXTINF:-1 group-title="Tamil" ,KBO 
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
@@ -61,7 +60,7 @@ http://watchindia.net:8880/live/33253/72963/2084.m3u8
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 http://watchindia.net:8880/live/33253/72963/2149.m3u8
 #EXTINF:-1 group-title="Tamil" ,ZEE THIRAI
-https://garuda-cdn.xyz/live/60c355026a422/12345/6079438879c23/6079438879c23.ts
+
 #EXTINF:-1 group-title="Tamil" ,VIJAY SUPER
 http://watchindia.net:8880/live/60275/20486/2190.m3u8
 http://watchindia.net:8880/live/33253/72963/2190.m3u8
@@ -72,29 +71,27 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 http://pn.tvott.info:80/307271135111/307271135111/83946
 EXTINF:-1 group-title="Tamil" ,Star Vijay HD-(IN)
 http://watchindia.net:8880/live/33253/72963/855
-http://watchindia.net:8880/live/33253/72963/846.ts
-http://watchindia.net:8880/live/33253/72963/2140.ts
+http://watchindia.net:8880/live/33253/72963/846.m3u8
+http://watchindia.net:8880/live/33253/72963/2140.m3u8
 #EXTINF:-1 group-title="Tamil" ,Sun TV HD
-http://watchindia.net:8880/live/33253/72963/843.ts
+http://watchindia.net:8880/live/33253/72963/843.m3u8
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-http://watchindia.net:8880/live/33253/72963/844.ts
+http://watchindia.net:8880/live/33253/72963/844.m3u8
 #EXTINF:-1 group-title="Tamil" ,Jaya Max
-http://watchindia.net:8880/live/33253/72963/852.ts
+http://watchindia.net:8880/live/33253/72963/852.m3u8
 #EXTINF:-1 group-title="Tamil" ,Jaya Movie
-http://watchindia.net:8880/live/33253/72963/849.ts
+http://watchindia.net:8880/live/33253/72963/849.m3u8
 #EXTINF:-1 group-title="Tamil" ,Jaya TV HD
-http://watchindia.net:8880/live/33253/72963/964.ts
-http://watchindia.net:8880/live/33253/72963/851.ts
+http://watchindia.net:8880/live/33253/72963/964.m3u8
+http://watchindia.net:8880/live/33253/72963/851.m3u8
 #EXTINF:-1 group-title="Tamil" ,Peppers
-http://watchindia.net:8880/live/33253/72963/870.ts
+http://watchindia.net:8880/live/33253/72963/870.m3u8
 #EXTINF:-1  group-title="Tamil" ,Raj Digital Plus
-http://watchindia.net:8880/live/33253/72963/857.ts
+http://watchindia.net:8880/live/33253/72963/857.m3u8
 #EXTINF:-1 group-title="Tamil" ,Raj Musix Tamil
-http://watchindia.net:8880/live/33253/72963/861.ts
+http://watchindia.net:8880/live/33253/72963/861.m3u8
 #EXTINF:-1 group-title="Tamil" ,Raj TV
-http://watchindia.net:8880/live/33253/72963/854.ts
-#EXTINF:-1 group-title="Tamil", Adithya
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884939.ts
+http://watchindia.net:8880/live/33253/72963/854.m3u8
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -123,7 +120,7 @@ https://astro4.rastream.com/osai
 https://astro3.rastream.com/raaga
 #EXTINF:-1, group-title="News", TV2 HD
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1,Thittam Irandu (2021)
+#EXTINF:-1 group-title="VOD" ,Thittam Irandu (2021)
 http://s27.uptofiles.net/share/Thittam_Irandu_2021_HD.mp4
 
 
