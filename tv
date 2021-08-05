@@ -178,8 +178,6 @@ http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 http://tvplaymundo.com/live/test0/test0/10960.m3u8
-#EXTINF:-1 group-title="Movie" , SYFY FHD
-http://tvplaymundo.com/live/test0/test0/4866.m3u8
 #EXTINF:-1 group-title="Movie" ,CINEMA 01 PPV 
 http://tvplaymundo.com:80/live/test0/test0/4746.m3u8
 #EXTINF:-1 group-title="Movie" ,CINEMA 02 PPV 
@@ -221,18 +219,4 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 group-title="VOD" ,Thittam Irandu (2021)
 http://s27.uptofiles.net/share/Thittam_Irandu_2021_HD.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&
-#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png" group-title="TEST",VASANTHAM
-https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
-
-#EXTINF:-1 group-title="TEST" ,Yupp Thirai HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
-http://1.9.58.102/PLTV/88888888/224/3221227762/3221227762.mpd
-
-
-
-
 
