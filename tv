@@ -103,6 +103,8 @@ http://watchindia.net:8880/live/33253/72963/854.m3u8
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,Zee Thirai
 http://pn.tvott.info/live/307271135111/307271135111/83914.m3u8
+#EXTINF:-1 group-title="Tamil" ,Vasantham
+http://23.237.61.18:61980/myplay/c_10005/index.m3u8?key=Zcp3nN3WTXPd_7bKk0CQBQ&expires=1619639535
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
@@ -168,6 +170,12 @@ http://62.210.124.228:8080/live/ali/ali/5447.ts
 http://62.210.124.228:8080/live/ali/ali/5448.ts
 #EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 7 
 http://62.210.124.228:8080/live/ali/ali/5449.ts
+#EXTINF:-1 group-title="SPORT" ,SSHD Premier League 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1399.ts
+#EXTINF:-1 group-title="SPORT" ,SUPERSPORTS Premier League 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/47633.ts
+#EXTINF:-1 group-title="SPORT" ,SUPERSPORTS La Lagia 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/47638.ts
 
 #EXTINF:-1 group-title="OLIMPIC",1
 http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
@@ -264,6 +272,21 @@ http://tvplaymundo.com:80/live/test0/test0/4940.m3u8
 http://tvplaymundo.com:80/live/test0/test0/4908.m3u8
 #EXTINF:-1 group-title="Movie" ,WARNER TV FHD 
 http://tvplaymundo.com:80/live/test0/test0/4826.m3u8
+#EXTINF:-1 group-title="Movie" ,Sky Cinema Thriller 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1150.ts
+#EXTINF:-1 group-title="Movie" ,Sky Cinema Premiere 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1200.ts
+#EXTINF:-1 group-title="Movie" ,Sky Cinema SciFi & Horror 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1334.ts
+#EXTINF:-1 group-title="Movie" ,Sky Cinema Action  
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1397.ts
+#EXTINF:-1 group-title="Movie" , Sky Cinema Greats 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1403.ts
+#EXTINF:-1 group-title="Movie" ,Sky Cinema Animation 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/12206.ts
+#EXTINF:-1 group-title="Movie" ,Sky Cinema Drama 
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1404.ts
+
 
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
