@@ -33,17 +33,22 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 http://istreamiptv.gq/vdn/thirai/auth.php
 https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Tamil
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" Rasi Tamil
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Movies
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" Rasi Movies
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Hollywood
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" Rasi Hollywood
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Music
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,KTV HD
-https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/770222.m3u8
 #EXTINF:-1 group-title="Tamil" ,KBO 
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
@@ -62,13 +67,17 @@ http://watchindia.net:8880/live/33253/72963/2149.m3u8
 #EXTINF:-1 group-title="Tamil" ,Japan Tamil
 http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil" ,VIJAY SUPER
+http://maghum-ott.com/live/fahim9555/280A30559862/72129.ts
+http://pn.tvott.info/live/307271135111/307271135111/83944.ts
 http://watchindia.net:8880/live/60275/20486/2190.m3u8
-http://watchindia.net:8880/live/33253/72963/2190.m3u8
 #EXTINF:-1 group-title="Tamil" ,Polimer TV
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1123403.ts
 #EXTINF:-1 group-title="Tamil" ,TATA SKY TAMIL CINEMA
+http://maghum-ott.com/live/fahim9555/280A30559862/72126.ts
 http://pn.tvott.info:80/307271135111/307271135111/83946
 EXTINF:-1 group-title="Tamil" ,Star Vijay HD-(IN)
+http://maghum-ott.com/live/fahim9555/280A30559862/72120.ts
 http://watchindia.net:8880/live/33253/72963/846.m3u8
 http://watchindia.net:8880/live/33253/72963/2140.m3u8
 #EXTINF:-1 group-title="Tamil" ,Sun TV HD
@@ -80,7 +89,7 @@ http://watchindia.net:8880/live/33253/72963/852.m3u8
 #EXTINF:-1 group-title="Tamil" ,Jaya Movie
 http://watchindia.net:8880/live/33253/72963/849.m3u8
 #EXTINF:-1 group-title="Tamil" ,Jaya TV HD
-http://watchindia.net:8880/live/33253/72963/964.m3u8
+http://maghum-ott.com/live/fahim9555/280A30559862/72108.ts
 http://watchindia.net:8880/live/33253/72963/851.m3u8
 #EXTINF:-1 group-title="Tamil" ,Peppers
 http://watchindia.net:8880/live/33253/72963/870.m3u8
@@ -92,6 +101,8 @@ http://watchindia.net:8880/live/33253/72963/861.m3u8
 http://watchindia.net:8880/live/33253/72963/854.m3u8
 #EXTINF:-1 group-title="Tamil" ,7s Music
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Tamil" ,Zee Thirai
+http://pn.tvott.info/live/307271135111/307271135111/83914.m3u8
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
@@ -110,6 +121,75 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 #EXTINF:-1 group-title="SPORT" ,ESPN
 http://stream2.grandma.fit/fs2.m3u8
+
+BEIN SPORTS NEWS HD 
+http://62.210.124.228:8080/live/ali/ali/5427.ts
+
+BEIN SPORTS NEWS HD 
+http://62.210.124.228:8080/live/ali/ali/5428.ts
+
+BEIN SPORTS PREMIUM 1 HD 
+http://62.210.124.228:8080/live/ali/ali/5429.ts
+
+BEIN SPORTS 1 HD Local 
+http://62.210.124.228:8080/live/ali/ali/5430.ts
+
+BEIN SPORTS PREMIUM 2 HD 
+http://62.210.124.228:8080/live/ali/ali/5431.ts
+
+BEIN SPORTS 2 HD Local 
+http://62.210.124.228:8080/live/ali/ali/5432.ts
+
+BEIN SPORTS PREMIUM 3 HD Local 
+http://62.210.124.228:8080/live/ali/ali/5433.ts
+
+BEIN SPORTS 3 HD 
+http://62.210.124.228:8080/live/ali/ali/5434.ts
+
+BEIN SPORTS 4 HD Local 
+http://62.210.124.228:8080/live/ali/ali/5435.ts
+
+BEIN SPORTS 5 HD 
+http://62.210.124.228:8080/live/ali/ali/5436.ts
+
+BEIN SPORTS 6 HD LOCAL 
+http://62.210.124.228:8080/live/ali/ali/5437.ts
+
+BEIN SPORTS 7 HD LOCAL 
+http://62.210.124.228:8080/live/ali/ali/5438.ts
+
+beIN SporT Madrid HD
+http://62.210.124.228:8080/live/ali/ali/5439.ts
+
+BEIN SPORTS 1 Premium 
+http://62.210.124.228:8080/live/ali/ali/5440.ts
+
+BEIN SPORTS 1 HD 
+http://62.210.124.228:8080/live/ali/ali/5441.ts
+
+BEIN SPORTS 2 Premium 
+http://62.210.124.228:8080/live/ali/ali/5442.ts
+
+BEIN SPORTS 2 HD 
+http://62.210.124.228:8080/live/ali/ali/5443.ts
+
+BEIN SPORTS 3 Premium 
+http://62.210.124.228:8080/live/ali/ali/5444.ts
+
+BEIN SPORTS 3 HD 
+http://62.210.124.228:8080/live/ali/ali/5445.ts
+
+BEIN SPORTS 4 
+http://62.210.124.228:8080/live/ali/ali/5446.ts
+
+BEIN SPORTS 5 
+http://62.210.124.228:8080/live/ali/ali/5447.ts
+
+BEIN SPORTS 6 
+http://62.210.124.228:8080/live/ali/ali/5448.ts
+
+BEIN SPORTS 7 
+http://62.210.124.228:8080/live/ali/ali/5449.ts
 
 #EXTINF:-1 group-title="OLIMPIC",1
 http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
