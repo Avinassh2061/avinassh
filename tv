@@ -108,6 +108,7 @@ http://pn.tvott.info/live/307271135111/307271135111/83914.m3u8
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport HD
+http://194.233.68.128:5080/LiveApp/play.html?name=197624546060868296054470
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23453
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 2 HD
