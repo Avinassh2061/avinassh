@@ -121,74 +121,51 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 #EXTINF:-1 group-title="SPORT" ,ESPN
 http://stream2.grandma.fit/fs2.m3u8
-
-BEIN SPORTS NEWS HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS NEWS HD 
 http://62.210.124.228:8080/live/ali/ali/5427.ts
-
-BEIN SPORTS NEWS HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS NEWS HD 
 http://62.210.124.228:8080/live/ali/ali/5428.ts
-
-BEIN SPORTS PREMIUM 1 HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS PREMIUM 1 HD 
 http://62.210.124.228:8080/live/ali/ali/5429.ts
-
-BEIN SPORTS 1 HD Local 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 1 HD Local 
 http://62.210.124.228:8080/live/ali/ali/5430.ts
-
-BEIN SPORTS PREMIUM 2 HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS PREMIUM 2 HD 
 http://62.210.124.228:8080/live/ali/ali/5431.ts
-
-BEIN SPORTS 2 HD Local 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 2 HD Local 
 http://62.210.124.228:8080/live/ali/ali/5432.ts
-
-BEIN SPORTS PREMIUM 3 HD Local 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS PREMIUM 3 HD Local 
 http://62.210.124.228:8080/live/ali/ali/5433.ts
-
-BEIN SPORTS 3 HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 3 HD 
 http://62.210.124.228:8080/live/ali/ali/5434.ts
-
-BEIN SPORTS 4 HD Local 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 4 HD Local 
 http://62.210.124.228:8080/live/ali/ali/5435.ts
-
-BEIN SPORTS 5 HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 5 HD 
 http://62.210.124.228:8080/live/ali/ali/5436.ts
-
-BEIN SPORTS 6 HD LOCAL 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 6 HD LOCAL 
 http://62.210.124.228:8080/live/ali/ali/5437.ts
-
-BEIN SPORTS 7 HD LOCAL 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 7 HD LOCAL 
 http://62.210.124.228:8080/live/ali/ali/5438.ts
-
-beIN SporT Madrid HD
+#EXTINF:-1 group-title="SPORT" ,beIN SporT Madrid HD
 http://62.210.124.228:8080/live/ali/ali/5439.ts
-
-BEIN SPORTS 1 Premium 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 1 Premium 
 http://62.210.124.228:8080/live/ali/ali/5440.ts
-
-BEIN SPORTS 1 HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 1 HD 
 http://62.210.124.228:8080/live/ali/ali/5441.ts
-
-BEIN SPORTS 2 Premium 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 2 Premium 
 http://62.210.124.228:8080/live/ali/ali/5442.ts
-
-BEIN SPORTS 2 HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 2 HD 
 http://62.210.124.228:8080/live/ali/ali/5443.ts
-
-BEIN SPORTS 3 Premium 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 3 Premium 
 http://62.210.124.228:8080/live/ali/ali/5444.ts
-
-BEIN SPORTS 3 HD 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 3 HD 
 http://62.210.124.228:8080/live/ali/ali/5445.ts
-
-BEIN SPORTS 4 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 4 
 http://62.210.124.228:8080/live/ali/ali/5446.ts
-
-BEIN SPORTS 5 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 5 
 http://62.210.124.228:8080/live/ali/ali/5447.ts
-
-BEIN SPORTS 6 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 6 
 http://62.210.124.228:8080/live/ali/ali/5448.ts
-
-BEIN SPORTS 7 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 7 
 http://62.210.124.228:8080/live/ali/ali/5449.ts
 
 #EXTINF:-1 group-title="OLIMPIC",1
@@ -223,33 +200,33 @@ http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
 #EXTINF:-1 group-title="OLIMPIC",15
 http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 785
 https://cutt.ly/FQvpobn
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 786
 https://cutt.ly/eQvpTep
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 787
 https://cutt.ly/aQvsV56
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 788
 https://cutt.ly/mQva7rf
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 789
 https://cutt.ly/eQvswWX
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 790
 https://cutt.ly/aQvsV56
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 791
 https://cutt.ly/nQvstaV
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 792
 https://cutt.ly/lQvsphH
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 793
 https://cutt.ly/aQvsV56
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 794
 https://cutt.ly/GQvsdAz
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 795
 https://cutt.ly/KQvsh79
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 795
 https://cutt.ly/rQvsxxk
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 796
 https://cutt.ly/aQvsV56
-#EXTINF:-1 group-title="OLIMPIC",ASTRO
+#EXTINF:-1 group-title="OLIMPIC",ASTRO 797
 https://cutt.ly/hQvsbhk
 
 #EXTINF:-1 group-title="Movie" , HBO HD
