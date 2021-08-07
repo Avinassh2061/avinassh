@@ -177,6 +177,8 @@ http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1399.ts
 #EXTINF:-1 group-title="SPORT" ,SUPERSPORTS La Liga
 http://mag.you24.online:8080/live/po0k6viy6s/etm6ip4kl/683833.m3u8
 http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/47638.ts
+#EXTINF:-1 group-title="SPORT" , Liverpool FC 
+http://mag.you24.online:8080/live/po0k6viy6s/etm6ip4kl/5425.m3u8
 
 #EXTINF:-1 group-title="OLIMPIC",1
 http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
