@@ -1,21 +1,16 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Astro Vellithirai
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Astro Vinmeen HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 #EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
 #EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
-#EXTINF:-1  group-title="Tamil" ,Star Vijay HD
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Star Vijay HD
+#EXTINF:-1  group-title="Tamil" ,Star Vijay 
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Sun Music HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
 #EXTINF:-1 group-title="Tamil" ,SUN TV
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,SUN TV
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
 #EXTINF:-1 group-title="Tamil" ,MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
@@ -33,19 +28,14 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 http://istreamiptv.gq/vdn/thirai/auth.php
 https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Tamil
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Rasi Tamil
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Movies
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Rasi Movies
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Hollywood
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Rasi Hollywood
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Music
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" ,Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,KTV HD
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/770222.m3u8
@@ -67,16 +57,16 @@ http://watchindia.net:8880/live/33253/72963/2149.m3u8
 #EXTINF:-1 group-title="Tamil" ,Japan Tamil
 http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil" ,VIJAY SUPER
-http://maghum-ott.com/live/fahim9555/280A30559862/72129.ts
 http://pn.tvott.info/live/307271135111/307271135111/83944.ts
+http://maghum-ott.com/live/fahim9555/280A30559862/72129.ts
 http://watchindia.net:8880/live/60275/20486/2190.m3u8
 #EXTINF:-1 group-title="Tamil" ,Polimer TV
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1123403.ts
 #EXTINF:-1 group-title="Tamil" ,TATA SKY TAMIL CINEMA
 http://maghum-ott.com/live/fahim9555/280A30559862/72126.ts
-http://pn.tvott.info:80/307271135111/307271135111/83946
-EXTINF:-1 group-title="Tamil" ,Star Vijay HD-(IN)
+http://pn.tvott.info:80/307271135111/307271135111/83946.ts
+EXTINF:-1 group-title="Tamil" ,Star Vijay HD 
 http://maghum-ott.com/live/fahim9555/280A30559862/72120.ts
 http://watchindia.net:8880/live/33253/72963/846.m3u8
 http://watchindia.net:8880/live/33253/72963/2140.m3u8
@@ -102,7 +92,9 @@ http://watchindia.net:8880/live/33253/72963/854.m3u8
 #EXTINF:-1 group-title="Tamil" ,7s Music
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,Zee Thirai
-http://pn.tvott.info/live/307271135111/307271135111/83914.m3u8
+http://pn.tvott.info/live/307271135111/307271135111/83914.ts
+#EXTINF:-1 group-title="Tamil" ,Zee Tamil
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33310.ts
 #EXTINF:-1 group-title="Tamil" ,Vasantham
 http://23.237.61.18:61980/myplay/c_10005/index.m3u8?key=Zcp3nN3WTXPd_7bKk0CQBQ&expires=1619639535
 
@@ -123,21 +115,18 @@ http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 #EXTINF:-1 group-title="SPORT" ,ESPN
-Click the link below to play the video: http://mag.you24.online:8080/live/po0k6viy6s/etm6ip4kl/683881.m3u8
+http://mag.you24.online:8080/live/po0k6viy6s/etm6ip4kl/683881.m3u8
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS NEWS HD 
-http://62.210.124.228:8080/live/ali/ali/5427.ts
-#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS NEWS HD 
-http://62.210.124.228:8080/live/ali/ali/5428.ts
 #EXTINF:-1 group-title="SPORT" ,BEIN SPORTS PREMIUM 1 HD 
 http://62.210.124.228:8080/live/ali/ali/5429.ts
 #EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 1 HD Local 
 http://62.210.124.228:8080/live/ali/ali/5430.ts
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/27930.ts
 #EXTINF:-1 group-title="SPORT" ,BEIN SPORTS PREMIUM 2 HD 
 http://62.210.124.228:8080/live/ali/ali/5431.ts
 #EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 2 HD Local 
 http://62.210.124.228:8080/live/ali/ali/5432.ts
-#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS PREMIUM 3 HD Local 
+#EXTINF:-1 group-title="SPORT" ,BEIN SPORTS PREMIUM 3 HD 
 http://62.210.124.228:8080/live/ali/ali/5433.ts
 #EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 3 HD 
 http://62.210.124.228:8080/live/ali/ali/5434.ts
@@ -171,75 +160,10 @@ http://62.210.124.228:8080/live/ali/ali/5447.ts
 http://62.210.124.228:8080/live/ali/ali/5448.ts
 #EXTINF:-1 group-title="SPORT" ,BEIN SPORTS 7 
 http://62.210.124.228:8080/live/ali/ali/5449.ts
-#EXTINF:-1 group-title="SPORT" ,SSHD Premier League 
-http://mag.you24.online:8080/live/po0k6viy6s/etm6ip4kl/683787.m3u8
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1399.ts
-#EXTINF:-1 group-title="SPORT" ,SUPERSPORTS La Liga
-http://mag.you24.online:8080/live/po0k6viy6s/etm6ip4kl/683833.m3u8
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/47638.ts
-#EXTINF:-1 group-title="SPORT" , Liverpool FC 
-http://mag.you24.online:8080/live/po0k6viy6s/etm6ip4kl/5425.m3u8
-
-#EXTINF:-1 group-title="OLIMPIC",1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",3
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",4
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",5
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",6
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",7
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",8
-http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",9
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",10
-http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",11
-http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",12
-http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",13
-http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",14
-http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",15
-http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 785
-https://cutt.ly/FQvpobn
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 786
-https://cutt.ly/eQvpTep
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 787
-https://cutt.ly/aQvsV56
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 788
-https://cutt.ly/mQva7rf
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 789
-https://cutt.ly/eQvswWX
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 790
-https://cutt.ly/aQvsV56
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 791
-https://cutt.ly/nQvstaV
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 792
-https://cutt.ly/lQvsphH
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 793
-https://cutt.ly/aQvsV56
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 794
-https://cutt.ly/GQvsdAz
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 795
-https://cutt.ly/KQvsh79
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 795
-https://cutt.ly/rQvsxxk
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 796
-https://cutt.ly/aQvsV56
-#EXTINF:-1 group-title="OLIMPIC",ASTRO 797
-https://cutt.ly/hQvsbhk
+#EXTINF:-1 group-title="SPORT" , Premier League
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25246.ts
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25253.ts
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25241.ts
 
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -276,19 +200,38 @@ http://tvplaymundo.com:80/live/test0/test0/4908.m3u8
 #EXTINF:-1 group-title="Movie" ,WARNER TV FHD 
 http://tvplaymundo.com:80/live/test0/test0/4826.m3u8
 #EXTINF:-1 group-title="Movie" ,Sky Cinema Thriller 
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1150.ts
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1150.m3u8
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25232.ts
 #EXTINF:-1 group-title="Movie" ,Sky Cinema Premiere 
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1200.ts
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1200.m3u8
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25228.ts
 #EXTINF:-1 group-title="Movie" ,Sky Cinema SciFi & Horror 
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1334.ts
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1334.m3u8
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25229.ts
 #EXTINF:-1 group-title="Movie" ,Sky Cinema Action  
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1397.ts
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1397.m3u8
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25220.ts
 #EXTINF:-1 group-title="Movie" , Sky Cinema Greats 
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1403.ts
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1403.m3u8
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25226.ts
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25227.ts
 #EXTINF:-1 group-title="Movie" ,Sky Cinema Animation 
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/12206.ts
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/12206.m3u8
 #EXTINF:-1 group-title="Movie" ,Sky Cinema Drama 
-http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1404.ts
+http://securetv.net:8080/live/EdnBn9R3Xq/0997888077/1404.m3u8
+#EXTINF:-1 group-title="Movie" ,Sky Cinema Superhero 
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25231.ts
+#EXTINF:-1 group-title="Movie" ,SKY CINEMA DISNEY FHD 
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25223.ts
+
+#EXTINF:-1 group-title="Cartoon" ,Tom & Jerry
+http://tvplaymundo.com:80/live/test0/test0/14658.ts
+#EXTINF:-1 group-title="Cartoon" ,DISNEY JR FHD 
+http://tvplaymundo.com:80/live/test0/test0/5014.ts
+#EXTINF:-1 group-title="Cartoon" ,DISNEY XD FHD 
+http://tvplaymundo.com:80/live/test0/test0/7553.ts
+#EXTINF:-1 group-title="Cartoon" ,NICK JR HD 
+http://tvplaymundo.com:80/live/test0/test0/22114.ts
 
 
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
@@ -298,7 +241,7 @@ https://astro4.rastream.com/osai
 #EXTINF:-1, group-title="RADIO" ,THR RAAGA
 https://astro3.rastream.com/raaga
 
-#EXTINF:-1, group-title="News", TV2 
+#EXTINF:-1, group-title="News", TV2 HD
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 group-title="VOD" ,Thittam Irandu (2021)
