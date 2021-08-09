@@ -41,8 +41,8 @@ http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 http://ip.king-cobra.eu:8080/live/TcZ6rvUBMe/MkvSfApF77/276866.ts
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/770222.m3u8
 #EXTINF:-1 group-title="Tamil" ,KBO 
-https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 #EXTINF:-1 group-title="Tamil" ,3 Tamil TV
 https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
