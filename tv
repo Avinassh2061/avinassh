@@ -1,22 +1,22 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
-http://ky-iptv.com:25461/thestuff1/thestuff1/1400566
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.ts
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
-http://ky-iptv.com:25461/thestuff1/thestuff1/1400751
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.ts
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1  group-title="Tamil" ,Star Vijay 
-http://ky-iptv.com:25461/thestuff1/thestuff1/1400716
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.ts
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
 http://ky-iptv.com:25461/thestuff1/thestuff1/1400717
 
 #EXTINF:-1 group-title="Tamil" ,SUN TV
-http://ky-iptv.com:25461/thestuff1/thestuff1/1400718
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.ts
 
 #EXTINF:-1 group-title="Tamil" ,MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
@@ -46,7 +46,7 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KTV HD
-http://ky-iptv.com:25461/thestuff1/thestuff1/770222
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/770222.ts
 
 #EXTINF:-1 group-title="Tamil" ,KBO 
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
