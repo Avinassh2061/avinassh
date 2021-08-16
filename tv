@@ -18,7 +18,7 @@ http://ky-iptv.com:25461/live/Butcher/Butcher/1400717.ts
 #EXTINF:-1 group-title="Tamil" ,SUN TV
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400718.ts
 
-#EXTINF:-1 group-title="Tamil" ,MY ABO Movies Thangathirai HD 
+#EXTINF:-1 group-title="Tamil" ,Astro Thangathirai HD 
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400541.ts
 
 #EXTINF:-1 group-title="Tamil" ,MK Six
@@ -70,7 +70,7 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/inde
 http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 
 #EXTINF:-1 group-title="Tamil" ,VIJAY SUPER
-http://pn.tvott.info/live/307271135111/307271135111/83944.ts
+http://maghum-ott.com/live/fahim9555/280A30559862/72129.ts
 
 #EXTINF:-1 group-title="Tamil" ,Polimer TV
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
@@ -85,7 +85,7 @@ http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index
 http://pn.tvott.info/live/6899534937/4909625376/83914.ts
 
 #EXTINF:-1 group-title="Tamil" ,Zee Tamil
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33310.ts
+http://maghum-ott.com/live/fahim9555/280A30559862/72132.ts
 
 #EXTINF:-1 group-title="Tamil" ,Vasantham
 http://23.237.61.18:61980/myplay/c_10005/index.m3u8?key=Zcp3nN3WTXPd_7bKk0CQBQ&expires=1619639535
@@ -94,27 +94,27 @@ http://23.237.61.18:61980/myplay/c_10005/index.m3u8?key=Zcp3nN3WTXPd_7bKk0CQBQ&e
 http://pn.tvott.info/live/6899534937/4909625376/83968.ts
 
 #EXTINF:-1 group-title="Tamil" ,COLORS TAMIL HD 
-http://pn.tvott.info/live/6899534937/4909625376/83965.ts
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9226.ts
 
 #EXTINF:-1 group-title="Tamil" ,JAYA TV HD 
-http://pn.tvott.info/live/6899534937/4909625376/83960.ts
+http://maghum-ott.com/live/fahim9555/280A30559862/72108.ts
 
 #EXTINF:-1 group-title="Tamil" ,KTV HD (backup) 
 http://pn.tvott.info/live/6899534937/4909625376/83959.ts
 
 #EXTINF:-1 group-title="Tamil" ,RAJ MUSIX 
-http://pn.tvott.info/live/6899534937/4909625376/83954.ts
+http://maghum-ott.com/live/fahim9555/280A30559862/72114.ts
 
 #EXTINF:-1 group-title="Tamil" ,RAJ TV 
-http://pn.tvott.info/live/6899534937/4909625376/83953.ts
+http://maghum-ott.com/live/fahim9555/280A30559862/72115.ts
 
 #EXTINF:-1 group-title="Tamil" ,JAYA MAX 
-http://pn.tvott.info/live/6899534937/4909625376/83911.ts
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9237.ts
 
 #EXTINF:-1 group-title="Tamil" ,TUNE 6 
 http://pn.tvott.info/live/6899534937/4909625376/83904.ts
 
-#EXTINF:-1 group-title="Tamil" ,Jaya MOVIES 
+#EXTINF:-1 group-title="Tamil" ,JAYA MOVIES 
 http://pn.tvott.info/live/6899534937/4909625376/83898.ts
 
 
@@ -136,8 +136,7 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" ,ESPN
 http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/683881.ts
 
- #EXTINF:-1 group-title="SPORT" ,beIN Sports La Liga
- http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/687794.ts
+ #EXTINF:-1 group-title="SPORT" ,
 
 
 #EXTINF:-1 group-title="Movie" , HBO HD
