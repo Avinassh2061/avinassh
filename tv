@@ -60,62 +60,56 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:-1 group-title="Tamil" ,KalaignarTV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
 
-#EXTINF:-1 group-title="Tamil" ,Sirippoli TV
-https://mhdtvapp.xyz/yupp/yupp.php?c=sirippoli-tv&e=.m3u8
-
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Japan Tamil
 http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 group-title="Tamil" ,VIJAY SUPER
-http://maghum-ott.com/live/fahim9555/280A30559862/72129.ts
-
 #EXTINF:-1 group-title="Tamil" ,Polimer TV
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,TATA SKY TAMIL CINEMA
-http://maghum-ott.com/live/fahim9555/280A30559862/72126.ts
 
 #EXTINF:-1 group-title="Tamil" ,7s Music
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 
-#EXTINF:-1 group-title="Tamil" ,Zee Thirai
-http://pn.tvott.info/live/6899534937/4909625376/83914.ts
-
-#EXTINF:-1 group-title="Tamil" ,Zee Tamil
-http://maghum-ott.com/live/fahim9555/280A30559862/72132.ts
-
 #EXTINF:-1 group-title="Tamil" ,Vasantham
 http://23.237.61.18:61980/myplay/c_10005/index.m3u8?key=Zcp3nN3WTXPd_7bKk0CQBQ&expires=1619639535
 
-#EXTINF:-1 group-title="Tamil" ,ADHTIYA TV 
-http://pn.tvott.info/live/6899534937/4909625376/83968.ts
+#EXTINF:-1 group-title="Tamil" ,Raj TV HD 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47635.ts
 
-#EXTINF:-1 group-title="Tamil" ,COLORS TAMIL HD 
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9226.ts
+#EXTINF:-1 group-title="Tamil" ,Raj Musix 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47628.ts
 
-#EXTINF:-1 group-title="Tamil" ,JAYA TV HD 
-http://maghum-ott.com/live/fahim9555/280A30559862/72108.ts
+#EXTINF:-1 group-title="Tamil" ,Raj Digital Plus 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47627.ts
 
-#EXTINF:-1 group-title="Tamil" ,KTV HD (backup) 
-http://pn.tvott.info/live/6899534937/4909625376/83959.ts
+#EXTINF:-1 group-title="Tamil" ,SUN TV HD 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47755.ts
 
-#EXTINF:-1 group-title="Tamil" ,RAJ MUSIX 
-http://maghum-ott.com/live/fahim9555/280A30559862/72114.ts
+#EXTINF:-1 group-title="Tamil" ,ZEE Tamil HD 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47868.ts
 
-#EXTINF:-1 group-title="Tamil" ,RAJ TV 
-http://maghum-ott.com/live/fahim9555/280A30559862/72115.ts
+#EXTINF:-1 group-title="Tamil" ,ZEE Thirai 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47870.ts
 
-#EXTINF:-1 group-title="Tamil" ,JAYA MAX 
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9237.ts
+#EXTINF:-1 group-title="Tamil" ,Peppers TV 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47597.ts
 
-#EXTINF:-1 group-title="Tamil" ,TUNE 6 
-http://pn.tvott.info/live/6899534937/4909625376/83904.ts
+#EXTINF:-1 group-title="Tamil" ,Jaya Tv HD 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47449.ts
 
-#EXTINF:-1 group-title="Tamil" ,JAYA MOVIES 
-http://pn.tvott.info/live/6899534937/4909625376/83898.ts
+#EXTINF:-1 group-title="Tamil" ,Jaya Movies 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47447.ts
+ 
+#EXTINF:-1 group-title="Tamil" ,Jaya Max 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47446.ts
+ 
+#EXTINF:-1 group-title="Tamil" ,IBC Tamil HD 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47425.ts
+ 
+#EXTINF:-1 group-title="Tamil" ,COLORS Tamil HD 
+http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47302.ts
 
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
@@ -136,7 +130,8 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" ,ESPN
 http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/683881.ts
 
- #EXTINF:-1 group-title="SPORT" ,
+#EXTINF:-1 group-title="SPORT" ,SuperSport Premier League FHD
+http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/682910.ts
 
 
 #EXTINF:-1 group-title="Movie" , HBO HD
