@@ -80,6 +80,42 @@ http://23.237.61.18:61980/myplay/c_10005/index.m3u8?key=Zcp3nN3WTXPd_7bKk0CQBQ&e
 #EXTINF:-1 group-title="Tamil" ,Jaya Max 
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/75.ts
 
+#EXTINF:-1 group-title="Tamil" ,JAYA TV HD 
+http://pn.tvott.info:80/live/4442012178/0382688862/83960.ts
+
+#EXTINF:-1 group-title="Tamil" ,RAJ MUSIX 
+http://pn.tvott.info:80/live/4442012178/0382688862/83954.ts
+
+#EXTINF:-1 group-title="Tamil" ,RAJ TV 
+http://pn.tvott.info:80/live/4442012178/0382688862/83953.ts
+
+#EXTINF:-1 group-title="Tamil" ,TATA SKY TAMIL CINEMA 
+http://pn.tvott.info:80/live/4442012178/0382688862/83946.ts
+
+#EXTINF:-1 group-title="Tamil" ,VIJAY SUPER HD 
+http://pn.tvott.info:80/live/4442012178/0382688862/83944.ts
+
+#EXTINF:-1 group-title="Tamil" ,EETV HD 
+http://pn.tvott.info:80/live/4442012178/0382688862/83937.ts
+
+#EXTINF:-1 group-title="Tamil" ,IBC TAMIL 
+http://pn.tvott.info:80/live/4442012178/0382688862/83935.ts
+
+#EXTINF:-1 group-title="Tamil" ,IBC COMEDY 
+http://pn.tvott.info:80/live/4442012178/0382688862/83934.ts
+
+#EXTINF:-1 group-title="Tamil" ,ATHAVAN TV 
+http://pn.tvott.info:80/live/4442012178/0382688862/83932.ts
+
+#EXTINF:-1 group-title="Tamil" ,ZEE THIRAI 
+http://pn.tvott.info:80/live/4442012178/0382688862/83914.ts
+
+#EXTINF:-1 group-title="Tamil" ,TUNE 6 
+http://pn.tvott.info:80/live/4442012178/0382688862/83904.ts
+
+#EXTINF:-1 group-title="Tamil" ,JAYA MOVIES 
+http://pn.tvott.info:80/live/4442012178/0382688862/83898.ts
+
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
