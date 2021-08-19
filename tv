@@ -1,28 +1,27 @@
 #EXTM3U 
-
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400566.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400751.m3u8
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/93.ts
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1  group-title="Tamil" ,Star Vijay 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400716.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400716.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400717.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400717.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,SUN TV
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400718.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400718.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Astro Thangathirai HD 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400541.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400541.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MY ADITHYA 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400542.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400542.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
@@ -34,7 +33,7 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Yupp Thirai
-https://istreamtv.fun/vdn/thirai/m3u8.php?token=WVZaT01HTnRWbWhpVmxKWFdERkNjMWxZYkhOaFdFNHdXREZTZG1FeVZuVlBhVUpWVkRCMFJsUnFiMmRaYW1OM1RtcHJkMDR5Um0xTlZFSnRUMVJCTlZsdFVUTlpiVlY2V1cxSk1scFVaR3haYWtwb1RtcEthRTVYVFhsTlZGa3hUVVJyTWs1Nlp6Rk9SRVV5V1cxSk5WbFVXWHBPZWtwclRWUlZNMDlFWkdsWlZHZDNXa1JDYWxsNlp6Uk9ha1YzV2xSQk1GbFhUVE5hYWxFMFRqSlJOVmxVVm0xT1YwazBXbXBaTlZwcVdUVlpha2w2V2tSRk0wOUVXbXBaZWtsNlRUSmFiRTFxUlRSWk1rNXA=&remote=2001:e68:5405:56dc:b88d:5f8d:51d5:64a0&e=.m3u8
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/86.ts
 
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
@@ -52,7 +51,7 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KTV HD
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/770222.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/770222.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KBO 
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
@@ -78,56 +77,8 @@ http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index
 #EXTINF:-1 group-title="Tamil" ,Vasantham
 http://23.237.61.18:61980/myplay/c_10005/index.m3u8?key=Zcp3nN3WTXPd_7bKk0CQBQ&expires=1619639535
 
-#EXTINF:-1 group-title="Tamil" ,Raj TV HD 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1122347.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,Raj Musix 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1122423.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,Raj Digital Plus 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/770341.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,SUN TV HD 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1122263.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,ZEE Tamil HD 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/770553.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,ZEE Thirai 
-http://kemo.kaltv.eu:80/live/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/47870.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,Peppers TV 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/770311.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,Jaya Tv HD 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/780301.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,Jaya Movies 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/770206.m3u8
-
 #EXTINF:-1 group-title="Tamil" ,Jaya Max 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1122131.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,COLORS Tamil HD 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/770076.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,MY Colors Tamil 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400608.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,IBC Tamil 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/770185.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,IBC Music 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1122433.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,EETV 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1122454.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,IBC Comedy 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1123285.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,KTV US 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1122334.m3u8
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/75.ts
 
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
@@ -145,21 +96,17 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT" ,MY bEIN MAX 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400580.m3u8
+#EXTINF:-1 group-title="SPORT" ,beIN SPORTS
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/99.ts
 
-#EXTINF:-1 group-title="SPORT" ,MY beIN SPORTS 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400582.m3u8
-
-#EXTINF:-1 group-title="SPORT" ,ESPN
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/226642.m3u8
+#EXTINF:-1 group-title="SPORT" ,beIN MAX 
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/100.ts
 
 
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" , MY BOO HD 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400590.ts
 
 
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
