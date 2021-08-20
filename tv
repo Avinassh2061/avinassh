@@ -1,16 +1,16 @@
 #EXTM3U 
-#PLAYLIST:AVINASSH IPTV
+#EXTINF:-1 group-title="*********AVINASSH IPTV*********"
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vellithirai" ,Astro Vellithirai
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
 
-#EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
+#EXTINF:-1 group-title="Tamil" tvg-name="Astro Vinmeen HD" ,Astro Vinmeen HD
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/93.ts
 
-#EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
+#EXTINF:-1 group-title="Tamil" tvg-name="Astro Vaanavil HD" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
-#EXTINF:-1  group-title="Tamil" ,Star Vijay 
+#EXTINF:-1  group-title="Tamil" tvg-name="Star Vijay" ,Star Vijay 
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400716.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
@@ -107,8 +107,6 @@ http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/100.ts
 
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" , MY BOO HD 
 
 
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
