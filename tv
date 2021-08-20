@@ -1,146 +1,174 @@
 #EXTM3U 
-#EXTINF:-1 group-title="AVINASSH IPTV"
-
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vellithirai" ,Astro Vellithirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vinmeen HD" ,Astro Vinmeen HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/93.ts
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vaanavil HD" ,Astro Vaanavil HD
-#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1  group-title="Tamil" tvg-name="Star Vijay" ,Star Vijay 
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400716.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400717.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,SUN TV
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400718.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Astro Thangathirai HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400541.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MY ADITHYA 
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400542.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK Six
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK Tunes
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK TV
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Yupp Thirai
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/86.ts
 
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Tamil
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Movies
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Hollywood
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Music
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KTV HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/Butcher/Butcher/770222.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KBO 
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,3 Tamil TV
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KalaignarTV
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Japan Tamil
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 
 #EXTINF:-1 group-title="Tamil" ,Polimer TV
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,7s Music
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 
-#EXTINF:-1 group-title="Tamil" ,
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
-
 #EXTINF:-1 group-title="Tamil" ,Jaya Max 
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/75.ts
 
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 2 HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 3 HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,beIN SPORTS
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/99.ts
 
 #EXTINF:-1 group-title="SPORT" ,beIN MAX 
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/100.ts
 
 
 #EXTINF:-1 group-title="Movie" , HBO HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
@@ -155,17 +183,16 @@ https://astro3.rastream.com/raaga
 
 
 #EXTINF:-1, group-title="News", TV2 HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1, group-title="News", MY Astro AWANI 
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1350407.ts
 
 #EXTINF:-1, group-title="News", TV3 HD
-#EXT-X-STREAM-INF:BANDWIDTH=2628,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400733.ts
-
-
-#EXTINF:-1 group-title="VOD" ,
-
