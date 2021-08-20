@@ -121,6 +121,15 @@ http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9237.ts
 
 #EXTINF:-1 group-title="Tamil" ,JAYA TV HD 
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9239.ts
+
+#EXTINF:-1 group-title="Tamil" ,PAKALAVAN TV
+http://198.144.149.82:8080/PAKALAVAN_WEB/index.m3u8?token=PK
+ 
+#EXTINF:-1 group-title="Tamil" ,MN Music 
+http://mntv.livebox.co.in/musichls/live.m3u8 
+ 
+#EXTINF:-1 group-title="Tamil" ,MN TV 
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8 
  
  
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
