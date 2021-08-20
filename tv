@@ -240,7 +240,17 @@ http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/99.ts
 #EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/100.ts
 
+#EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
+http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/594.ts
 
+#EXTINF:-1 group-title="SPORT" ,SKY SPORTS FOOTBALL HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
+http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/593.ts
+ 
+ 
 #EXTINF:-1 group-title="Movie" , HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
