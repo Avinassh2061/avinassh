@@ -1,226 +1,172 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vellithirai" ,Astro Vellithirai
-#EXTVLCOPT:http-user-agent="VLC/3.0.10 LibVLC/3.0.10"
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vinmeen HD" ,Astro Vinmeen HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/93.ts
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vaanavil HD" ,Astro Vaanavil HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1  group-title="Tamil" tvg-name="Star Vijay" ,Star Vijay 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400716.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400717.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,SUN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
-#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400718.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Astro Thangathirai HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400541.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MY ADITHYA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400542.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK Six
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK Tunes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,MK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Yupp Thirai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/86.ts
 
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Hollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://ky-iptv.com:25461/live/Butcher/Butcher/770222.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KBO 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,3 Tamil TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,KalaignarTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Japan Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 
 #EXTINF:-1 group-title="Tamil" ,Polimer TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,7s Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Peppers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 https://live.wmncdn.net/peppers/live.stream/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Jaya Max 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/75.ts
 
 #EXTINF:-1 group-title="Tamil" ,Mon Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 
 #EXTINF:-1 group-title="Tamil" ,GTA Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://142.44.213.115:8888/gta_tamil/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,SD Media
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Sangamam Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Palar TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://account13.livebox.co.in/palartvhls/live.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,IBC Comedy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
-#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Athavan TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,IBC Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,SMCV TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Zee Tamil (IN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/8832.ts
 
 #EXTINF:-1 group-title="Tamil" , VIJAY SUPER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9216.ts
 
 #EXTINF:-1 group-title="Tamil" ,COLORS TAMIL HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9226.ts
  
 #EXTINF:-1 group-title="Tamil" ,JAYA MAX (IN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9237.ts
 
 #EXTINF:-1 group-title="Tamil" ,JAYA TV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9239.ts
  
  
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" ,beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/99.ts
 
 #EXTINF:-1 group-title="SPORT" ,beIN MAX 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/100.ts
 
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/594.ts
 
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS FOOTBALL HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/593.ts
  
  
 #EXTINF:-1 group-title="Movie" , HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+#EXTINF:-1 group-title="Movie" , BOO 
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/29.ts
+
 #EXTINF:-1 group-title="Movie" ,Bein_Movies 1 HD (PREMERE) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2054.ts
 
 #EXTINF:-1 group-title="Movie" ,Bein_Movies 2 HD (ACTION) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2053.ts
 
 #EXTINF:-1 group-title="Movie" ,Bein_Movies 3 HD (DRAMA) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2398.ts
 
 #EXTINF:-1 group-title="Movie" ,BeIN Movies 4 HD (FAMILY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2570.ts
 
 
@@ -235,13 +181,10 @@ https://astro3.rastream.com/raaga
 
 
 #EXTINF:-1, group-title="News", TV2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1, group-title="News", MY Astro AWANI 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1350407.ts
 
 #EXTINF:-1, group-title="News", TV3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400733.ts
