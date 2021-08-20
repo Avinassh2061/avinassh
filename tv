@@ -207,6 +207,10 @@ http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/593.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+#EXTINF:-1 group-title="Movie" ,Scary Stories To Tell In The Dark 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17554.ts
+
 
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
