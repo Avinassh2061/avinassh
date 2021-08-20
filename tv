@@ -179,7 +179,32 @@ https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 
+#EXTINF:-1 group-title="Tamil" ,Zee Tamil (IN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/8832.ts
 
+#EXTINF:-1 group-title="Tamil" , STAR VIJAY FHD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9216.ts
+
+#EXTINF:-1 group-title="Tamil" ,COLORS TAMIL HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9226.ts
+ 
+#EXTINF:-1 group-title="Tamil" ,JAYA MAX (IN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9237.ts
+
+#EXTINF:-1 group-title="Tamil" ,JAYA TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9239.ts
+ 
+ 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=6400000,RESOLUTION=4096×2160
