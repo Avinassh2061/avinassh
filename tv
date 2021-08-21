@@ -28,7 +28,7 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Yupp Thirai
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/86.ts
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
@@ -48,8 +48,7 @@ http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,KTV HD
 http://ky-iptv.com:25461/live/Butcher/Butcher/770222.m3u8
 
-#EXTINF:-1 group-title="Tamil" ,KBO 
-https://mhdtvapp.xyz/yupp/yupp.php?c=kbo&e=.m3u8
+#EXTINF:-1 group-title="Tamil" ,
 
 #EXTINF:-1 group-title="Tamil" ,3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
