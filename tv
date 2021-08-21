@@ -111,9 +111,9 @@ http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Zee Tamil (IN)
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/8832.ts
 
-#EXTINF:-1 group-title="Tamil" , 
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9216.ts
-
+#EXTINF:-1 group-title="Tamil" , TATA SKY TAMIL CINEMA 
+http://pn.tvott.info:80/live/4442012178/0382688862/83946.ts
+ 
 #EXTINF:-1 group-title="Tamil" ,COLORS TAMIL HD 
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9226.ts
  
@@ -131,8 +131,20 @@ http://mntv.livebox.co.in/musichls/live.m3u8
  
 #EXTINF:-1 group-title="Tamil" ,MN TV 
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8 
- 
- 
+
+#EXTINF:-1 group-title="Tamil" ,RAJ TV  
+http://pn.tvott.info:80/live/4442012178/0382688862/83953.ts
+
+#EXTINF:-1 group-title="Tamil" ,VIJAY SUPER HD 
+http://pn.tvott.info:80/live/4442012178/0382688862/83944.ts
+
+#EXTINF:-1 group-title="Tamil" ,ZEE THIRAI 
+http://pn.tvott.info:80/live/4442012178/0382688862/83914.ts
+
+#EXTINF:-1 group-title="Tamil" ,JAYA MOVIES 
+http://pn.tvott.info:80/live/4442012178/0382688862/83898.ts
+
+
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
