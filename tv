@@ -4,7 +4,7 @@
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vinmeen HD" ,Astro Vinmeen HD
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/93.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400751.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vaanavil HD" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
@@ -114,7 +114,7 @@ http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/8832.ts
 #EXTINF:-1 group-title="Tamil" ,COLORS TAMIL HD 
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9226.ts
  
-#EXTINF:-1 group-title="Tamil" ,JAYA MAX (IN)
+#EXTINF:-1 group-title="Tamil" ,Jaya Max
 http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9237.ts
 
 #EXTINF:-1 group-title="Tamil" ,JAYA TV HD 
