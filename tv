@@ -133,16 +133,16 @@ http://mntv.livebox.co.in/musichls/live.m3u8
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8 
 
 #EXTINF:-1 group-title="Tamil" ,RAJ TV  
-http://pn.tvott.info:80/live/4442012178/0382688862/83953.ts
+http://watchindia.net:8880/live/60275/20486/854.ts
 
 #EXTINF:-1 group-title="Tamil" ,VIJAY SUPER HD 
-http://pn.tvott.info:80/live/4442012178/0382688862/83944.ts
+http://watchindia.net:8880/live/60275/20486/2190.ts
 
 #EXTINF:-1 group-title="Tamil" ,ZEE THIRAI 
-http://pn.tvott.info:80/live/4442012178/0382688862/83914.ts
+http://watchindia.net:8880/live/60275/20486/2142.ts
 
 #EXTINF:-1 group-title="Tamil" ,JAYA MOVIES 
-http://pn.tvott.info:80/live/4442012178/0382688862/83898.ts
+http://watchindia.net:8880/live/60275/20486/849.ts
 
 
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
