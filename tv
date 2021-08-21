@@ -1,6 +1,19 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Tamil"
+#EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
+
+#EXTINF:-1  group-title="Tamil" ,Star Vijay 
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,Sun Music HD
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
+
+#EXTINF:-1 group-title="Tamil" ,SUN TV
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vaanavil HD" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
