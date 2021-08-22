@@ -136,23 +136,17 @@ http://watchindia.net:8880/live/60275/20486/849.ts
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT" ,Astro Supersport HD
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 2
+http://ky-iptv.com:25461/Butcher/Butcher/1400559
 
-#EXTINF:-1 group-title="SPORT" ,Astro Supersport 2 HD
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 3
+http://ky-iptv.com:25461/Butcher/Butcher/1400561
 
-#EXTINF:-1 group-title="SPORT" ,Astro Supersport 3 HD
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 4
+http://ky-iptv.com:25461/Butcher/Butcher/1400564
 
-#EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" ,beIN SPORTS
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/99.ts
-
-#EXTINF:-1 group-title="SPORT" ,beIN MAX 
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/100.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport
+http://ky-iptv.com:25461/Butcher/Butcher/1400565
 
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
 http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/594.ts
