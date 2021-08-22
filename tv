@@ -86,6 +86,8 @@ http://watchindia.net:8880/live/60275/20486/2190.ts
 http://watchindia.net:8880/live/60275/20486/2142.ts
 #EXTINF:-1 group-title="Tamil" ,JAYA MOVIES 
 http://watchindia.net:8880/live/60275/20486/849.ts
+#EXTINF:-1 group-title="Tamil" ,ZEE Tamil HD 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/47868.ts
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -99,6 +101,42 @@ http://ky-iptv.com:25461/Butcher/Butcher/1400564
 http://ky-iptv.com:25461/Butcher/Butcher/1400565
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
 http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/594.ts
+#EXTINF:-1 group-title="SPORT" ,SKY SPORTS MAIN EVENT 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/19296.ts
+#EXTINF:-1 group-title="SPORT" ,SKY SPORTS FOOTBALL 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/51927.ts
+#EXTINF:-1 group-title="SPORT" ,SONY SIX
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43012.ts
+#EXTINF:-1 group-title="SPORT" ,TEN 1
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43013.ts
+#EXTINF:-1 group-title="SPORT" ,TEN 2
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43014.ts
+#EXTINF:-1 group-title="SPORT" ,TEN 3 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43015.ts
+#EXTINF:-1 group-title="SPORT" ,LFC TV 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/19287.ts
+#EXTINF:-1 group-title="SPORT" ,ESPN HD 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/51910.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 1 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43374.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 2 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43375.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 3 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43376.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 4 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43377.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 5
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43378.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 6 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43379.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 7 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43380.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 1 Premium 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43381.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 2 Premium
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43382.ts
+#EXTINF:-1 group-title="SPORT" ,Bein sport 3 Premium 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43383.ts
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -110,6 +148,12 @@ http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2053.ts
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2398.ts
 #EXTINF:-1 group-title="Movie" ,BeIN Movies (FAMILY) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2570.ts
+#EXTINF:-1 group-title="Movie" ,& PICTURES 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/13821.ts
+#EXTINF:-1 group-title="Movie" ,STAR MOVIES 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/51422.ts
+#EXTINF:-1 group-title="Movie" ,COLORS CINEPLEX 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/51795.ts
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
