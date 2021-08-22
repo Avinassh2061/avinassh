@@ -466,16 +466,16 @@ http://watchindia.net:8880/live/60275/20486/849.ts
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 2
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 2
 http://ky-iptv.com:25461/Butcher/Butcher/1400559
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 3
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 3
 http://ky-iptv.com:25461/Butcher/Butcher/1400561
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 4
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport 4
 http://ky-iptv.com:25461/Butcher/Butcher/1400564
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,MY Astro Supersport
 http://ky-iptv.com:25461/Butcher/Butcher/1400565
 
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
