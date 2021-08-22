@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml"
+#EXTM3U tvg-url="http://rstream.me/epg.xml"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
