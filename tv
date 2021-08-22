@@ -1,7 +1,6 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml"
 #EXTM3U tvg-url="http://rstream.me/epg.xml"
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566
 
@@ -130,7 +129,6 @@ http://watchindia.net:8880/live/60275/20486/2142.ts
 
 #EXTINF:-1 group-title="Tamil" ,JAYA MOVIES 
 http://watchindia.net:8880/live/60275/20486/849.ts
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -149,7 +147,6 @@ http://ky-iptv.com:25461/Butcher/Butcher/1400565
 
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
 http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/594.ts
- 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -165,7 +162,6 @@ http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2398.ts
 
 #EXTINF:-1 group-title="Movie" ,BeIN Movies (FAMILY) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2570.ts
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
@@ -175,5 +171,4 @@ https://astro4.rastream.com/osai
 
 #EXTINF:-1, group-title="RADIO" ,THR RAAGA
 https://astro3.rastream.com/raaga
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
