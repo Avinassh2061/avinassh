@@ -1,19 +1,25 @@
-#EXTM3U 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml"
+#EXTM3U tvg-url="http://rstream.me/epg.xml"
+
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400566
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400751
 
 #EXTINF:-1  group-title="Tamil" ,Star Vijay 
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400716
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400717
 
 #EXTINF:-1 group-title="Tamil" ,SUN TV
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400718
+
+#EXTINF:-1 group-title="Tamil" ,KTV HD
+http://ky-iptv.com:25461/live/Butcher/Butcher/770222
 
 #EXTINF:-1 group-title="Tamil" tvg-name="Astro Vaanavil HD" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
@@ -45,11 +51,6 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
-#EXTINF:-1 group-title="Tamil" ,KTV HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/770222.m3u8
-
-#EXTINF:-1 group-title="Tamil" ,
-
 #EXTINF:-1 group-title="Tamil" ,3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
@@ -71,9 +72,6 @@ http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index
 #EXTINF:-1 group-title="Tamil" ,Peppers
 https://live.wmncdn.net/peppers/live.stream/index.m3u8
 
-#EXTINF:-1 group-title="Tamil" ,Jaya Max 
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/75.ts
-
 #EXTINF:-1 group-title="Tamil" ,Mon Tamil
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 
@@ -83,7 +81,7 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,SD Media
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 
-#EXTINF:-1 group-title="Tamil" ,Sangamam Tv
+#EXTINF:-1 group-title="Tamil" ,Sangamam TV
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" ,Palar TV
@@ -134,7 +132,7 @@ http://watchindia.net:8880/live/60275/20486/2142.ts
 #EXTINF:-1 group-title="Tamil" ,JAYA MOVIES 
 http://watchindia.net:8880/live/60275/20486/849.ts
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="SPORT" , Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
@@ -158,29 +156,24 @@ http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/100.ts
 
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
 http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/594.ts
-
-#EXTINF:-1 group-title="SPORT" ,
  
- 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 #EXTINF:-1 group-title="Movie" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie" , BOO 
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/29.ts
-
-#EXTINF:-1 group-title="Movie" ,Bein_Movies 1 HD (PREMERE) 
+#EXTINF:-1 group-title="Movie" ,Bein Movies (PREMERE) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2054.ts
 
-#EXTINF:-1 group-title="Movie" ,Bein_Movies 2 HD (ACTION) 
+#EXTINF:-1 group-title="Movie" ,Bein Movies (ACTION) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2053.ts
 
-#EXTINF:-1 group-title="Movie" ,Bein_Movies 3 HD (DRAMA) 
+#EXTINF:-1 group-title="Movie" ,Bein Movies (DRAMA) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2398.ts
 
-#EXTINF:-1 group-title="Movie" ,BeIN Movies 4 HD (FAMILY) 
+#EXTINF:-1 group-title="Movie" ,BeIN Movies (FAMILY) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2570.ts
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 
@@ -190,12 +183,4 @@ https://astro4.rastream.com/osai
 #EXTINF:-1, group-title="RADIO" ,THR RAAGA
 https://astro3.rastream.com/raaga
 
-
-#EXTINF:-1, group-title="News", TV2 HD
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-
-#EXTINF:-1, group-title="News", MY Astro AWANI 
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1350407.ts
-
-#EXTINF:-1, group-title="News", TV3 HD
-http://ky-iptv.com:25461/live/aud9MqgjJJ/i8xVlvHdxJ/1400733.ts
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
