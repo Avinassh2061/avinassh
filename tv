@@ -1,18 +1,18 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml"
 
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400566
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.ts
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400751
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400751.ts
 #EXTINF:-1  group-title="Tamil" ,Star Vijay 
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400716
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400716.ts
 #EXTINF:-1 group-title="Tamil" ,Sun Music HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400717
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400717.ts
 #EXTINF:-1 group-title="Tamil" ,SUN TV
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400718
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400718.ts
 #EXTINF:-1 group-title="Tamil" ,KTV HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/770222
-#EXTINF:-1 group-title="Tamil" tvg-name="Astro Vaanavil HD" ,Astro Vaanavil HD
+http://ky-iptv.com:25461/live/Butcher/Butcher/770222.ts
+#EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 group-title="Tamil" ,MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
@@ -89,15 +89,15 @@ http://watchindia.net:8880/live/60275/20486/849.ts
 #EXTINF:-1 group-title="Tamil" ,ZEE Tamil HD 
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/47868.ts
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="SPORT" , Astro Arena HD
+#EXTINF:-1 group-title="SPORT" ,Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,Astro Supersport 2 HD
+#EXTINF:-1 group-title="SPORT" ,Astro Supersport 2 HD
 http://ky-iptv.com:25461/Butcher/Butcher/1400559
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,Astro Supersport 3 HD
+#EXTINF:-1 group-title="SPORT" ,Astro Supersport 3 HD
 http://ky-iptv.com:25461/Butcher/Butcher/1400561
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,Astro Supersport 4 HD
+#EXTINF:-1 group-title="SPORT" ,Astro Supersport 4 HD
 http://ky-iptv.com:25461/Butcher/Butcher/1400564
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" ,Astro Supersport HD
+#EXTINF:-1 group-title="SPORT" ,Astro Supersport HD
 http://ky-iptv.com:25461/Butcher/Butcher/1400565
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
 http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/594.ts
@@ -138,7 +138,7 @@ http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43382.ts
 #EXTINF:-1 group-title="SPORT" ,Bein sport 3 Premium 
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43383.ts
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-#EXTINF:-1 group-title="Movie" , HBO HD
+#EXTINF:-1 group-title="Movie" ,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie" ,Bein Movies (PREMERE) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2054.ts
