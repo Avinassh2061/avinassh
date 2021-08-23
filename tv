@@ -1,5 +1,5 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml"
-
+#EXT-X-VERSION:3
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.ts
 #EXTINF:-1 group-title="Tamil" ,Astro Vinmeen HD
@@ -15,12 +15,16 @@ http://ky-iptv.com:25461/live/Butcher/Butcher/770222.ts
 #EXTINF:-1 group-title="Tamil" ,Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 group-title="Tamil" ,MK Six
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,MK Tunes
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,MK TV
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,Yupp Thirai
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
@@ -35,8 +39,10 @@ http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,KalaignarTV
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,Isaiaruvi TV
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,Japan Tamil
 http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
@@ -100,11 +106,15 @@ http://ky-iptv.com:25461/Butcher/Butcher/1400564
 #EXTINF:-1 group-title="SPORT" ,Astro Supersport HD
 http://ky-iptv.com:25461/Butcher/Butcher/1400565
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS PREMIER LEAGUE HD 
-http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/594.ts
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/51931.ts
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS MAIN EVENT 
-http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/19296.ts
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/41974.ts
 #EXTINF:-1 group-title="SPORT" ,SKY SPORTS FOOTBALL 
-http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/51927.ts
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/41966.ts
+#EXTINF:-1 group-title="SPORT" ,Sky Bundesliga 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/45547.ts
+#EXTINF:-1 group-title="SPORT" ,SKY MOTO GP HD 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/46258.ts
 #EXTINF:-1 group-title="SPORT" ,SONY SIX
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43012.ts
 #EXTINF:-1 group-title="SPORT" ,TEN 1
@@ -137,6 +147,12 @@ http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43381.ts
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43382.ts
 #EXTINF:-1 group-title="SPORT" ,Bein sport 3 Premium 
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/43383.ts
+#EXTINF:-1 group-title="SPORT" ,SuperSport Premier League 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/47890.ts
+#EXTINF:-1 group-title="SPORT" ,SuperSport Football 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/47891.ts
+#EXTINF:-1 group-title="SPORT" ,SUPERSPORTS LaLiga
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/46682.ts
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 #EXTINF:-1 group-title="Movie" ,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -148,6 +164,11 @@ http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2053.ts
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2398.ts
 #EXTINF:-1 group-title="Movie" ,BeIN Movies (FAMILY) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2570.ts
+ SKY CINEMA COLLECTION HD | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/36489.ts
+ SKY CINEMA Suspense HD | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/36491.ts
+ Sony Movie +1 | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24232.ts
+ &FLIX HD | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24127.ts
+ &Prive HD | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24129.ts
 #EXTINF:-1 group-title="Movie" ,& PICTURES 
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/13821.ts
 #EXTINF:-1 group-title="Movie" ,STAR MOVIES 
