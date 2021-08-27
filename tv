@@ -30,6 +30,8 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Tamil
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#EXTINF:-1 group-title="Tamil" ,Rasi Music
+http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Movies
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" ,Rasi Hollywood
@@ -89,6 +91,21 @@ http://198.144.149.82:8080/PAKALAVAN_WEB/index.m3u8?token=PK
 http://mntv.livebox.co.in/musichls/live.m3u8 
 #EXTINF:-1 group-title="Tamil" ,MN TV 
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8 
+#EXTINF:-1 group-title="Tamil" ,EET TV
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="Tamil" , TET 
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
+#EXTINF:-1 group-title="Tamil" ,ACN Cinema
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1 group-title="Tamil" ,Singam TV
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil" ,MOON TV
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Tamil" ,RAJ TV  
 http://watchindia.net:8880/live/60275/20486/854.ts
 #EXTINF:-1 group-title="Tamil" ,VIJAY SUPER HD 
@@ -99,15 +116,6 @@ http://watchindia.net:8880/live/60275/20486/2142.ts
 http://watchindia.net:8880/live/60275/20486/849.ts
 #EXTINF:-1 group-title="Tamil" ,ZEE Tamil HD 
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/47868.ts
-#EXTINF:-1 group-title="Tamil" ,EET TV
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 group-title="Tamil" , TET 
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
-#EXTINF:-1 group-title="Tamil" ,ACN Cinema
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="SPORT" ,Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
