@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml" "https://kodi.botallen.com/tv/epg.xml" "http://rstream.me/epg.xml" "http://botallen.live/epg.xml.gz"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml""https://kodi.botallen.com/tv/epg.xml""http://rstream.me/epg.xml""http://botallen.live/epg.xml.gz"
 #EXT-X-VERSION:3
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.ts
