@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml" "https://kodi.botallen.com/tv/epg.xml" "http://rstream.me/epg.xml" "http://botallen.live/epg.xml.gz"
 #EXT-X-VERSION:3
 #EXTINF:-1 group-title="Tamil" ,Astro Vellithirai
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.ts
@@ -45,14 +45,19 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,Japan Tamil
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil" ,Polimer TV
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,7s Music
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,Peppers
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 https://live.wmncdn.net/peppers/live.stream/index.m3u8
 #EXTINF:-1 group-title="Tamil" ,Mon Tamil
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil" ,GTA Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
@@ -94,6 +99,15 @@ http://watchindia.net:8880/live/60275/20486/2142.ts
 http://watchindia.net:8880/live/60275/20486/849.ts
 #EXTINF:-1 group-title="Tamil" ,ZEE Tamil HD 
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/47868.ts
+#EXTINF:-1 group-title="Tamil" ,EET TV
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="Tamil" , TET 
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
+#EXTINF:-1 group-title="Tamil" ,ACN Cinema
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="SPORT" ,Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -164,11 +178,16 @@ http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2053.ts
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2398.ts
 #EXTINF:-1 group-title="Movie" ,BeIN Movies (FAMILY) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2570.ts
- SKY CINEMA COLLECTION HD | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/36489.ts
- SKY CINEMA Suspense HD | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/36491.ts
- Sony Movie +1 | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24232.ts
- &FLIX HD | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24127.ts
- &Prive HD | http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24129.ts
+#EXTINF:-1 group-title="Movie" ,SKY CINEMA COLLECTION HD 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/36489.ts
+#EXTINF:-1 group-title="Movie" ,SKY CINEMA Suspense HD 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/36491.ts
+#EXTINF:-1 group-title="Movie" ,Sony Movie +1 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24232.ts
+#EXTINF:-1 group-title="Movie" ,&FLIX HD 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24127.ts
+#EXTINF:-1 group-title="Movie" ,&Prive HD 
+http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/24129.ts
 #EXTINF:-1 group-title="Movie" ,& PICTURES 
 http://eurotv.vip/live/pretttiiivddcff/Frffgfrffc300/13821.ts
 #EXTINF:-1 group-title="Movie" ,STAR MOVIES 
