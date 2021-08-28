@@ -41,7 +41,7 @@ http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png" group-title="Tamil" ,3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/aus-tamil.png" group-title="Local Channels",AUS TAMIL
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/aus-tamil.png" group-title=" Tamil",AUS TAMIL
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Kalaignar_logo.jpg/revision/latest/scale-to-width-down/200?cb=20191224114140" group-title="Tamil" ,KalaignarTV
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
@@ -55,7 +55,7 @@ http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://gumlet.assettype.com/swarajya/2018-06/ab998228-7f76-424f-8450-de228c63db1f/polimar.jpg?w=1200&h=800" group-title="Tamil" ,Polimer TV
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest?cb=20191225165506"group-title="Tamil" ,7s Music
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest?cb=20191225165506" group-title="Tamil" ,7s Music
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616434973_papper.png" group-title="Tamil" ,Peppers
