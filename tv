@@ -147,6 +147,14 @@ http://ky-iptv.com:25461/Butcher/Butcher/1400561
 http://ky-iptv.com:25461/Butcher/Butcher/1400564
 #EXTINF:-1 group-title="Sport" ,Astro Supersport HD
 http://ky-iptv.com:25461/Butcher/Butcher/1400565
+#EXTINF:-1 group-title="Sport" ,Sky Sports Football
+http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/683759.ts
+#EXTINF:-1 group-title="Sport" ,SuperSport Premier League
+http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/678029.ts
+#EXTINF:-1 group-title="Sport" ,SuperSport La Liga
+http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/683001.ts
+#EXTINF:-1 group-title="Sport" ,Sky Sports Main Event
+http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/671299.ts
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 #EXTINF:-1 group-title="Movie" ,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
