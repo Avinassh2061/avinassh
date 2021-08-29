@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml"
+#EXTM3U tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Malaysia/astro.com.my.E.channels.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png" group-title="Tamil" ,Astro Vellithirai
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.ts
