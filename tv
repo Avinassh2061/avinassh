@@ -120,12 +120,11 @@ http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616159247_icon.png" group-title="Tamil" ,Singam TV
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vectorlogo4u-com.cdn.ampproject.org/i/s/vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="Tamil" ,Astro First (Tamil)
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/354.ts
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Moon_TV.jpg/revision/latest/scale-to-width-down/200?cb=20191225181654" group-title="Tamil" ,MOON TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://vectorlogo4u-com.cdn.ampproject.org/i/s/vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="Tamil" ,Astro First
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/354.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552" group-title="Tamil" ,RAJ TV  
 http://watchindia.net:8880/live/60275/20486/854.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Vijay_Super_2019.jpg/revision/latest/scale-to-width-down/200?cb=20210319224924" group-title="Tamil" ,VIJAY SUPER HD 
@@ -153,16 +152,24 @@ http://ky-iptv.com:25461/Butcher/Butcher/1400565
 #EXTINF:-1 group-title="Sport" ,ESPN 
 http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/31148.ts
 #EXTINF:-1 group-title="Sport" ,Sky Sports Football
-http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/683759.ts
-#EXTINF:-1 group-title="Sport" ,SuperSport Premier League
-http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/678029.ts
-#EXTINF:-1 group-title="Sport" ,SuperSport La Liga
-http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/683001.ts
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3626.ts
+#EXTINF:-1 group-title="Sport" ,Sky Sports Premier League
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3624.ts
+#EXTINF:-1 group-title="Sport" , SKY BUNDESLIGA
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3471.ts
 #EXTINF:-1 group-title="Sport" ,Sky Sports Main Event
-http://mytv.fun:8080/live/xngqsxtliw/jqxr95kyur/671299.ts
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3625.ts
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 #EXTINF:-1 group-title="Movie" ,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="Movie" ,SONY MOVIES 
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3725.ts
+#EXTINF:-1 group-title="Movie" ,SKY MOVIES SCI-FI & HORROR 
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3722.ts
+#EXTINF:-1 group-title="Movie" ,SKY MOViES DiSNEY HD 
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3716.ts
+#EXTINF:-1 group-title="Movie" ,SKY CINEMA PREMIERE 
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/5964.ts
 #EXTINF:-1 group-title="Movie" ,Bein Movies (PREMERE) 
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2054.ts
 #EXTINF:-1 group-title="Movie" ,Bein Movies (ACTION) 
@@ -175,7 +182,15 @@ http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/2570.ts
 #EXTINF:-1 group-title="Kids" ,BEN 10 
 http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/31653.ts
 #EXTINF:-1 group-title="Kids" ,Tom & Jerry 
-http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/31633.ts
+http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.ts
+#EXTINF:-1 group-title="Kids" ,Mr Bean 
+http://v4.watchithere.xyz:8080/live/Marky/Marky/304089.ts
+#EXTINF:-1 group-title="Kids" ,PAW PATROL 
+http://v4.watchithere.xyz:8080/live/Marky/Marky/305035.ts
+#EXTINF:-1 group-title="Kids" ,MICKEY MOUSE HOUSE OF MOUSE 
+http://v4.watchithere.xyz:8080/live/Marky/Marky/305019.ts
+#EXTINF:-1 group-title="Kids" ,SCOOBY DOO 
+http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.ts
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1, group-title="RADIO" ,MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
