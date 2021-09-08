@@ -162,6 +162,8 @@ http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3625.ts
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 #EXTINF:-1 group-title="Movie" ,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="Movie" ,Astro First
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/353.ts
 #EXTINF:-1 group-title="Movie" ,SONY MOVIES 
 http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3725.ts
 #EXTINF:-1 group-title="Movie" ,SKY MOVIES SCI-FI & HORROR 
