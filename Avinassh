@@ -1,5 +1,41 @@
 #EXTM3U url-tvg="https://files.3y1.xyz/static/sitemap/ott_xmltv.xml?key=20210908051105"
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil",Apple Digital
+http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" , Capital TV
+http://89.187.162.89/Capital_TV-LIVE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Tamil TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Imayam TV
+https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Tamilan TV
+http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Jothi TV
+http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Jeyam TV
+http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Vani TV
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Yaal TV
+http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Roja TV
+http://stream.singamcloud.in:1935/rojatv/rojatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil" ,Arunai TV
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/salem/b6/0427px427.x427.181203155110.u2b6/catalogue/7-star-tv-five-road-salem-satellite-channels-4nj6mbgc1x.jpg?clr=114455" group-title="Tamil",7Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
