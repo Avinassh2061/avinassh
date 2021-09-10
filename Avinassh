@@ -148,7 +148,7 @@ http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSMvQRABDMfnnoxXuEOeCKDo4N2WexGuu2fluK6=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil",Sooriyan TV
-http://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600013835967/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=s300?v=1" group-title="Tamil",SMCV TV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
