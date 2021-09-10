@@ -264,12 +264,6 @@ http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7222.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Sky Movies Select HD" tvg-logo="" group-title="Movie", Sky Movies Select HD
 http://iptvportuguese.live:8010/live/TreeT20ex/CuEwSQEMrL6BsmNs/148.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Sky Popcorn Select 1 HD" tvg-logo="" group-title="Movie", Sky Popcorn Select 1 HD
-http://iptvportuguese.live:8010/live/TreeT20ex/CuEwSQEMrL6BsmNs/14408.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Sky Popcorn Select 2 HD" tvg-logo="" group-title="Movie", Sky Popcorn Select 2 HD
-http://iptvportuguese.live:8010/live/TreeT20ex/CuEwSQEMrL6BsmNs/14407.ts
-
 #EXTINF:-1 tvg-chno="484" tvg-id="(no tvg-id)" tvg-name="Astro First (Malay)" tvg-logo="" group-title="Movie",Astro First (Malay)
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/353.ts
 
@@ -329,6 +323,9 @@ http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3716.ts
 
 #EXTINF:-1 tvg-chno="413" tvg-id="(no tvg-id)" tvg-name="SKY MOVIES SCI-FI & HORROR" tvg-logo="" group-title="Movie",SKY MOVIES SCI-FI & HORROR
 http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3722.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Movie",SONY MOVIES 
+http://ip.trboss.net/live/nomoreacble/dsfsdfsfds/9616.ts
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-chno="310" tvg-id="(no tvg-id)" tvg-name="BEN 10" tvg-logo="" group-title="Kids",Mortal Kombat
