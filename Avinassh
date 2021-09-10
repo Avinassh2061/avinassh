@@ -146,6 +146,9 @@ http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Tamil",Sigaram TV
 https://secure.ultramaxnet.com/tv/sigaramtv.tv
 
+#EXTINF:-1 tvg-chno="42" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Tamil",Sooriyan TV
+http://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 #EXTINF:-1 tvg-chno="35" tvg-id="(no tvg-id)" tvg-name="SMCV TV" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600013835967/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=s300?v=1" group-title="Tamil",SMCV TV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 
@@ -160,6 +163,9 @@ http://ky-iptv.com:25461/live/Butcher/Butcher/1400718.ts
 
 #EXTINF:-1 tvg-chno="39" tvg-id="(no tvg-id)" tvg-name="TET" tvg-logo="http://www.artsrn.ualberta.ca/MinorityMedia/files/fullsize/e044831b9ec5b3c3197854ec870e3359.jpg" group-title="Tamil",TET
 https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
+
+#EXTINF:-1 tvg-chno="42" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Tamil",TVi 
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultrmax TV" tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil",Ultrmax TV
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
