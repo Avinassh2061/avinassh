@@ -79,10 +79,10 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/
 http://ky-iptv.com:25461/live/Butcher/Butcher/770222.ts
 
 #EXTINF:-1 tvg-chno="34" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Tamil",Kavin TV
-https://secure.ultramaxnet.com/tv/kavintv.tv
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Tamil",KVM TV
-https://secure.ultramaxnet.com/tv/kvmtv321.tv
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-id="(no tvg-id)" tvg-name="MK Six" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_six.png" group-title="Tamil",MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
@@ -119,6 +119,7 @@ http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-id="(no tvg-id)" tvg-name="RAJ TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552" group-title="Tamil",RAJ TV
 http://watchindia.net:8880/live/60275/20486/854.ts
+
 #EXTINF:-1 tvg-chno="27" tvg-id="(no tvg-id)" tvg-name="Rasi Hollywood" tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png" group-title="Tamil",Rasi Hollywood
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
@@ -144,7 +145,7 @@ http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="42" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Tamil",Sigaram TV
-https://secure.ultramaxnet.com/tv/sigaramtv.tv
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 
 #EXTINF:-1 tvg-chno="42" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Tamil",Sooriyan TV
 http://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
@@ -168,7 +169,7 @@ https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultrmax TV" tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil",Ultrmax TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-id="(no tvg-id)" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Vijay_Super_2019.jpg/revision/latest/scale-to-width-down/200?cb=20210319224924" group-title="Tamil",Vijay Super
 http://watchindia.net:8880/live/60275/20486/2190.ts
