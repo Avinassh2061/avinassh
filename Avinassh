@@ -1,15 +1,27 @@
 #EXTM3U url-tvg="https://files.3y1.xyz/static/sitemap/ott_xmltv.xml?key=20210908051105"
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7Star TV" tvg-logo="" group-title="Tamil",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sana TV" tvg-logo="" group-title="Tamil",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="1" tvg-id="3 Tamil TV" tvg-name="3 Tamil TV" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png" group-title="Tamil",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="(no tvg-id)" tvg-name="7s Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest?cb=20191225165506" group-title="Tamil",7s Music
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abinaya HD" tvg-logo="" group-title="Tamil",Abinaya HD
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="ACN Cinema" tvg-logo="http://7starcloud.in/ACN CINEMA.png" group-title="Tamil",ACN Cinema
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="485" tvg-id="(no tvg-id)" tvg-name="Astro First" tvg-logo="https://vectorlogo4u-com.cdn.ampproject.org/i/s/vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="Tamil",Astro First
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Analai Express TV" tvg-logo="" group-title="Tamil",Analai Express TV
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-chno="485" tvg-id="(no tvg-id)" tvg-name="Astro First HD" tvg-logo="https://vectorlogo4u-com.cdn.ampproject.org/i/s/vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="Tamil",Astro First HD
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/354.ts
 
 #EXTINF:-1 tvg-chno="201" tvg-id="Astro Vaanavil " tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Astro_Vaanavil_2020.png/200px-Astro_Vaanavil_2020.png" group-title="Tamil",Astro Vaanavil HD
@@ -27,8 +39,14 @@ http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="(no tvg-id)" tvg-name="AUS TAMIL" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png" group-title="Tamil",AUS TAMIL
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital Music" tvg-logo="" group-title="Tamil",Capital Music
+http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="6" tvg-id="(no tvg-id)" tvg-name="EET TV" tvg-logo="https://3.bp.blogspot.com/-4nbUIlBP-sg/WjKo3sjoF2I/AAAAAAAABz8/KZPKIDChzJsqaBtAzdHdNXSRh5iDxq_WwCLcBGAs/s320/EETV.png" group-title="Tamil",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ezhil TV" tvg-logo="" group-title="Tamil",Ezhil TV
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-chno="7" tvg-id="(no tvg-id)" tvg-name="GTA Tamil" tvg-logo="http://7starcloud.in/gta.jpg" group-title="Tamil",GTA Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
@@ -47,6 +65,12 @@ http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 
 #EXTINF:-1 tvg-chno="12" tvg-id="(no tvg-id)" tvg-name="JAYA MOVIES" tvg-logo="https://sc.dish.com/shared/images/station-logos/JMOV.png" group-title="Tamil",JAYA MOVIES
 http://watchindia.net:8880/live/60275/20486/849.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JCV TV" tvg-logo="" group-title="Tamil",JCV TV
+http://account11.livebox.co.in/jcvtvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeevan TV" tvg-logo="" group-title="Tamil",Jeevan TV
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="(no tvg-id)" tvg-name="KalaignarTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Kalaignar_logo.jpg/revision/latest/scale-to-width-down/200?cb=20191224114140" group-title="Tamil",KalaignarTV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
@@ -82,14 +106,13 @@ http://198.144.149.82:8080/PAKALAVAN_WEB/index.m3u8?token=PK
 http://account13.livebox.co.in/palartvhls/live.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-id="(no tvg-id)" tvg-name="Peppers" tvg-logo="https://singamcloud.com/tv/upload/1616434973_papper.png" group-title="Tamil",Peppers
-https://live.wmncdn.net/peppers/live.stream/index.m3u8
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="(no tvg-id)" tvg-name="Polimer TV" tvg-logo="https://gumlet.assettype.com/swarajya/2018-06/ab998228-7f76-424f-8450-de228c63db1f/polimar.jpg?w=1200&h=800" group-title="Tamil",Polimer TV
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-id="(no tvg-id)" tvg-name="RAJ TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552" group-title="Tamil",RAJ TV
 http://watchindia.net:8880/live/60275/20486/854.ts
-
 #EXTINF:-1 tvg-chno="27" tvg-id="(no tvg-id)" tvg-name="Rasi Hollywood" tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png" group-title="Tamil",Rasi Hollywood
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
@@ -129,6 +152,9 @@ http://ky-iptv.com:25461/live/Butcher/Butcher/1400718.ts
 #EXTINF:-1 tvg-chno="39" tvg-id="(no tvg-id)" tvg-name="TET" tvg-logo="http://www.artsrn.ualberta.ca/MinorityMedia/files/fullsize/e044831b9ec5b3c3197854ec870e3359.jpg" group-title="Tamil",TET
 https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultrmax TV" tvg-logo="" group-title="Tamil",Ultrmax TV
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+
 #EXTINF:-1 tvg-chno="40" tvg-id="(no tvg-id)" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Vijay_Super_2019.jpg/revision/latest/scale-to-width-down/200?cb=20210319224924" group-title="Tamil",Vijay Super
 http://watchindia.net:8880/live/60275/20486/2190.ts
 
@@ -138,10 +164,7 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="(no tvg-id)" tvg-name="ZEE THIRAI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil",ZEE THIRAI
 http://watchindia.net:8880/live/60275/20486/2142.ts
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Oh!K" tvg-logo="" group-title="Malay",Astro Oh!K
-http://ky-iptv.com:25461/live/Butcher/Butcher/1350411.ts
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Hello" tvg-logo="" group-title="Malay",Astro Hello
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400651.ts
 
@@ -178,7 +201,38 @@ http://ky-iptv.com:25461/live/Butcher/Butcher/1400733.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS" tvg-logo="" group-title="Malay",TVS
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400749.ts
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-chno="801" tvg-id="(no tvg-id)" tvg-name="Astro Arena HD" tvg-logo="" group-title="Sport",Astro Arena HD
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="811" tvg-id="(no tvg-id)" tvg-name="Astro Supersport HD" tvg-logo="" group-title="Sport",Astro Supersport HD
+http://ky-iptv.com:25461/Butcher/Butcher/1400565
+
+#EXTINF:-1 tvg-chno="812" tvg-id="(no tvg-id)" tvg-name="Astro Supersport 2 HD" tvg-logo="" group-title="Sport",Astro Supersport 2 HD
+http://ky-iptv.com:25461/Butcher/Butcher/1400559
+
+#EXTINF:-1 tvg-chno="813" tvg-id="(no tvg-id)" tvg-name="Astro Supersport 3 HD" tvg-logo="" group-title="Sport",Astro Supersport 3 HD
+http://ky-iptv.com:25461/Butcher/Butcher/1400561
+
+#EXTINF:-1 tvg-chno="814" tvg-id="(no tvg-id)" tvg-name="Astro Supersport 4 HD" tvg-logo="" group-title="Sport",Astro Supersport 4 HD
+http://ky-iptv.com:25461/Butcher/Butcher/1400564
+
+#EXTINF:-1 tvg-chno="101" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="" group-title="Sport",ESPN
+http://painel.tvdigitalsbl.net/live/vo/vo/13355.ts
+
+#EXTINF:-1 tvg-chno="102" tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="" group-title="Sport",Sky Sports Football
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3626.ts
+
+#EXTINF:-1 tvg-chno="103" tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="Sport",Sky Sports Premier League
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3624.ts
+
+#EXTINF:-1 tvg-chno="104" tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga" tvg-logo="" group-title="Sport",Sky Bundesliga
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3471.ts
+
+#EXTINF:-1 tvg-chno="105" tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="Sport",Sky Sports Main Event
+http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3625.ts
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Netflix Action" tvg-logo="" group-title="Movie", Netflix Action
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7221.ts
 
@@ -233,7 +287,7 @@ http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7223.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Osn Movie Action HD" tvg-logo="" group-title="Movie",Osn Movie Action HD
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/1006.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OSN Movies Thriller 2"tvg-logo="" group-title="Movie",OSN Movies Thriller 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OSN Movies Thriller 2" tvg-logo="" group-title="Movie",OSN Movies Thriller 2
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/6119.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Osn Star Movies HD" tvg-logo="" group-title="Movie",Osn Star Movies HD
@@ -269,41 +323,10 @@ http://iptvportuguese.live:8010/live/TreeT20ex/CuEwSQEMrL6BsmNs/14403.ts
 #EXTINF:-1 tvg-chno="412" tvg-id="(no tvg-id)" tvg-name="SONY MOVIES" tvg-logo="" group-title="Movie",SONY MOVIES
 http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3725.ts
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-chno="801" tvg-id="(no tvg-id)" tvg-name="Astro Arena HD" tvg-logo="" group-title="Sport",Astro Arena HD
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="811" tvg-id="(no tvg-id)" tvg-name="Astro Supersport HD" tvg-logo="" group-title="Sport",Astro Supersport HD
-http://ky-iptv.com:25461/Butcher/Butcher/1400565
-
-#EXTINF:-1 tvg-chno="812" tvg-id="(no tvg-id)" tvg-name="Astro Supersport 2 HD" tvg-logo="" group-title="Sport",Astro Supersport 2 HD
-http://ky-iptv.com:25461/Butcher/Butcher/1400559
-
-#EXTINF:-1 tvg-chno="813" tvg-id="(no tvg-id)" tvg-name="Astro Supersport 3 HD" tvg-logo="" group-title="Sport",Astro Supersport 3 HD
-http://ky-iptv.com:25461/Butcher/Butcher/1400561
-
-#EXTINF:-1 tvg-chno="814" tvg-id="(no tvg-id)" tvg-name="Astro Supersport 4 HD" tvg-logo="" group-title="Sport",Astro Supersport 4 HD
-http://ky-iptv.com:25461/Butcher/Butcher/1400564
-
-#EXTINF:-1 tvg-chno="101" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="" group-title="Sport",ESPN
-http://painel.tvdigitalsbl.net/live/vo/vo/13355.ts
-
-#EXTINF:-1 tvg-chno="102" tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="" group-title="Sport",Sky Sports Football
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3626.ts
-
-#EXTINF:-1 tvg-chno="103" tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="Sport",Sky Sports Premier League
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3624.ts
-
-#EXTINF:-1 tvg-chno="104" tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga" tvg-logo="" group-title="Sport",Sky Bundesliga
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3471.ts
-
-#EXTINF:-1 tvg-chno="105" tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="Sport",Sky Sports Main Event
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3625.ts
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mortal Kombat" tvg-logo="" group-title="Kids",Mortal Kombat
 http://painel.tvdigitalsbl.net:80/live/vo/vo/13480.ts
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mortal Kombat" tvg-logo="" group-title="Kids",Mortal Kombat
 #EXTINF:-1 tvg-chno="310" tvg-id="(no tvg-id)" tvg-name="BEN 10" tvg-logo="" group-title="Kids",BEN 10
 http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/31653.ts
 
@@ -334,7 +357,7 @@ http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.ts
 #EXTINF:-1 tvg-chno="311" tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="" group-title="Kids",Tom & Jerry
 http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.ts
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-chno="857" tvg-id="(no tvg-id)" tvg-name="MINNAL FM" tvg-logo="" group-title="Radio",MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 
