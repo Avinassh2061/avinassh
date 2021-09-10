@@ -168,6 +168,9 @@ https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TviHd1.png/800px-TviHd1.png" group-title="Tamil",TVi 
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil",TTV
+http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/tharun.jpg" group-title="Tharun Movies"
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 
