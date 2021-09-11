@@ -96,9 +96,6 @@ http://account11.livebox.co.in/jcvtvhls/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeevan TV" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg" group-title="Tamil",Jeevan TV
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeyam TV" tvg-logo="https://i.postimg.cc/3wjpKKPS/1619855252303.png" group-title="Tamil",Jeyam TV
-http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jothi TV" tvg-logo="https://i.postimg.cc/HLY2xCk7/Screenshot-2021-05-30-21-48-36-457-org-videolan-vlc-1622391681522.png" group-title="Tamil",Jothi TV
 http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8
 
