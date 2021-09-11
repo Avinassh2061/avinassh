@@ -15,6 +15,9 @@ http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Sirippoli_tv.jpg/150px-Sirippoli_tv.jpg" group-title="Tamil",Siripoli
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51YPQbKaHVL.png" group-title="Tamil",Captain TV 
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADITHYA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil",ADITHYA
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6489.ts
 
