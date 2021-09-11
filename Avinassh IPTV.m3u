@@ -248,7 +248,7 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE THIRAI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil",ZEE THIRAI
-http://watchindia.net:8880/live/60275/20486/2142.ts
+http://lbproxy.com/watch/e4ca96ed-1c40-4387-a34f-7b1431b62e1f/e03e5ab6-c29f-45e0-adc7-f4dd327849de/mpegts
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Malay" ,Astro Awani
@@ -342,6 +342,12 @@ http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3624.ts
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro First (Malay)" tvg-logo="" group-title="Movie",Astro First (Malay)
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/353.ts
+
+#EXTINF:-1 group-title="Movie" ,&Flix
+http://lbproxy.com/watch/e4ca96ed-1c40-4387-a34f-7b1431b62e1f/0515e4d4-c90d-4bd3-90a9-e67a2b52d5a0/mpegts
+
+#EXTINF:-1 group-title="Movie" ,Sony Pix HD
+http://lbproxy.com/watch/e4ca96ed-1c40-4387-a34f-7b1431b62e1f/a20fd0b3-5100-4fa5-a679-15b480545d9f/mpegts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Dream Works" tvg-logo="" group-title="Movie",Bein Dream Works
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/4351.ts
