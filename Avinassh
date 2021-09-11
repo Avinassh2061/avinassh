@@ -219,7 +219,7 @@ http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TET" tvg-logo="http://www.artsrn.ualberta.ca/MinorityMedia/files/fullsize/e044831b9ec5b3c3197854ec870e3359.jpg" group-title="Tamil",TET
 https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tharun Movies" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/tharun.jpg" group-title="Tamil",Tharun Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tharun Movies" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/tharun.jpg" group-title="Tamil" ,Tharun Movies
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TTV" tvg-logo="" group-title="Tamil",TTV
