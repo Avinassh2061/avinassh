@@ -189,10 +189,6 @@ http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sigaram TV" tvg-logo="https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1" group-title="Tamil",Sigaram TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Tamil", 
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMCV TV" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600013835967/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=s300?v=1" group-title="Tamil",SMCV TV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 
@@ -210,9 +206,6 @@ http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8315.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Tamil",SUN TV (IN)
 https://suntvlive.s.llnwi.net/SunTVHDINDIA/SunTVHDINDIA.isml/.m3u8?p=61&se=1631369162&e=1631397962&h=e7bdc07777f4487c3eabcac897dcad77&type=hd
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil TV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/worldtamiltv_logo.png" group-title="Tamil",Tamil TV
-http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamilan TV" tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Tamil",Tamilan TV
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
