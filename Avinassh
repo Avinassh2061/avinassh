@@ -198,6 +198,9 @@ http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Tamil",SUN TV
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400718.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Tamil",SUN TV (IN)
+https://suntvlive.s.llnwi.net/SunTVHDINDIA/SunTVHDINDIA.isml/.m3u8?p=61&se=1631340089&e=1631368889&h=af77fec569a8aedbda42b6175d9cfd59&type=hd
+
 #EXTINF:-1 tvg-logo="http://www.artsrn.ualberta.ca/MinorityMedia/files/fullsize/e044831b9ec5b3c3197854ec870e3359.jpg" group-title="Tamil",TET
 https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
 
