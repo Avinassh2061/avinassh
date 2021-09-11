@@ -187,7 +187,7 @@ http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sigaram TV" tvg-logo="https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1" group-title="Tamil",Sigaram TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
+https://secure.ultramaxnet.com/tv/sigaramtv.tv
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Singam TV" tvg-logo="https://singamcloud.com/tv/upload/1616159247_icon.png" group-title="Tamil",Singam TV
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
