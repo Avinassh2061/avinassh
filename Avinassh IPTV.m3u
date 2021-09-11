@@ -12,8 +12,8 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abinaya HD" tvg-logo="https://content3.jdmagicbox.com/comp/thoothukudi/x7/9999px461.x461.171230025350.z5x7/catalogue/abinaya-tv-eral-thoothukudi-tv-dealers-glypt4le1n-250.jpg" group-title="Tamil",Abinaya HD
 http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACN Cinema" tvg-logo="http://7starcloud.in/ACN CINEMA.png" group-title="Tamil",ACN Cinema
-http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACN Cinema" tvg-logo="http://7starcloud.in/ACN CINEMA.png" group-title="Tamil",Siripoli
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADITHYA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil",ADITHYA
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6489.ts
@@ -138,8 +138,8 @@ http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunk
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV " tvg-logo="https://play-lh.googleusercontent.com/sr5-6eljq5LvnXBQt1maEBiDI0Batwfo1PSMJ7GnmM-KxzOGRvER-5CF-wvuDZrIGdMV=s180-rw" group-title="Tamil",NTV 
 http://185.105.4.244:1935/live/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAKALAVAN TV" tvg-logo="https://api.ctvtamil.tv/public/images/programs/4420pakalavan.png" group-title="Tamil",PAKALAVAN TV
-http://198.144.149.82:8080/PAKALAVAN_WEB/index.m3u8?token=PK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://api.ctvtamil.tv/public/images/programs/4420pakalavan.png" group-title="Tamil",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Palar TV" tvg-logo="https://play-lh.googleusercontent.com/bVIy7zAGzU83gKXqRc5CWLyErXaOqj-wjs6NF2QLFvQUGlyM10a5AosjWmkXjq6U5kPp=s180-rw" group-title="Tamil",Palar TV
 http://account13.livebox.co.in/palartvhls/live.m3u8
@@ -187,7 +187,7 @@ http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sigaram TV" tvg-logo="https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1" group-title="Tamil",Sigaram TV
-https://secure.ultramaxnet.com/tv/sigaramtv.tv
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Singam TV" tvg-logo="https://singamcloud.com/tv/upload/1616159247_icon.png" group-title="Tamil",Singam TV
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
@@ -226,7 +226,7 @@ https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/in
 http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TviHd1.png/800px-TviHd1.png" group-title="Tamil",TVi
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultrmax TV" tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil",Ultrmax TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
@@ -250,11 +250,14 @@ http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.ts
 http://watchindia.net:8880/live/60275/20486/2142.ts
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Malay" ,Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Hello" tvg-logo="" group-title="Malay",Astro Hello
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400651.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Oasis" tvg-logo="" group-title="Malay",Astro Oasis
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400691.ts
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Okey" tvg-logo="" group-title="Malay",Astro Okey
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400726.ts
@@ -278,13 +281,19 @@ http://ky-iptv.com:25461/live/Butcher/Butcher/1350408.ts
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400545.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV ALHIJRAH" tvg-logo="" group-title="Malay",TV ALHIJRAH
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400750.ts
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3 HD" tvg-logo="" group-title="Malay",TV3 HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400733.ts
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2 HD" tvg-logo="" group-title="Malay",TV2 HD
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="Malay" ,TV1 HD
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS" tvg-logo="" group-title="Malay",TVS
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400749.ts
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" ASSP EPL Live 1" tvg-logo="" group-title="Sport", ASSP EPL Live 1
