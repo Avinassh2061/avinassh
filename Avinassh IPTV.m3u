@@ -93,7 +93,7 @@ http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/561.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAYA MOVIES" tvg-logo="https://sc.dish.com/shared/images/station-logos/JMOV.png" group-title="Tamil",JAYA MOVIES
 http://watchindia.net:8880/live/60275/20486/849.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JCV TV" tvg-logo="http://sketchnet.hostkda.com/uploads/tv_image/sm/jcv-tv.link" group-title="Tamil",JCV TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JCV TV" tvg-logo="https://i.postimg.cc/HWJrCrGd/Capture.png" group-title="Tamil",JCV TV
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeevan TV" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg" group-title="Tamil",Jeevan TV
@@ -108,7 +108,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kavin TV" tvg-logo="https://static.ultramaxnet.com/images/kavin_tv_logo.jpeg" group-title="Tamil",Kavin TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/KTV_India_logo.svg/revision/latest?cb=20210622070345" group-title="Tamil",KTV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="https://i.postimg.cc/mD1BKFPn/Capture.png" group-title="Tamil",KTV HD
 https://suntvlive.s.llnwi.net/KTVHD/KTVHD.isml/.m3u8?p=47&se=1631369128&e=1631397928&h=c55e8b0eb78c920f804c7d29595a05f6&type=hd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KVM TV" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kvmtv.jpg" group-title="Tamil",KVM TV
@@ -216,7 +216,7 @@ https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tharun Movies" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/tharun.jpg" group-title="Tamil" ,Tharun Movies
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TTV" tvg-logo="" group-title="Tamil",TTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TTV" tvg-logo="https://androidrub.com/wp-content/uploads/2020/07/iptv-5-4-7-mod-apk-2262.jpg" group-title="Tamil",TTV
 http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TviHd1.png/800px-TviHd1.png" group-title="Tamil",TVi
