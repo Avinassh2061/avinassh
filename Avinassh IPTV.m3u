@@ -57,6 +57,9 @@ http://89.187.162.89/Capital_TV-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS TAMIL" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2020/02/Colors-Tamil_1.jpg&w=620&h=350&zc=1&q=100" group-title="Tamil",COLORS TAMIL
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10708.ts
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS TAMIL" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2020/02/Colors-Tamil_1.jpg&w=620&h=350&zc=1&q=100" group-title="Tamil",COLORS TAMIL (IN)
+http://193.161.193.99:49103/st/suriya/aio.php?id=51261
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj_8o0ceu3UGuWETkKXwANutQ0uvGq6oMx7wE4lyw=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil",CTN TV
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 
@@ -240,8 +243,13 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetamil/list/1170x658_1250786368.jpg" group-title="Tamil",ZEE TAMIL HD
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.ts
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetamil/list/1170x658_1250786368.jpg" group-title="Tamil",ZEE TAMIL HD (IN)
+http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeetamil 
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE THIRAI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil",ZEE THIRAI
 http://lbproxy.com/watch/e4ca96ed-1c40-4387-a34f-7b1431b62e1f/e03e5ab6-c29f-45e0-adc7-f4dd327849de/mpegts
+#http://193.161.193.99:49103/szs/suriya/zlive.php?c=224 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil",Polimer News
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Polimer_News&q=800
