@@ -109,7 +109,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="https://i.postimg.cc/mD1BKFPn/Capture.png" group-title="Tamil",KTV HD
-https://suntvlive.s.llnwi.net/KTVHD/KTVHD.isml/.m3u8?p=47&se=1631369128&e=1631397928&h=c55e8b0eb78c920f804c7d29595a05f6&type=hd
+http://193.161.193.99:49103/szs/suriya/sun.php?c=26566
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KVM TV" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kvmtv.jpg" group-title="Tamil",KVM TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
@@ -199,13 +199,13 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8340.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Music HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Sun_music_2014.jpg" group-title="Tamil",Sun Music HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6150.ts
+http://193.161.193.99:49103/szs/suriya/sun.php?c=9013
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Tamil",SUN TV
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8315.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Tamil",SUN TV (IN)
-https://suntvlive.s.llnwi.net/SunTVHDINDIA/SunTVHDINDIA.isml/.m3u8?p=61&se=1631369162&e=1631397962&h=e7bdc07777f4487c3eabcac897dcad77&type=hd
+http://193.161.193.99:49103/szs/suriya/sun.php?c=14020
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamilan TV" tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Tamil",Tamilan TV
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
@@ -331,6 +331,9 @@ http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3625.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="Sport",Sky Sports Premier League
 http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3624.ts
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sport" ,Ten 4 HD Tamil
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Ten_4_HD_Tamil&q=800
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro First (Malay)" tvg-logo="" group-title="Movie",Astro First (Malay)
