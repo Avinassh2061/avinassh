@@ -251,10 +251,6 @@ http://193.161.193.99:49103/szs/suriya/zlive.php?c=224
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="628" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil",Zee Tamil
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Zee_Tamil&q=800
-#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Tamil",Colors Tamil HD
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Colors_Tamil_HD&q=800
 #EXTINF:-1 tvg-id="420" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Tamil",Jaya Max
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Jaya_Max&q=800
 #EXTINF:-1 tvg-id="835" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="Tamil",Angel TV HD
@@ -501,25 +497,25 @@ http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="" group-title="Kids",Tom & Jerry
 http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.ts
 
-#EXTINF:-1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Tamil",Nick Tamil
+#EXTINF:-1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Kids",Nick Tamil
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Nick_Tamil&q=800
 
-#EXTINF:-1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Tamil",Pogo Tamil
+#EXTINF:-1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Kids",Pogo Tamil
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Pogo_Tamil&q=800
 
-#EXTINF:-1 tvg-id="817" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Tamil",Cartoon Network Tamil
+#EXTINF:-1 tvg-id="817" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Kids",Cartoon Network Tamil
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Cartoon_Network_Tamil&q=800
 
-#EXTINF:-1 tvg-id="290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil",sonic Tamil
+#EXTINF:-1 tvg-id="290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Kids",sonic Tamil
 http://193.161.193.99:49103/jt/suriya/jt.php?c=sonic_Tamil&q=800
 
-#EXTINF:-1 tvg-id="550" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Tamil",Discovery Kids Tamil
+#EXTINF:-1 tvg-id="550" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Kids",Discovery Kids Tamil
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Discovery_Kids_Tamil&q=800
 
-#EXTINF:-1 tvg-id="873" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Tamil",Sony Yay Tamil
+#EXTINF:-1 tvg-id="873" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Kids",Sony Yay Tamil
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Sony_Yay_Tamil&q=800
 
-#EXTINF:-1 tvg-id="1081" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Tamil",CN HD+ Tamil
+#EXTINF:-1 tvg-id="1081" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Kids",CN HD+ Tamil
 http://193.161.193.99:49103/jt/suriya/jt.php?c=CN_HD_Tamil&q=800
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
