@@ -339,7 +339,7 @@ http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3625.ts
 http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3624.ts
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sport" ,Ten 4 HD
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Ten_4_HD_Tamil&q=800
+http://jiotv.live.cdn.jio.com/Ten_4_HD_Tamil/Ten_4_HD_Tamil_800-1631431442000.ts
 
 #EXTINF:0 tvg-id="1235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Tamil_HD.png" group-title="Sport",Jio Football HD 
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Jio_Football_Tamil_HD&q=800
