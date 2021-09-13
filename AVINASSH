@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://files.3y1.xyz/static/sitemap/ott_xmltv.xml?key=20210908051105"
 #EXT-X-VERSION:7
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:EVENT
 
 #EXTINF:-1 tvg-id="3 Tamil TV" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png" group-title="Tamil",3 Tamil TV
