@@ -355,10 +355,10 @@ http://193.161.193.99:49103/jt/suriya/jt.php?c=Jio_Football_Tamil_HD&q=800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro First (Malay)" tvg-logo="" group-title="Movie",Astro First (Malay)
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/353.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix FHD Global
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Movie", Sony Pix FHD Global
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies FHD Global
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Movie", Star Movies FHD Global
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Dream Works" tvg-logo="" group-title="Movie",Bein Dream Works
