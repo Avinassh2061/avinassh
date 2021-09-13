@@ -244,14 +244,20 @@ http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="Yupp Thirai" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png" group-title="Tamil",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
-#EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetamil/list/1170x658_1250786368.jpg" group-title="Tamil",ZEE TAMIL HD
+#EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-logo="" group-title="Tamil",ZEE TAMIL HD
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.m3u8
 
-#EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetamil/list/1170x658_1250786368.jpg" group-title="Tamil",ZEE TAMIL HD (IN)
+#EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",ZEE TAMIL HD (IN)
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeetamil 
 
-#EXTINF:-1 tvg-id="ZEE THIRAI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil",ZEE THIRAI
+#EXTINF:-1 tvg-id="ZEE THIRAI" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",ZEE THIRAI
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=224
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil" ,Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil" ,
+http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
