@@ -373,9 +373,6 @@ http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Awani" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Hello" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Hello
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400651.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Oasis" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
@@ -440,7 +437,7 @@ http://ky-iptv.com:25461/Butcher/Butcher/1400565.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",beIN SPORTS HD
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5020.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Max" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",beIN Sport MAX HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Max" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",beIN Sports MAX HD
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5012.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN
