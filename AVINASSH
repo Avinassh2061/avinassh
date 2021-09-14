@@ -1,8 +1,4 @@
-#EXTM3U url-tvg="https://files.3y1.xyz/static/sitemap/ott_xmltv.xml?key=20210908051105"
-#EXT-X-VERSION:7
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-PLAYLIST-TYPE:EVENT
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
 
 #EXTINF:-1 tvg-id="3 Tamil TV" tvg-name="3 Tamil TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
@@ -367,7 +363,7 @@ http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Asosa TV
 http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Anandam Abi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Abi TV
 http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Isai Saral
@@ -378,31 +374,31 @@ http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Hello" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Hello
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400651.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400651.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Oasis" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Okey" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Okey
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400726.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400726.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Rania" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Rania
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400571.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400571.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Aura" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Aura
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400567.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400567.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Warna" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Warna
-http://ky-iptv.com:25461/live/Butcher/Butcher/1350410.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1350410.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Ria" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Ria
-http://ky-iptv.com:25461/live/Butcher/Butcher/1350409.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1350409.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Citra" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Citra
-http://ky-iptv.com:25461/live/Butcher/Butcher/1350408.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1350408.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aljazeera Asia" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Aljazeera Asia
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400545.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400545.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV ALHIJRAH" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV ALHIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
@@ -480,101 +476,68 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Dream Works" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Dream Works
-http://hbox.cdnss.me:80/live/tring123/tring123/4351.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/4351.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Movies (DRAMA)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Movies (DRAMA)
-http://hbox.cdnss.me:80/live/tring123/tring123/2398.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/2398.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Movies (FAMILY)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",BeIN Movies (FAMILY)
-http://hbox.cdnss.me:80/live/tring123/tring123/2570.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/2570.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Movies (PREMERE)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Movies (PREMERE)
-http://hbox.cdnss.me:80/live/tring123/tring123/2054.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAM Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",FAM Movies
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4654.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/2054.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",FOX
-http://hbox.cdnss.me:80/live/tring123/tring123/4361.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/4361.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Action Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Fox Action Movies
-http://hbox.cdnss.me:80/live/tring123/tring123/4358.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/4358.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Family Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Fox Family Movies
-http://hbox.cdnss.me:80/live/tring123/tring123/4359.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/4359.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Fox Movies HD
-http://hbox.cdnss.me:80/live/tring123/tring123/4360.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/4360.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix Action" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Netflix Action
-http://hbox.cdnss.me:80/live/tring123/tring123/7221.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/7221.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix SciFi" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Netflix SciFi
-http://hbox.cdnss.me:80/live/tring123/tring123/7222.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/7222.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix Thriller" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Netflix Thriller
-http://hbox.cdnss.me:80/live/tring123/tring123/7223.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/7223.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Osn Movie Action HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Osn Movie Action HD
-http://hbox.cdnss.me:80/live/tring123/tring123/1006.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/1006.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OSN Movies Thriller 2" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",OSN Movies Thriller 2
-http://hbox.cdnss.me:80/live/tring123/tring123/6119.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY CINEMA PREMIERE" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",SKY CINEMA PREMIERE
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/5964.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY MOViES DISNEY HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",SKY MOViES DISNEY HD
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3716.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY MOVIES SCI-FI & HORROR" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",SKY MOVIES SCI-FI & HORROR
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3722.ts
+http://hbox.cdnss.me:80/live/tring123/tring123/6119.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Kids" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEN 10" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",BEN 10
-http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/31653.ts
+http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/31653.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MICKEY MOUSE" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",MICKEY MOUSE
-http://v4.watchithere.xyz:8080/live/Marky/Marky/305019.ts
+http://v4.watchithere.xyz:8080/live/Marky/Marky/305019.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr Bean" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Mr Bean
-http://v4.watchithere.xyz:8080/live/Marky/Marky/304089.ts
+http://v4.watchithere.xyz:8080/live/Marky/Marky/304089.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAW PATROL" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",PAW PATROL
-http://v4.watchithere.xyz:8080/live/Marky/Marky/305035.ts
+http://v4.watchithere.xyz:8080/live/Marky/Marky/305035.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCOOBY DOO" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",SCOOBY DOO
-http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.ts
+http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Tom & Jerry
-http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.ts
-
-#EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Nick Tamil
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Nick_Tamil&q=800
-
-#EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Pogo Tamil
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Pogo_Tamil&q=800
-
-#EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Cartoon Network Tamil
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Cartoon_Network_Tamil&q=800
-
-#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",sonic Tamil
-http://193.161.193.99:49103/jt/suriya/jt.php?c=sonic_Tamil&q=800
-
-#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Discovery Kids Tamil
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Discovery_Kids_Tamil&q=800
-
-#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Sony Yay Tamil
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Sony_Yay_Tamil&q=800
-
-#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",CN HD+ Tamil
-http://193.161.193.99:49103/jt/suriya/jt.php?c=CN_HD_Tamil&q=800
+http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.m3u8
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINNAL FM" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Radio",MINNAL FM
