@@ -367,6 +367,12 @@ http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Asosa TV
 http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Anandam Abi TV
+http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Isai Saral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Awani" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
