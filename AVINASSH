@@ -27,7 +27,7 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 
 #EXTINF:-1 tvg-id="ADITHYA" tvg-name="ADITHYA" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Adithya
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6489.m3u8
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6489.ts
 
 #EXTINF:-1 tvg-id="Analai Express TV" tvg-name="Analai Express TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Analai Express TV
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
@@ -48,7 +48,7 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
 
 #EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Astro Vinmeen HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4995.m3u8
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4995.ts
 
 #EXTINF:-1 tvg-id="Athavan TV" tvg-name="Athavan TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Athavan TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
@@ -63,7 +63,7 @@ http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 http://89.187.162.89/Capital_TV-LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Colors Tamil HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10708.m3u8
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10708.ts
 
 #EXTINF:-1 tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",COLORS TAMIL (IN)
 http://193.161.193.99:49103/st/suriya/aio.php?id=51261
@@ -100,7 +100,7 @@ http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jaya max" tvg-name="Jaya max" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jaya Max
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/561.m3u8
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/561.ts
 
 #EXTINF:-1 tvg-id="JAYA MOVIES" tvg-name="JAYA MOVIES" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jaya Movies
 http://watchindia.net:8880/live/60275/20486/849.m3u8
@@ -212,13 +212,13 @@ http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Star Vijay
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8340.m3u8
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8340.ts
 
 #EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Sun Music
 http://193.161.193.99:49103/szs/suriya/sun.php?c=9013
 
 #EXTINF:-1 tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",SUN TV
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8315.m3u8
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8315.ts
 
 #EXTINF:-1 tvg-id="SUN TV (IN)" tvg-name="SUN TV (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",SUN TV HD (IN)
 http://193.161.193.99:49103/szs/suriya/sun.php?c=14020
@@ -254,7 +254,7 @@ http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Zee Tamil HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.m3u8
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.ts
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Zee Tamizh (IN)
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeetamil
