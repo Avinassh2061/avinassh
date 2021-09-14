@@ -69,6 +69,7 @@ http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EET TV" tvg-name="EET TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8?e=3
+https://live.streamjo.com/eetlive/eettv.m3u8
 
 #EXTINF:-1 tvg-id="Ezhil TV" tvg-name="Ezhil TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Ezhil TV
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
@@ -365,11 +366,6 @@ http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Asosa TV
 http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",RJ TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/rjtv_low/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",TEST
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Awani" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -445,6 +441,7 @@ http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5020.m3u8
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5012.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN
+http://stream2.grandma.fit/fs2.m3u8
 http://painel.tvdigitalsbl.net/live/vo/vo/13355.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Bundesliga
