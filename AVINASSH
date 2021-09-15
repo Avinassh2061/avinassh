@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
-#EXTM3U url-tvg="http://rstream.me/epg.xml"
 
 #EXTINF:-1 tvg-id="3 Tamil TV" tvg-name="3 Tamil TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
