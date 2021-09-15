@@ -312,7 +312,7 @@ http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 #EXTINF:-1 tvg-id="Rasi TV" tvg-name="Rasi TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JAYA MOVIES" tvg-name="JAYA MOVIES" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jaya Movies
+#EXTINF:-1 tvg-id="JAYA MOVIES" tvg-name="JAYA MOVIES" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Jaya Movies
 http://watchindia.net:8880/live/60275/20486/849.m3u8
 
 #EXTINF:-1 tvg-id="Japan Tamil" tvg-name="Japan Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Japan Tamil
@@ -341,7 +341,7 @@ https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 #EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Sun Music
 http://193.161.193.99:49103/szs/suriya/sun.php?c=9013
 
-#EXTINF:-1 tvg-id="Sachin Music" tvg-name="Sachin Music" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Sachin Music
+#EXTINF:-1 tvg-id="Sachin Music" tvg-name="Sachin Music" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil MUsic",Sachin Music
 http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
 
 #EXTINF:-1 tvg-id="Rasi Music" tvg-name="Rasi Music" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Rasi Music
