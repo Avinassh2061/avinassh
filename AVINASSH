@@ -119,97 +119,97 @@ http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hari TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Hari TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",AVINASSH IPTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",AVINASSH IPTV
 http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Rainbow TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Rainbow TV
 http://live.singamcloud.in:1935/rainbowtv/rainbowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Sai TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Sai TV
 http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jos TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jos TV
 http://stream.singamcloud.in:1935/jostv/jostv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Vaigai TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Vaigai TV
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Krishna TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Krishna TV
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",KRP TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",KRP TV
 http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Maa TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Maa TV
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Izzath TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Izzath TV
 http://stream.singamcloud.in:1935/izzathtv/izzathtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",VVN TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",VVN TV
 http://stream.singamcloud.in:1935/panchayathutv/panchayathutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Hello TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Hello TV
 http://stream.singamcloud.in:1935/hellotv/hellotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Krishna Media
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Krishna Media
 http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Lucky TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Lucky TV
 http://singamcloud.in:1935/luckytv/luckytv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Kanchi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Kanchi TV
 http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Aarya TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Aarya TV
 http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jay TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jay TV
 http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Metro TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Metro TV
 http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Nine TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Nine TV
 http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Orange TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Orange TV
 http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Salm TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Salm TV
 http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Sai TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Sai TV
 http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Thirumalai TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Thirumalai TV
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Tamil TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Tamil TV
 http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Aasai TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Aasai TV
 http://osaitv.livebox.co.in/osaihls/live.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Pakalavan TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Pakalavan TV
 http://198.144.149.82:8080/PAKALAVAN_WEB/index.m3u8?token=PK
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Penguin TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Penguin TV
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Tacto TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Tacto TV
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jayam TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jayam TV
 http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Asosa TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Asosa TV
 http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Abi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Abi TV
 http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",SHALINI TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",SHALINI TV
 http://62.176.93.133:8004/play/a00i
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
