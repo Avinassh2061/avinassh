@@ -50,7 +50,7 @@ http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-name="Jeevan TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jeevan TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
+https://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
 
 #EXTINF:-1 tvg-id="Jothi TV" tvg-name="Jothi TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jothi TV
 http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8
@@ -97,9 +97,6 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-id="Tamilan TV" tvg-name="Tamilan TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Tamilan TV
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TET" tvg-name="TET" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",TET
-https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
 
 #EXTINF:-1 tvg-id="TTV" tvg-name="TTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",TTV
 http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
@@ -211,6 +208,7 @@ http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",SHALINI TV
 http://62.176.93.133:8004/play/a00i
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Zee Tamizh (IN)
@@ -387,6 +385,7 @@ http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6489.ts
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Awani" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Oasis" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -407,7 +406,7 @@ http://ky-iptv.com:25461/live/Butcher/Butcher/1350410.m3u8
 http://ky-iptv.com:25461/live/Butcher/Butcher/1350409.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Citra" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Citra HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1350408.m3u8
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aljazeera Asia" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Al Jazeera English HD
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400545.m3u8
@@ -426,6 +425,18 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Quan Jia 
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Naura
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASSP EPL Live 1" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASSP EPL Live 1
@@ -459,27 +470,45 @@ http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5012.ts
 http://stream2.grandma.fit/fs2.m3u8
 http://painel.tvdigitalsbl.net/live/vo/vo/13355.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Bundesliga
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3471.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
+http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62984.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Sports Football
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3626.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport La Liga
+http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62983.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Sports Main Event
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3625.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Football
+http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62990.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Sports Premier League
-http://xtrastv.club:8080/live/cat54_2/9fr3T8J6dsw/3624.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SKY BUNDESLIGA 
+http://hbox.cdnss.me:80/live/tring123/tring123/7370.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten 4 HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Ten 4 HD
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Ten_4_HD_Tamil&q=800
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jio Football HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Jio Football HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Jio Football HD
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Jio_Football_Tamil_HD&q=800
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",LFC TV
+http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",MU TV
+http://178.175.132.170:8888/02_MUTV_720p/chunklist.m3u8
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro First (Malay)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Astro First (Malay)
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/353.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",AVINASSH IPTV (Venom) 
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17529.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",AVINASSH IPTV (Avenger End Game) 
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17515.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",AVINASSH IPTV (Godzilla King Of The Monsters)
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17546.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",AVINASSH IPTV (Scary Stories To Tell In The Dark)
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17554.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix FHD Global" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Sony Pix 
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
@@ -498,6 +527,9 @@ http://hbox.cdnss.me:80/live/tring123/tring123/2570.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Movies (PREMERE)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Movies (PREMERE)
 http://hbox.cdnss.me:80/live/tring123/tring123/2054.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Movies (PREMERE)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Movies (ACTION) 
+http://hbox.cdnss.me:80/live/tring123/tring123/2053.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",FOX
 http://hbox.cdnss.me:80/live/tring123/tring123/4361.m3u8
@@ -550,6 +582,7 @@ http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Tom & Jerry
 http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.m3u8
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17173.ts
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINNAL FM" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Radio",MINNAL FM
