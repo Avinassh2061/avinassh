@@ -297,19 +297,19 @@ http://watchindia.net:8880/live/60275/20486/2190.m3u8
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 
 #EXTINF:-1 tvg-id="Rasi Movies" tvg-name="Rasi Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Rasi Movies
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KTV HD" tvg-name="KTV HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",KTV HD
 http://193.161.193.99:49103/szs/suriya/sun.php?c=26566
 
 #EXTINF:-1 tvg-id="Rasi Hollywood" tvg-name="Rasi Hollywood" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Rasi Hollywood
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rasi Tamil" tvg-name="Rasi Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Rasi Tamil
-http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rasi TV" tvg-name="Rasi TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Rasi TV
-http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JAYA MOVIES" tvg-name="JAYA MOVIES" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Jaya Movies
 http://watchindia.net:8880/live/60275/20486/849.m3u8
@@ -344,7 +344,7 @@ http://193.161.193.99:49103/szs/suriya/sun.php?c=9013
 http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
 
 #EXTINF:-1 tvg-id="Rasi Music" tvg-name="Rasi Music" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Rasi Music
-http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jaya max" tvg-name="Jaya max" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Jaya Max
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/561.ts
