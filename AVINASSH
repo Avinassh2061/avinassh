@@ -498,18 +498,6 @@ http://178.175.132.170:8888/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro First (Malay)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Astro First (Malay)
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/353.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",AVINASSH IPTV (Venom) 
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17529.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",AVINASSH IPTV (Avenger End Game) 
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17515.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",AVINASSH IPTV (Godzilla King Of The Monsters)
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17546.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",AVINASSH IPTV (Scary Stories To Tell In The Dark)
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17554.ts
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix FHD Global" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Sony Pix 
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
