@@ -189,8 +189,6 @@ http://193.161.193.99:49103/szs/suriya/sun.php?c=14020
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 #EXTINF:-1 tvg-id="Polimer TV" tvg-name="Polimer TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Polimer TV
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
-#EXTINF:-1 tvg-id="RAJ TV" tvg-name="RAJ TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Raj TV
-http://193.161.193.99:49103/jt/suriya/jt.php?c=Raj_TV&q=800
 #EXTINF:-1 tvg-id="MOON TV" tvg-name="MOON TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",MOON TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="MK TV" tvg-name="MK TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",MK TV
@@ -209,6 +207,13 @@ http://193.161.193.99:49103/st/suriya/aio.php?id=51261
 http://14.199.164.20:4001/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Captain TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Captain TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:4326069
+#EXT-X-TARGETDURATION:1
+#EXT-X-KEY:METHOD=AES-128,URI="hd1.php?id=0&key=Raj_TV/Raj_TV_800-1631953708000.key",IV=0x00000000000000000000017BF80563E0
+#EXTINF:1.000, tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Raj TV
+http://jiotv.live.cdn.jio.com/Raj_TV/Raj_TV_800-1631954152000.ts
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
