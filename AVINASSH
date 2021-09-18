@@ -178,7 +178,16 @@ http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Jeyson TV
 https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Suriya TV
+http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Udayan TV
+http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",STV 
+http://nextgeninfotech.ddns.net:8080/stvchannel/stvchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Anbu TV
+http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Silver Sat
+http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Zee Tamizh (IN)
@@ -207,13 +216,6 @@ http://193.161.193.99:49103/st/suriya/aio.php?id=51261
 http://14.199.164.20:4001/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Captain TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Captain TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:4326069
-#EXT-X-TARGETDURATION:1
-#EXT-X-KEY:METHOD=AES-128,URI="hd1.php?id=0&key=Raj_TV/Raj_TV_800-1631953708000.key",IV=0x00000000000000000000017BF80563E0
-#EXTINF:1.000, tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Raj TV
-http://jiotv.live.cdn.jio.com/Raj_TV/Raj_TV_800-1631954152000.ts
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
