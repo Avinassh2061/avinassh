@@ -1,4 +1,5 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
+
 #EXTINF:-1 tvg-id="3 Tamil TV" tvg-name="3 Tamil TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="7Star TV" tvg-name="7Star TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",7Star TV
@@ -193,26 +194,7 @@ http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
 http://singamcloud.in:1935/bonushd/bonushd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ram TV" tvg-logo="" group-title="Tamil",Ram TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17173.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://painel.tvdigitalsbl.net/live/vo/vo/13355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://ky-iptv.com:25461/Butcher/Butcher/1400565.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://ky-iptv.com:25461/Butcher/Butcher/1400564.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://ky-iptv.com:25461/Butcher/Butcher/1400561.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://ky-iptv.com:25461/Butcher/Butcher/1400559.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://14.199.164.20:4001/play/a0jv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD (IN)
 https://z5ams.akamaized.net/zeetamilhd/index.m3u8?hdnts=st=1632152918~exp=1632155918~acl=/*~hmac=b747971c6a08d94ce18b8f4998e883707b0f0e4c342f81f961b8e782b05dabae
 #EXTINF:-1 tvg-id="SUN TV (IN)" tvg-name="SUN TV (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",SUN TV (IN)
@@ -235,10 +217,11 @@ http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
 #EXTINF:-1 tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",COLORS TAMIL (IN)
 http://193.161.193.99:49103/st/suriya/aio.php?id=51261
-#EXTINF:-1 tvg-id="tvg-name=" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",AVINASSH IPTV
+#EXTINF:-1 tvg-id="tvg-name=" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Vasanth TV
 http://14.199.164.20:4001/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Captain TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Captain TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ZEE TAMIL HD
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.ts
 #EXTINF:-1 tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Star Vijay
@@ -255,6 +238,7 @@ http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.ts
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4995.ts
 #EXTINF:-1 tvg-id="" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10461.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Raj Digital" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Raj Digital
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Raj_Digital_Plus&q=800
 #EXTINF:-1 tvg-id="" tvg-name="Santhora TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Santhora TV
@@ -285,6 +269,7 @@ http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/354.m3u8
 #EXTINF:-1 tvg-id="Analai Express TV" tvg-name="Analai Express TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Analai Express TV
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+
 #EXTINF:-1 tvg-id="" tvg-name="Raj Musix" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Raj Musix
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Raj_Musix&q=800
 #EXTINF:-1 tvg-id="" tvg-name="Tunes 6" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Tunes 6
@@ -323,6 +308,7 @@ http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vijay Music (test)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Vijay Music (test)
 http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=rk
+
 #EXTINF:-1 tvg-id="" tvg-name="Dan Comedy" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Comedy",Dan Comedy
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 #EXTINF:-1 tvg-id="MK Six" tvg-name="MK Six" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Comedy",MK Six
@@ -333,6 +319,7 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6489.ts
 #EXTINF:-1 tvg-id="" tvg-name="IBC Pagadi" tvg-logo="" group-title="Tamil Comedy",IBC Pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Astro Awani" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Astro Oasis" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oasis
@@ -369,6 +356,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Astro Naura" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="ASSP EPL Live 1" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASSP EPL Live 1
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8463.ts
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="ASSP EPL Live 2" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASSP EPL Live 2
@@ -413,6 +401,7 @@ https://cdn.nowhdtime.com.bd/SonyTen2/index.m3u8
 https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Sony Ten 4" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sony Ten 4
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Ten_4_HD_Tamil&q=800
+
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Astro First (Malay)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Astro First (Malay)
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/353.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Sony Pix FHD Global" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Sony Pix FHD Global
@@ -451,6 +440,7 @@ http://hbox.cdnss.me:80/live/tring123/tring123/7223.m3u8
 http://hbox.cdnss.me:80/live/tring123/tring123/1006.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="OSN Movies Thriller 2" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",OSN Movies Thriller 2
 http://hbox.cdnss.me:80/live/tring123/tring123/6119.m3u8
+
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Akaram Kids" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="BEN 10" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",BEN 10
@@ -465,11 +455,13 @@ http://v4.watchithere.xyz:8080/live/Marky/Marky/305035.m3u8
 http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="Tom & Jerry" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Tom & Jerry
 http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.m3u8
+
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="MINNAL FM" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Radio",MINNAL FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="OSAI" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Radio",OSAI
 https://astro4.rastream.com/osai
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="THR RAAGA" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Radio",THR RAAGA
 https://astro3.rastream.com/raaga
+
 #EXTINF:-1 tvg-id="" tvg-name="Tuqlaq Durbar (2021)" tvg-logo="" group-title="VOD",Tuqlaq Durbar (2021)
 http://s33.uptofiles.net//files/Tamil%202021%20Movies/Tughlaq%20Durbar%20(2021)/Tughlaq%20Durbar%20(Original)/Tughlaq%20Durbar%20(Tamil)/Tughlaq%20Durbar%20(640x360)/Tughlaq%20Durbar%202021%20HD.mp4
