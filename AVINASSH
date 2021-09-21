@@ -189,11 +189,11 @@ http://nextgeninfotech.ddns.net:8080/stvchannel/stvchannel.m3u8
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Silver Sat" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Silver Sat
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MSN TV" tvg-logo="" group-title="Tamil",MSN TV
+#EXTINF:-1 tvg-id="" tvg-name="MSN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",MSN TV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bonus TV" tvg-logo="" group-title="Tamil",Bonus TV
+#EXTINF:-1 tvg-id="" tvg-name="Bonus TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Bonus TV
 http://singamcloud.in:1935/bonushd/bonushd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ram TV" tvg-logo="" group-title="Tamil",Ram TV
+#EXTINF:-1 tvg-id="" tvg-name="Ram TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Ram TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Raj Digital" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Raj Digital
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Raj_Digital_Plus&q=800
