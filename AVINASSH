@@ -35,13 +35,13 @@ http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:-1 tvg-id="JCV TV" tvg-name="JCV TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",JCV TV
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-name="Jeevan TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Jeevan TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
+https://github.com/Avinassh2061/avinassh/raw/main/jeevan%20tv.m3u8
 #EXTINF:-1 tvg-id="Jothi TV" tvg-name="Jothi TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Jothi TV
 http://live.singamcloud.in:1935/jothitv/jothitv/chunklist_w1567168595.m3u8
 #EXTINF:-1 tvg-id="Kavin TV" tvg-name="Kavin TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Kavin TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
 #EXTINF:-1 tvg-id="KVM TV" tvg-name="KVM TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",KVM TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
+https://github.com/Avinassh2061/avinassh/raw/main/KVM%20.m3u8
 #EXTINF:-1 tvg-id="Mon Tamil" tvg-name="Mon Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Mon Tamil
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",NTV
@@ -289,17 +289,17 @@ http://193.161.193.99:49103/szs/suriya/sun.php?c=14020
 #EXTINF:-1 tvg-id="Peppers" tvg-name="Peppers" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Peppers
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 #EXTINF:-1 tvg-id="Polimer TV" tvg-name="Polimer TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Polimer TV
-http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="MOON TV" tvg-name="MOON TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",MOON TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="MK TV" tvg-name="MK TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="MN TV" tvg-name="MN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",MN TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-id="KalaignarTV" tvg-name="KalaignarTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",KalaignarTV
 http://62.176.93.133:8004/play/a002
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Jaya TV
-http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
+http://uk4.zecast.com:1935/star-live/jaya/chunklist_w171342781.m3u8
 #EXTINF:-1 tvg-id="Imayam TV" tvg-name="Imayam TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Imayam TV
 https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
 #EXTINF:-1 tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",COLORS TAMIL (IN)
