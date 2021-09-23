@@ -35,13 +35,13 @@ http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:-1 tvg-id="JCV TV" tvg-name="JCV TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",JCV TV
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-name="Jeevan TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Jeevan TV
-https://github.com/Avinassh2061/avinassh/raw/main/jeevan%20tv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
 #EXTINF:-1 tvg-id="Jothi TV" tvg-name="Jothi TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Jothi TV
 http://live.singamcloud.in:1935/jothitv/jothitv/chunklist_w1567168595.m3u8
 #EXTINF:-1 tvg-id="Kavin TV" tvg-name="Kavin TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Kavin TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
 #EXTINF:-1 tvg-id="KVM TV" tvg-name="KVM TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",KVM TV
-https://github.com/Avinassh2061/avinassh/raw/main/KVM%20.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
 #EXTINF:-1 tvg-id="Mon Tamil" tvg-name="Mon Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Mon Tamil
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",NTV
