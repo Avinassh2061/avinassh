@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:3436474
+#EXT-X-TARGETDURATION:11
+#EXTINF:11.200,
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/3436474.ts
+#EXTINF:11.200,
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/3436475.ts
+#EXTINF:11.200,
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/3436476.ts
