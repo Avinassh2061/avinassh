@@ -271,7 +271,7 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD (IN)
-https://z5ams.akamaized.net/zeetamilhd/index.m3u8?hdnts=st=1632400109~exp=1632403109~acl=/*~hmac=c685cfda1c38cf47cff6e6c8c196742d6e2637c60ed37ae9d0b97faab683a5f1
+http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
 #EXTINF:-1 tvg-id="Peppers" tvg-name="Peppers" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Peppers
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="Polimer TV" tvg-name="Polimer TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Polimer TV
