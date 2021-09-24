@@ -201,6 +201,7 @@ http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="Yupp Thirai" tvg-name="Yupp Thirai" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Yupp Thirai
+http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242626.ts
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Vijay Super
 http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46868
@@ -372,6 +373,8 @@ http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4989.ts
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5020.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Max" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Bein Max
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5012.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO CRICKET
+http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242672.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Premier League" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
 http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62984.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport La Liga" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport La Liga
