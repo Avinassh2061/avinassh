@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVINASSH IPTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",AVINASSH IPTV
-https://github.com/Avinassh2061/avinassh/blob/main/just.mp4?raw=true
 #EXTINF:-1 tvg-id="3 Tamil TV" tvg-name="3 Tamil TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="7Star TV" tvg-name="7Star TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",7Star TV
@@ -300,21 +298,21 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u
 
 
 #EXTINF:-1 tvg-chno="223" tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ZEE TAMIL HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8460.m3u8
 #EXTINF:-1 tvg-chno="224" tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Star Vijay
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8340.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8340.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8315.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8315.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10708.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10708.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-id="Astro Vaanavil HD" tvg-name="Astro Vaanavil HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-id="Astro Vellithirai" tvg-name="Astro Vellithirai" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vellithirai
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.ts
+http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vinmeen HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4995.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4995.m3u8
 #EXTINF:-1 tvg-chno="241" tvg-id="(no tvg-id)" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10461.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10461.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Awani" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
@@ -356,25 +354,47 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASSP EPL Live 1" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASSP EPL Live 1
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8463.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8463.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASSP EPL Live 2" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASSP EPL Live 2
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/1220.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/1220.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Arena HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Supersport 2 HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4990.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4990.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Supersport 3 HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4991.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4991.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Supersport 4 HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 4 HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4992.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4992.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Supersport HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4989.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4989.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",beIN SPORTS
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5020.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5020.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Max" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Bein Max
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5012.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5012.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO CRICKET
 http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242672.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN 
+http://painel.tvdigitalsbl.net/live/CASSIANO1/CASSIANO1/13355.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 01
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/13398.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 02
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/13399.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 03
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/13400.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 04
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/13401.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 7
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19634.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 6
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19635.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 5
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19636.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 4
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19637.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 3 
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19638.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 2
+http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19639.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Premier League" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
 http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62984.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport La Liga" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport La Liga
@@ -385,10 +405,6 @@ http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62990.ts
 http://hbox.cdnss.me:80/live/tring123/tring123/7370.ts
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix FHD Global" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Sony Pix FHD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Star Movies
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Flix" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Dream Works" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Dream Works
@@ -447,5 +463,5 @@ https://astro4.rastream.com/osai
 https://astro3.rastream.com/raaga
 
 
-EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tuqlaq Durbar (2021)" tvg-logo="" group-title="VOD",Tuqlaq Durbar (2021)
+#EXTINF:-1 tvg-logo="" group-title="VOD",Tuqlaq Durbar (2021)
 http://s33.uptofiles.net//files/Tamil%202021%20Movies/Tughlaq%20Durbar%20(2021)/Tughlaq%20Durbar%20(Original)/Tughlaq%20Durbar%20(Tamil)/Tughlaq%20Durbar%20(640x360)/Tughlaq%20Durbar%202021%20HD.mp4
