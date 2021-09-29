@@ -463,5 +463,9 @@ https://astro4.rastream.com/osai
 https://astro3.rastream.com/raaga
 
 
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
 #EXTINF:-0 tvg-logo="https://todayssnews.com/wp-content/uploads/2021/08/Survivor-ZEE5-Tamil-2021-Contestants-Telecast-Time-Host-Start-Date.jpg" group-title="Survivor (Tamil) UNCUT", EP16
 https://abra--8ac92139.api.webtor.io/a3d7351aa167d617b8bbbd328a36986cfc371f5d/www.1TamilMV.guru%20-%20Survivor%20(Tamil)%20UNCUT%20S01%20EP16%20-%20Parvathy%20Embarks%20on%20a%20New%20Island%20-%201080p%20HQ%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.7GB.mp4~vod/hls/7065200147747658f102668483e4aa84/index.m3u8?user-id=8ef4aa4fbb6c189986f93a481c850547&download-id=f7b2ac1ae8f08598fe542729b05a17bc&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85NC4wLjQ2MDYuNjEgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIxNzIuNzAuMTQ3LjEwMSIsImRvbWFpbiI6Ind3dy5yZWxvbHR2LmNvbSIsImV4cCI6MTYzMzQ5Mjk1Mywic2Vzc2lvbklEIjoiWUJUMEdWcVdEejdna1l1VTZCNU1xeXFPTVlqYmNiYzciLCJhZHMiOnRydWUsInJhdGUiOiIxME0iLCJyb2xlIjoibm9ib2R5In0.0uBu_mIw851Jn8h5K0wSDX15HedkOnbedIp9WFp__84&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+#EXT-X-ENDLIST
