@@ -44,7 +44,7 @@ https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",VEL TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/veltv123_low/index.m3u8
-#EXTINF:-1 tvg-id="MN TV" tvg-name="MN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",MN TV
+#EXTINF:-1 tvg-id="MN TV" tvg-name="MN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",MN TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-id="Mon Tamil" tvg-name="Mon Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Mon Tamil
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
@@ -241,8 +241,6 @@ https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
 #EXTINF:-1 tvg-id="Rasi Music" tvg-name="Rasi Music" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Rasi Music
 http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
-#EXTINF:-1 tvg-id="Jaya max" tvg-name="Jaya max" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Jaya max
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/561.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music" ,Santhora TV
 http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SR Musix" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",SR Musix
@@ -301,19 +299,19 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u
 
 
 #EXTINF:-1 tvg-chno="223" tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ZEE TAMIL HD
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242766.ts
+
 #EXTINF:-1 tvg-chno="224" tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Star Vijay
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242762.ts
+
 #EXTINF:-1 tvg-chno="116" tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242763.ts
+
 #EXTINF:-1 tvg-chno="201" tvg-id="Astro Vaanavil HD" tvg-name="Astro Vaanavil HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-id="Astro Vellithirai" tvg-name="Astro Vellithirai" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vellithirai
 http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vinmeen HD
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242765.ts
+
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
 
 
@@ -353,24 +351,13 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242685.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242684.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242683.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 4 HD
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242682.ts
+EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
+EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
+EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
+EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 4 HD
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN 
 http://painel.tvdigitalsbl.net/live/CASSIANO1/CASSIANO1/13355.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 01
-http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/13398.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 02
-http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/13399.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 03
-http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/13400.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 04
-http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/13401.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 7
 http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19634.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 6
