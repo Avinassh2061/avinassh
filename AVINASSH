@@ -201,11 +201,13 @@ http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8
 http://103.98.62.134:8080/hls/kings.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Phoenix TV
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Mathimugam Tv
+http://62.176.93.133:8004/play/a012
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="Yupp Thirai" tvg-name="Yupp Thirai" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Yupp Thirai
-http://echootv.tv:2086/live/tigerjordan_z3inXi/HtFiKlZV/242626.ts
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Vijay Super
 http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46868
@@ -290,8 +292,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/
 http://62.176.93.133:8004/play/a002
 #EXTINF:-1 tvg-id="Imayam TV" tvg-name="Imayam TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Imayam TV
 https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
-#EXTINF:-1 tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",COLORS TAMIL (IN)
-http://193.161.193.99:49103/st/suriya/aio.php?id=51261
+http://62.176.93.133:8004/play/a012
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasanth TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Vasanth TV
 http://14.199.164.20:4001/play/a0la/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Captain TV
@@ -303,7 +304,7 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u
 #EXTINF:-1 tvg-chno="224" tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Star Vijay
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
-
+http://93.190.139.35:8278/streams/d/Suntv/playlist.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
 
 #EXTINF:-1 tvg-chno="201" tvg-id="Astro Vaanavil HD" tvg-name="Astro Vaanavil HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
@@ -351,11 +352,8 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
-EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
-EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
-EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 4 HD
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena HD
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN 
 http://painel.tvdigitalsbl.net/live/CASSIANO1/CASSIANO1/13355.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 7
