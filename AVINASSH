@@ -44,9 +44,10 @@ https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",VEL TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/veltv123_low/index.m3u8
-#EXTINF:-1 tvg-id="MN TV" tvg-name="MN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",MN TV
+#EXTINF:-1 tvg-id="MN TV" tvg-name="MN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",MN TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-id="Mon Tamil" tvg-name="Mon Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Mon Tamil
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",NTV
 http://185.105.4.244:1935/live/ntv/playlist.m3u8
