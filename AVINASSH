@@ -216,6 +216,8 @@ http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46868
 http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46865
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",KTV HD
 http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",ZEE THIRAI
+https://snehz5tv.herokuapp.com/?c=0-9-224
 #EXTINF:-1 tvg-id="Tharun Movies" tvg-name="Tharun Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Tharun Movies
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 #EXTINF:-1 tvg-id="Rasi Movies" tvg-name="Rasi Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Rasi Movies
@@ -279,6 +281,7 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeetamil
 http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
 #EXTINF:-1 tvg-id="Peppers" tvg-name="Peppers" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Peppers
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/Stream(01)/index.m3u8
