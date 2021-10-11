@@ -319,6 +319,9 @@ http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
 http://93.190.139.35:8278/streams/d/Suntv/playlist.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
+#EXTINF:-1 ,Sneh TAMIL (HD)- STAR VIJAY HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
+
 
 #EXTINF:-1 tvg-chno="201" tvg-id="Astro Vaanavil HD" tvg-name="Astro Vaanavil HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
