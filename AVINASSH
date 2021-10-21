@@ -213,10 +213,12 @@ http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="Yupp Thirai" tvg-name="Yupp Thirai" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Vijay Super
+http://thespeedmedia.watch:2086/live/0786/0786/148267.ts
 http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46868
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Tata Sky Tamil Cinema
 http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46865
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",KTV HD
+http://thespeedmedia.watch:2086/live/0786/0786/148249.ts
 http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46851
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",ZEE THIRAI
 https://snehz5tv.herokuapp.com/?c=0-9-224
@@ -283,11 +285,14 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD (IN)
+http://thespeedmedia.watch:2086/live/0786/0786/148264.ts
 https://snehz5tv.herokuapp.com/?c=0-9-zeetamil
 http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Star Vijay (IN)
+http://thespeedmedia.watch:2086/live/0786/0786/148238.ts
 https://live-server-2.splitstream.io/d1f0ba92-3b9d-4e91-be00-e88775796f3d/index.m3u8?e=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Sun TV
+http://thespeedmedia.watch:2086/live/0786/0786/148258.ts
 https://1331.myindian.tv:443/edge/19760/index.m3u8?token=48.1.7850.b6a995660b9ec61f165b85f9820e205d.1.2.2.851.0.0.8d68d7c98ef28c1af43b102185835be9
 #EXTINF:-1 tvg-id="Peppers" tvg-name="Peppers" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Peppers
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/Stream(01)/index.m3u8
@@ -316,15 +321,14 @@ http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
 http://93.190.139.35:8278/streams/d/Suntv/playlist.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400608.ts
+
 #EXTINF:-1 tvg-chno="201" tvg-id="Astro Vaanavil HD" tvg-name="Astro Vaanavil HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-id="Astro Vellithirai" tvg-name="Astro Vellithirai" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vellithirai
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400566.m3u8
+
 #EXTINF:-1 tvg-chno="231" tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vinmeen HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400751.ts
+
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400541.ts
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Awani" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
@@ -361,26 +365,26 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Naura" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="Kids",Astro Ceria
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena 2 HD
-http://foctv.xyz:25510/live/Amir5641/YY5641/420.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400565.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400559.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400561.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 4 HD
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400564.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 5 HD
-http://foctv.xyz:25510/live/Amir5641/YY5641/413.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO CRICKET 
-http://ky-iptv.com:25461/live/Butcher/Butcher/940585.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN 
 http://painel.tvdigitalsbl.net/live/CASSIANO1/CASSIANO1/13355.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 7
@@ -404,37 +408,9 @@ http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62990.ts
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Flix" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",&Flix
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Dream Works" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Dream Works
-http://hbox.cdnss.me:80/live/tring123/tring123/4351.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Movies (DRAMA)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Movies (DRAMA)
-http://hbox.cdnss.me:80/live/tring123/tring123/2398.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Movies (FAMILY)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",BeIN Movies (FAMILY)
-http://hbox.cdnss.me:80/live/tring123/tring123/2570.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Movies (PREMERE)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Movies (PREMERE)
-http://hbox.cdnss.me:80/live/tring123/tring123/2054.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Movies (PREMERE)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Bein Movies (PREMERE)
-http://hbox.cdnss.me:80/live/tring123/tring123/2053.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",FOX
-http://hbox.cdnss.me:80/live/tring123/tring123/4361.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Action Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Fox Action Movies
-http://hbox.cdnss.me:80/live/tring123/tring123/4358.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Family Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Fox Family Movies
-http://hbox.cdnss.me:80/live/tring123/tring123/4359.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Fox Movies HD
-http://hbox.cdnss.me:80/live/tring123/tring123/4360.m3u8
+http://thespeedmedia.watch:2086/live/0786/0786/19781.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix Action" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Netflix Action
-http://hbox.cdnss.me:80/live/tring123/tring123/7221.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix SciFi" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Netflix SciFi
-http://hbox.cdnss.me:80/live/tring123/tring123/7222.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix Thriller" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Netflix Thriller
-http://hbox.cdnss.me:80/live/tring123/tring123/7223.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Osn Movie Action HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Osn Movie Action HD
-http://hbox.cdnss.me:80/live/tring123/tring123/1006.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OSN Movies Thriller 2" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",OSN Movies Thriller 2
-http://hbox.cdnss.me:80/live/tring123/tring123/6119.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Kids" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Akaram Kids
@@ -459,7 +435,3 @@ https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch
 https://astro4.rastream.com/osai
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THR RAAGA" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Radio",THR RAAGA
 https://astro3.rastream.com/raaga
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="CANADA", CA Real Estate Channel
-http://ky-iptv.com:25461/live/Butcher/Butcher/1391389.ts
