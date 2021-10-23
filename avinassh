@@ -33,18 +33,30 @@ http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
 #EXTINF:-1 tvg-id="Jothi TV" tvg-name="Jothi TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Jothi TV
 http://live.singamcloud.in:1935/jothitv/jothitv/chunklist_w1567168595.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Amma TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-name="Jeevan TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Jeevan TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
 #EXTINF:-1 tvg-id="Kavin TV" tvg-name="Kavin TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Kavin TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
 #EXTINF:-1 tvg-id="KVM TV" tvg-name="KVM TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",KVM TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
 #EXTINF:-1 tvg-id="Sigaram TV" tvg-name="Sigaram TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Sigaram TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 #EXTINF:-1 tvg-id="Ultrmax TV" tvg-name="Ultrmax TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Ultrmax TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",VEL TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/veltv123_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",ASR TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/asrtv_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",SAI TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/saitv321_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",BELL TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/belltv123_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",MAYA TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",JAYEM TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
 #EXTINF:-1 tvg-id="MN TV" tvg-name="MN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",MN TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-id="Mon Tamil" tvg-name="Mon Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Mon Tamil
@@ -214,17 +226,13 @@ http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="Yupp Thirai" tvg-name="Yupp Thirai" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Vijay Super
-http://thespeedmedia.watch:2086/live/0786/0786/148267.ts
-http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46868
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Tata Sky Tamil Cinema
-http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46865
+http://thespeedmedia.watch:2086/live/0786/0786/148267.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",KTV HD
-http://thespeedmedia.watch:2086/live/0786/0786/148249.ts
-http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46851
+http://thespeedmedia.watch:2086/live/0786/0786/148249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",ZEE THIRAI
 https://snehz5tv.herokuapp.com/?c=0-9-224
 #EXTINF:-1 tvg-id="Tharun Movies" tvg-name="Tharun Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Tharun Movies
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 #EXTINF:-1 tvg-id="Rasi Movies" tvg-name="Rasi Movies" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Rasi Movies
 http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
 #EXTINF:-1 tvg-id="Rasi Hollywood" tvg-name="Rasi Hollywood" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Rasi Hollywood
