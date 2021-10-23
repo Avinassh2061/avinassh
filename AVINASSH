@@ -19,6 +19,7 @@ http://89.187.162.89/Capital_TV-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="CTN TV" tvg-name="CTN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",CTN TV
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EET TV" tvg-name="EET TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8?token=GTR
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="Ezhil TV" tvg-name="Ezhil TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Ezhil TV
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
@@ -285,7 +286,6 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD (IN)
-http://thespeedmedia.watch:2086/live/0786/0786/148264.ts
 https://snehz5tv.herokuapp.com/?c=0-9-zeetamil
 http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Star Vijay (IN)
@@ -400,11 +400,14 @@ http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19638.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Premiere 2
 http://painel.tvdigitalsbl.net:80/live/CASSIANO1/CASSIANO1/19639.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Premier League" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
-http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62984.ts
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/678029.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport La Liga" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport La Liga
-http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62983.ts
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Football" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Football
-http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/62990.ts
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/678024.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Cricket
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/688714.ts
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Flix" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",&Flix
