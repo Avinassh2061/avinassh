@@ -397,6 +397,7 @@ http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO CRICKET 
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN 
+http://stream2.grandma.fit/fs2.m3u8
 http://painel.tvdigitalsbl.net/live/CASSIANO1/CASSIANO1/13355.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Premier League" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
 http://thespeedmedia.watch:2086/live/0786/0786/90471.m3u8
@@ -410,6 +411,28 @@ http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/678024.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Cricket
 http://thespeedmedia.watch:2086/live/0786/0786/90481.m3u8
 http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/688714.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Star Sport 1 Tamil
+http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=wostvlive
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Star Sport 1
+http://93.152.174.144:4000/play/ss1in/index.m3u8?key=@wostvlive
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Star Sport 2
+http://93.152.174.144:4000/play/ss2in/index.m3u8?key=@wostvlive
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Star Sport 3
+http://93.152.174.144:4000/play/ss3in/index.m3u8?key=@wostvlive
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 1
+https://cdnx00.koralast.com/UpFiles/2021/10/23/34/202624/720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Sports Main Event
+http://185.53.89.183/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",GOLF
+http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",WWE
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Eurosport 1
+https://46-166-142-27.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Eurosport 2
+https://95-213-224-180.livesports24.online/ruseurosport2.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY TEN 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",&Flix
@@ -418,6 +441,10 @@ http://103.153.39.34:8000/play/a057/index.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Sony Pix
 http://thespeedmedia.watch:2086/live/0786/0786/119652.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Kids" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Akaram Kids
@@ -436,6 +463,8 @@ http://v4.watchithere.xyz:8080/live/Marky/Marky/305035.m3u8
 http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Tom & Jerry
 http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Marvel HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/1.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINNAL FM" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Radio",MINNAL FM
