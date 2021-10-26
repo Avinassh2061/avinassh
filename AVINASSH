@@ -230,6 +230,7 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Vijay Super
 http://thespeedmedia.watch:2086/live/0786/0786/148267.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",KTV HD
+http://139.59.55.243/sunnxt/live.php?c=26566
 http://thespeedmedia.watch:2086/live/0786/0786/148249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",ZEE THIRAI
 
@@ -294,13 +295,16 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD (IN)
+http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800
 http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Star Vijay (IN)
-http://thespeedmedia.watch:2086/live/0786/0786/148238.ts
+http://thespeedmedia.watch:2086/live/0786/0786/148238.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Jaya TV
+http://manastv.xyz//m3u8.php?c=Jaya_TV_HD&q=800
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Sun TV
-http://thespeedmedia.watch:2086/live/0786/0786/148258.ts
+http://139.59.55.243/sunnxt/live.php?c=14020
+http://thespeedmedia.watch:2086/live/0786/0786/148258.m3u8
 #EXTINF:-1 tvg-id="Peppers" tvg-name="Peppers" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Peppers
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="Polimer TV" tvg-name="Polimer TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Polimer TV
@@ -322,17 +326,17 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ZEE TAMIL HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6742.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6742.m3u8
 #EXTINF:-1 tvg-chno="224" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Star Vijay
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
 http://93.190.139.35:8278/streams/d/Suntv/playlist.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6716.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6716.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vinmeen HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6739.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6739.m3u8
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
 
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vellithirai
@@ -379,33 +383,33 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9028.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9028.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 4 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 5 HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO CRICKET 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN 
 http://painel.tvdigitalsbl.net/live/CASSIANO1/CASSIANO1/13355.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Premier League" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
-http://thespeedmedia.watch:2086/live/0786/0786/90471.ts
-http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/678029.ts
+http://thespeedmedia.watch:2086/live/0786/0786/90471.m3u8
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/678029.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport La Liga" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport La Liga
-http://thespeedmedia.watch:2086/live/0786/0786/90469.ts
-http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.ts
+http://thespeedmedia.watch:2086/live/0786/0786/90469.m3u8
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Football" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Football
-http://thespeedmedia.watch:2086/live/0786/0786/90479.ts
-http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/678024.ts
+http://thespeedmedia.watch:2086/live/0786/0786/90479.m3u8
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/678024.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Cricket
-http://thespeedmedia.watch:2086/live/0786/0786/90481.ts
-http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/688714.ts
+http://thespeedmedia.watch:2086/live/0786/0786/90481.m3u8
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/688714.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",&Flix
@@ -413,7 +417,7 @@ http://103.153.39.34:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Sony Pix
-http://thespeedmedia.watch:2086/live/0786/0786/119652.ts
+http://thespeedmedia.watch:2086/live/0786/0786/119652.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Kids" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Akaram Kids
@@ -425,7 +429,7 @@ http://v4.watchithere.xyz:8080/live/Marky/Marky/305019.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr Bean" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Mr Bean
 http://v4.watchithere.xyz:8080/live/Marky/Marky/304089.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr Bean" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Mr Bean (Animated)
-http://thespeedmedia.watch:2086/live/0786/0786/232476.ts
+http://thespeedmedia.watch:2086/live/0786/0786/232476.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAW PATROL" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",PAW PATROL
 http://v4.watchithere.xyz:8080/live/Marky/Marky/305035.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCOOBY DOO" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",SCOOBY DOO
