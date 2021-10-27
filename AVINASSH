@@ -334,10 +334,10 @@ http://62.176.93.133:8004/play/a005
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD (IN)
-http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800
+#EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD (IN)" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD (IN)http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeetamil
 http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
+http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Star Vijay (IN)
 https://live-server-2.splitstream.io/d1f0ba92-3b9d-4e91-be00-e88775796f3d/index.m3u8?e=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Jaya TV
