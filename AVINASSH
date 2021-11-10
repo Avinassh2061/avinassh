@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",AVINASSH IPTV
 http://bmlive.net:8000/Avinassh/avinassh/bms.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",AVINASSH IPTV 
+http://bmlive.net:8000/Avinassh/avinassh.flv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",7Star TV
@@ -238,7 +240,7 @@ http://jaaltv.livebox.co.in/jjtvhls/live.m3u8
 http://shinestream.in:1935/evergreen/evergreen/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",SMS TV
 http://singamcloud.in:1935/smstvtsy/smstvtsy/playlist.m3u8
-#EXTINF:-1 group-title="Tamil Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",JEYEM PLUS
+#EXTINF:-1 group-title="Tamil Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",JEYEM PLUS
 http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",MP TV
 http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
