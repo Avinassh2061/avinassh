@@ -477,8 +477,6 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY TEN 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY TEN 4
-http://manastv.xyz//m3u8.php?c=Ten_4_HD_Tamil&q=800
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY SIX
 https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Jio Football HD Tam
@@ -526,5 +524,8 @@ https://astro4.rastream.com/osai
 https://astro3.rastream.com/raaga
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="VOD TAMIL",THITTAM IRANDU (PLAN B) (2021)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Thittam Irandu (2021)
 https://ia601400.us.archive.org/10/items/thittam-irandu-plan-b-2021/Thittam%20Irandu%20%28Plan%20B%29%20%282021%29%20HDRip%20Single%20Part%20%28640x360%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Doctor (2021)
+https://archive.org/download/www.-tamilarasan.-net-doctor-2021-tamil-hd-720p/Www.Tamilarasan.Net%20-%20Doctor%20%282021%29%20Tamil%20HD%20720p.mkv
+
