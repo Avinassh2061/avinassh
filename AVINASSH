@@ -571,11 +571,18 @@ http://cdn04.vidmx.xyz/hls/h7todgksamlbu3tf6rvtl5xo22xy75t4wq44bk7sya3lj3fcpa7sl
 http://cdn08.vidmx.xyz/hls/h7tocg2samlbu3tf6rvtllh4rrk2yag2drw3bhhlal4iffrll5h6eelheawa/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Kodiyil Oruvan (2021)
 http://cdn06.vidmx.xyz/hls/h7todvssamlbu3tf6rvtlkpwzdttbxot2vj2hoidkvt43i74ylzjzqlxapwa/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Pon Manickavel (NEW)(2021)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Pon Manickavel (2021)
 https://s47.vidsharcdn.com/hls/pdomkdk6jgm4f4kmlelcf53ahcfpbu6itqlvwbrxxgxqid4nb4lvscvvd5wa/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Rudra Thandavam (NEW)(2021)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Rudra Thandavam (2021)
 https://s47.vidsharcdn.com/hls/pdomldk7jgm4f4kmlelsf73yhlwmiiiqvxjwaexqnumtoilg3diq5if3hdnq/index-v1-a1.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Jango (2021) PreDVD
+https://s47.vidsharcdn.com/hls/pdomkdsqjgm4f4kmlelsf6lxe5mjw6fkk7mw24wtewqusvo5oupayimaft7q/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Sabapathy (2021) PreDVD
+https://s45.vidsharcdn.com/hls/pdoml4ssjgm4f4kmlelsf5l4ffgrlknfc3dehvswygqvikv2dc77vfhynjaq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Nizhal (2021)
+https://s47.vidsharcdn.com/hls/pdoml6cqjgm4f4kmlelsfyl7px7xdnyybakewhaurh6qtgqosicsteq6wnkq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Mugizh (2021)
+http://cdn04.vidmx.xyz/hls/h7tocbcramlbu3tf6rvtl47n36gng57tfybltktcl6pow7ig6rmqre2u77ja/index-v1-a1.m3u8
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Shang Chi And The Legend Of The Ten Rings (2021)
@@ -586,3 +593,8 @@ http://cdn30.vidmx.xyz/hls/h7todu2ramlbu3tf6rvtlnxi26mzs5kjqvvmzls7fhgsvq5lcvbl4
 http://cdn46.vidmx.xyz/hls/h7tocmkramlbu3tf6rvtlixa2idg3bgvxwk45t4uvm5jsveaiglbrh3ns5pq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Maradona Blessed Dream (S01) Full Episode (2021)
 http://cdn02.vidmx.xyz/hls/h7tofdcsamlbu3tf6rvtlopkztu37t5jpbo6hqfyiiolnxqrztgis2r24ara/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",The Wheel of Time Season 1 (2021)
+https://s45.vidsharcdn.com/hls/pdomkbktjgm4f4kmlelsfodwpzxit7w4jx236qhkpoqcju6xcn6ty54lvawq/index-v1-a1.m3u8
+
+
+
