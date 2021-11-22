@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",AVINASSH IPTV
 http://bmlive.net:8000/Avinassh/avinassh/bms.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",AVINASSH IPTV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",AVINASSH IPTV (Backup)
 http://bmlive.net:8000/Avinassh/avinassh.flv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
@@ -346,7 +346,6 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD
 https://sneh-z5api.herokuapp.com/?c=0-9-zeetamil
-http://58.27.219.166:8000/play/a0du/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Star Vijay
 https://last.gcdn.co/IND280/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Raj Digital
@@ -584,7 +583,17 @@ https://s47.vidsharcdn.com/hls/pdoml6cqjgm4f4kmlelsfyl7px7xdnyybakewhaurh6qtgqos
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Mugizh (2021)
 http://cdn04.vidmx.xyz/hls/h7tocbcramlbu3tf6rvtl47n36gng57tfybltktcl6pow7ig6rmqre2u77ja/index-v1-a1.m3u8
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Hindi (Tamil Dub)",Baaghi 3 (2021)
+https://s47.vidsharcdn.com/hls/pdoml42qjgm4f4kmlelsf6jfhxvotw5sthkneavha6eabbc2uwigoxuqd35a/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Hindi (Tamil Dub)",Dhamaka (2021)
+https://s47.vidsharcdn.com/hls/pdoml2csjgm4f4kmlelsfpt2hjxtrh6zjcxgscs2miyrtldxrdvpi5djsyha/index-v1-a1.m3u8
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Shang Chi And The Legend Of The Ten Rings (2021)
 http://cdn28.vidmx.xyz/hls/h7todrcramlbu3tf6rvtljvwzgs6j2dtxscd4g4zmeiimin5fmmvr2yhjdwq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Jungle Cruise (2021)
@@ -595,6 +604,20 @@ http://cdn46.vidmx.xyz/hls/h7tocmkramlbu3tf6rvtlixa2idg3bgvxwk45t4uvm5jsveaiglbr
 http://cdn02.vidmx.xyz/hls/h7tofdcsamlbu3tf6rvtlopkztu37t5jpbo6hqfyiiolnxqrztgis2r24ara/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",The Wheel of Time Season 1 (2021)
 https://s45.vidsharcdn.com/hls/pdomkbktjgm4f4kmlelsfodwpzxit7w4jx236qhkpoqcju6xcn6ty54lvawq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Don't Breathe 2 (2021)
+https://s37.vidsharcdn.com/hls/pdomk3bujgm4f4kmleesf6lahiq6vdbzufsvoej3nvrc4eemb5ybkh3yfssa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Snake Eyes G I Joe Origins (2021)
+https://s35.vidsharcdn.com/hls/pdomlizejcm4f4kmlecsfpbgflqdcjt646wt5rcb274zv5lfv2eqlkz5hklq/index-v1-a1.m3u8
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Survivor Tamil",EP71 (21-11-2021)
+https://s45.vidsharcdn.com/hls/pdomlm2ijgm4f4kmlelsf7jgexkuyunioyk4tyg6h7ygny32vwlw6l6fcsmq/index-v1-a1.m3u8
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Bigg Boss 5 Tamil",Day 49 (21-11-2021)
+https://s45.vidsharcdn.com/hls/pdomlicijgm4f4kmlelsfoblg4rxlisjxyj7vvioiva7pe5rfsar35ntifca/index-v1-a1.m3u8
 
