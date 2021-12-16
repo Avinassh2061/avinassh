@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",AVINASSH IPTV
-http://bmlive.net:8000/Avinassh/avinassh/bms.m3u8
+rtmp://bmlive.net:1935/Avinasshmurugan/avinassh
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",AVINASSH IPTV (Backup)
 http://bmlive.net:8000/Avinassh/avinassh.flv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",3 Tamil TV
@@ -622,6 +622,8 @@ http://d9.uptofiles.com/files/Tamil%20Dubbed%20Movies/Dont%20Breathe%202%20(2021
 http://d13.uptofiles.com/files/Tamil%20Dubbed%20Movies/Snake%20Eyes%20G.I%20Origins%20(2021)/Snake%20Eyes%20G.I%20Origins%20(Tamil)/Snake%20Eyes%20G.I%20Origins%20(720p%20HD)/Snake%20Eyes%20G.I%20Origins%202021%20720p%20HD.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Resident Evil: Welcome to Raccoon City (2021)
 https://abra--8ac92139.api.ftor.cc/5c439fc845260f4408efbed9f151c23ae625cab5/www.1TamilMV.bar%20-%20Resident%20Evil%20(2021)%20HDCAM-Rip%20-%201080p%20-%20%5BTamil%20(HQ%20Clean)%20%2B%20Eng%5D%20-%201.7GB.mkv?user-id=a4d5ad099e0e85ce461b7828451cfd27&download=true&download-id=68d58953aefaaf2a85042123842000aa&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiI2MC40OC43MC4xNjUiLCJkb21haW4iOiJ3ZWJ0b3IuaW8iLCJleHAiOjE2MzkyMDU2OTksInNlc3Npb25JRCI6IkQ4X3lxaWlyaV9BWF95OENqN1JuVC1fOEZqZXFqd2JOIiwiYWRzIjp0cnVlLCJyYXRlIjoiMTBNIiwicm9sZSI6Im5vYm9keSJ9.RwZ0sYOTOYx7qPvE31LL-LprCS9s0ypwaZDw8Jl7ZIQ&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Spider-Man No Way Home (2021) English PreDVD
+https://abra--8ac92139.api.ftor.cc/80fd864ed5c775e4022a460363c0d2fbc4bc6a92/www.1TamilMV.bar%20-%20Spider-Man%20No%20Way%20Home%20(2021)%20English%20HDCAM-Rip%20-%20720p%20-%20x264%20-%20HQ%20Line%20Aud%20-%201.1GB.mkv~tc/www.1TamilMV.bar%20-%20Spider-Man%20No%20Way%20Home%20(2021)%20English%20HDCAM-Rip%20-%20720p%20-%20x264%20-%20HQ%20Line%20Aud%20-%201.1GB.mkv~dp/www.1TamilMV.bar%20-%20Spider-Man%20No%20Way%20Home%20(2021)%20English%20HDCAM-Rip%20-%20720p%20-%20x264%20-%20HQ%20Line%20Aud%20-%201.1GB.mkv?user-id=e371ef8647201ba98babee8c4b329091&download-id=6e534d48ad2c7e682ef95979f40f8802&download=true&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIxMTUuMTM1LjE3OC43NyIsImRvbWFpbiI6IndlYnRvci5pbyIsImV4cCI6MTY0MDIyMjM2Nywic2Vzc2lvbklEIjoiQmx4ZFhXMW9IYnk4OXM4YUdrU3BuMHpCVkM5dEhVdjgiLCJhZHMiOnRydWUsInJhdGUiOiIxME0iLCJyb2xlIjoibm9ib2R5In0.OEP6INKTZReZEvFis7rBUJp1Gb7szn6M_Ed5Q6RSEro&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
