@@ -269,7 +269,7 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Vijay Super
 http://thespeedmedia.watch:2086/live/0786/0786/148267.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",KTV HD
-http://139.59.55.243/sunnxt/live.php?c=26566
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",Jaya Movie
 http://last.gcdn.co/IND291/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Movies",MASS TV
@@ -353,7 +353,7 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Colors Tamil
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Sun TV
-http://139.59.55.243/sunnxt/live.php?c=14020
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Peppers
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Polimer TV
@@ -388,27 +388,29 @@ http://iptv.tvmalaysia.cc/live/penang189/penang189/6739.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Bollyone HD
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6754.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vellithirai
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Okey
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400726.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Rania
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400571.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Aura
-http://ky-iptv.com:25461/live/Butcher/Butcher/1400567.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Warna
-http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Ria
-http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV ALHIJRAH
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV3 HD
 http://iptv.tvmalaysia.cc/live/penang189/penang189/7266.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV2 HD
@@ -418,15 +420,15 @@ http://iptv.tvmalaysia.cc/live/penang189/penang189/7177.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Quan jia
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Bernama TV
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena HD
@@ -444,9 +446,7 @@ http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO CRICKET
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ESPN 
-http://painel.tvdigitalsbl.net/live/CASSIANO1/CASSIANO1/13355.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6621.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport La Liga
@@ -455,34 +455,16 @@ http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6620.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Cricket
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6619.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Star Sport 1 
-http://58.27.219.166:8000/play/a0ee/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Star Sport 2
-http://58.27.219.166:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Star Sport 3
-http://58.27.219.166:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",DAZN 1
-https://cdnx00.koralast.com/UpFiles/2021/10/23/34/202624/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Sports Main Event
 http://iptv.tvmalaysia.cc/live/penang189/penang189/7115.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",GOLF
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6796.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",WWE
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6849.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Eurosport 1
-https://46-166-142-27.livesports24.online/eurosport1ru.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Eurosport 2
 https://95-213-224-180.livesports24.online/ruseurosport2.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY TEN 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY TEN 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY TEN 3
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY TEN 4 HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SONY SIX
-https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",HBO HD
@@ -505,20 +487,6 @@ http://v4.watchithere.xyz:8080/live/Marky/Marky/621047.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",BEN 10
-http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/31653.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",MICKEY MOUSE
-http://v4.watchithere.xyz:8080/live/Marky/Marky/305019.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Mr Bean
-http://v4.watchithere.xyz:8080/live/Marky/Marky/304089.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Mr Bean (Animated)
-http://thespeedmedia.watch:2086/live/0786/0786/232476.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",PAW PATROL
-http://v4.watchithere.xyz:8080/live/Marky/Marky/305035.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",SCOOBY DOO
-http://v4.watchithere.xyz:8080/live/Marky/Marky/305058.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Tom & Jerry
-http://v4.watchithere.xyz:8080/live/Marky/Marky/305116.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Disney Junior 
 http://iptv.tvmalaysia.cc/live/penang189/penang189/7197.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Disney XD FHD 
@@ -547,7 +515,7 @@ https://astro3.rastream.com/raaga
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Annaatthe (2021)
-http://n2.sendfilesda.xyz/files/1/Annaatthe%20(2021)%20HDRip.mp4
+https://archive.org/download/Annaatthe/Annaatthe.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Maanaadu (2021)
 https://archive.org/download/www.-1-tamil-mv.pro-pushpa-2021-tamil-proper-hq-pre-dvd-1080p-x-264-hq-clean-aud-2.6-gb/www.1TamilMV.pro%20-%20MAANAADU%20%282021%29%20Tamil%20HDRip%20-%201080p%20-%20HEVC%20-%20AAC%20-%201.5GB%20-%20HC-ESub.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Thittam Irandu (2021)
