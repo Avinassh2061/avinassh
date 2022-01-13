@@ -332,17 +332,19 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE TAMIL HD
-
+http://62.210.79.245:25461/live/343434/343434/274.ts?token=GUMLUxEJFlxDUFEGUg5bBAMGUgMCDAELVVZRAAkGUAEDU1ZUWlQNUVERHhYXTRBVUVlrX1EWCQEHAR4QTEQARz0IBxBYQwVTVQICFkgbFlldURYMBAIHAgkNBAUMBkkXEggHEFgPQQoNHxBRHE0HQl5VWGlRUUVaU1AQCFdCCVlOQwxcPQVRCwBdVhZeG1MSHBZdRUUWCV1FWV4eG1UMQRAAF1dAW1oTDV8eFgdWF15ERk0UDxZ6fRIZEFdBQwBbEQgMXEBbFhISER4WDUo9QlVHQERQVV5WQhcIEAkVSRcPABttAQ5aCARQRl0LVxESChYFFBkWXlxeXEZdS2gVXAZDWVwXDVgb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",ZEE THIRAI
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=224
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Star Vijay
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Raj Digital
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Jaya TV
-
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8?token=MovieStarTN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Colors Tamil
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Sun TV
-
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/14020.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Peppers
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil India",Polimer TV
@@ -362,20 +364,20 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ZEE TAMIL HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6742.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6742.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Star Vijay
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6732.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6732.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6733.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6733.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6716.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6716.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6738.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6738.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vinmeen HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6739.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6739.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Bollyone HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6754.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6754.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vellithirai
@@ -385,71 +387,71 @@ http://iptv.tvmalaysia.cc/live/penang189/penang189/6754.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oasis
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6725.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6725.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oh!K
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6726.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6726.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Rania
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6729.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6729.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Aura
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6713.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6713.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Warna
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6740.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6740.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Ria
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6730.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6730.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Citra
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7267.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7267.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV ALHIJRAH
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6834.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6834.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7266.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7266.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7178.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7178.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV1 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7177.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7177.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Quan jia
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6728.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6728.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Boo
-http://iptv.tvmalaysia.cc/live/penang189/penang189/8872.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/8872.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Bernama TV
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6750.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6750.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Naura
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6724.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6724.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Astro Ceria
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6715.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6715.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6707.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6707.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9028.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9028.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 4 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 5 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO CRICKET
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6621.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6621.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport La Liga
 http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Football
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6620.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6620.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Cricket
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6619.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6619.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Sports Main Event
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7115.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7115.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",GOLF
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6796.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6796.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",WWE
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6849.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6849.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Eurosport 2
 https://95-213-224-180.livesports24.online/ruseurosport2.m3u8
 
@@ -475,21 +477,21 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Disney Junior 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7197.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7197.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Disney XD FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7198.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7198.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Boomerang 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7199.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7199.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Cartoon Network FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7200.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7200.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Nickelodeon 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7201.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7201.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Nicktoons FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7202.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7202.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",STARZ Kids & Family FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7204.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7204.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Universal Kids FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7205.ts
+http://iptv.tvmalaysia.cc/live/penang189/penang189/7205.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",PAW PATROL
 https://youtu.be/qI0FebLJBhw
 
