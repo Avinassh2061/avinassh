@@ -364,20 +364,20 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ZEE TAMIL HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6742.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6742.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Star Vijay
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6732.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6732.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6733.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6733.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6716.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6716.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6738.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6738.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vinmeen HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6739.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6739.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Bollyone HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6754.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6754.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vellithirai
@@ -387,71 +387,73 @@ http://iptv.tvmalaysia.cc/live/penang189/penang189/6754.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oasis
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6725.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6725.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Oh!K
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6726.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6726.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Rania
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6729.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6729.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Aura
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6713.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6713.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Warna
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6740.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6740.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Ria
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6730.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6730.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Citra
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7267.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7267.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV ALHIJRAH
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6834.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6834.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7266.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7266.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV2 HD
 http://iptv.tvmalaysia.cc/live/penang189/penang189/7178.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TV1 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7177.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7177.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Quan jia
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6728.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6728.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Boo
-http://iptv.tvmalaysia.cc/live/penang189/penang189/8872.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/8872.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Bernama TV
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6750.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6750.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Malay",Astro Naura
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6724.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6724.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Astro Ceria
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6715.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/6715.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6707.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6707.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9028.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/9028.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6708.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/9025.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/9020.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 4 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/9026.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 5 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/9029.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO CRICKET
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6717.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Fox Euro
+http://iptv.tvmalaysia.cc/live/titi3/titi3/9003.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Premier League
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6621.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6621.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport La Liga
 http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Football
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6620.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6620.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",SuperSport Cricket
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6619.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6619.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Sky Sports Main Event
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7115.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/7115.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",GOLF
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6796.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6796.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",WWE
-http://iptv.tvmalaysia.cc/live/penang189/penang189/6849.m3u8
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6849.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Eurosport 2
 https://95-213-224-180.livesports24.online/ruseurosport2.m3u8
 
@@ -477,21 +479,19 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Disney Junior 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7197.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7197.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Disney XD FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7198.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7198.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Boomerang 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7199.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7199.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Cartoon Network FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7200.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7200.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Nickelodeon 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7201.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7201.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Nicktoons FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7202.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7202.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",STARZ Kids & Family FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7204.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",Universal Kids FHD 
-http://iptv.tvmalaysia.cc/live/penang189/penang189/7205.m3u8
+http://iptv.tvmalaysia.cc/live/186867/186867/7204.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Kids",PAW PATROL
 https://youtu.be/qI0FebLJBhw
 
@@ -509,9 +509,16 @@ https://astro3.rastream.com/raaga
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Anbarivu (2022)
 https://archive.org/download/www.-1-tamil-mv.pro-anbarivu-2022-true-web-dl-1080p-hevc-aac-tam-tel-mal-kan-msub/www.1TamilMV.pro%20-%20Anbarivu%20%282022%29%20TRUE%20WEB-DL%20-%201080p%20-%20HEVC%20-%20AAC%20%5BTam%20%2B%20Tel%20%2B%20Mal%20%2B%20Kan%5D%20-%20MSub.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Mahaan (2022)
-http://c8.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Mahaan%20(2022)/Mahaan%20(2022)%20HDRip/Mahaan%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
+http://c6.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Mahaan%20(2022)/Mahaan%20(2022)%20HDRip/Mahaan%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",FIR (2022) PreDvD
-https://abra--a4446ec7.api.ftor.cc/0359648e072226594e04210cff14f45aeabb10f3/www.1TamilMV.email%20-%20FIR%20(2022)%20Tamil%20Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20Audio%20-%201.4GB.mkv~dp/www.1TamilMV.email%20-%20FIR%20(2022)%20Tamil%20Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20Audio%20-%201.4GB.mkv?user-id=379e4545ac1fe511adf0412a556ab797&download-id=e01aea455241a7d919e5bc8d46c7564c&download=true&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OC4wLjQ3NTguODIgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIxLjkuOTcuMTU0IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjQ1MjAwOTU1LCJzZXNzaW9uSUQiOiJzWk5WOUhVRTk0OWRvMEdYTzZSeHdZNU5IRGZLMmktaSIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.c1QRAsYkSYvgcR8p8nrtEn_69RdzW8tVQDjU5IgK1sA&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+http://c10.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Fir%20(2022)/Fir%20(2022)%20HQ%20DVDScr/Fir%20(2022)%20HQ%20DVDScr%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Veeramae Vaagai Soodum (2022)
+http://c8.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Veeramae%20Vaagai%20Soodum%20(2022)/Veeramae%20Vaagai%20Soodum%20(2022)%20HDRip/Veeramae%20Vaagai%20Soodum%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Carbon (2022)
+http://c9.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Carbon%20(2022)/Carbon%20(2022)%20HDRip/Carbon%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Kadaisi Vivasayi 2022)
+http://c7.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Kadaisi%20Vivasayi%20(2022)/Kadaisi%20Vivasayi%20(2022)%20HQ%20DVDScr/Kadaisi%20Vivasayi%20(2022)%20HQ%20DVDScr%20Single%20Part%20(640x360).mp4
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Annaatthe (2021)
@@ -558,16 +565,16 @@ https://archive.org/download/pushpa-2021-tamil_202201/Pushpa%20%282021%29%20Tami
 https://archive.org/download/minnal-murali-tam-mal-tel-hin-kan/Minnal%20Murali%20%5BTam%20%2B%20Mal%20%2B%20Tel%20%2B%20Hin%20%2B%20Kan%5D.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Atrangi Re (2021)
 http://c10.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Galatta%20Kalyanam%20(Atrangi%20Re)%20(2021)/Galatta%20Kalyanam%20(Atrangi%20Re)%20(2021)%20HDRip/Galatta%20Kalyanam%20(Atrangi%20Re)%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Writer (2021) PreDVD
-http://c9.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Writer%20(2021)/Writer%20(2021)%20HQ%20DVDScr/Writer%20(2021)%20HQ%20DVDScr%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Writer (2021)
+http://c5.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202022%20Movies/Writer%20(2022)/Writer%20(2022)%20HDRip/Writer%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",83 (2021) PreDVD
 https://archive.org/download/83_20211226/83.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Blood Money (2021)
 https://archive.org/download/blood-money-2021/www.1TamilMV.pro%20-%20Blood%20Money%20%282021%29%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20%20%5BTamil%20%2B%20Telugu%5D%20-%20ESub.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Plan Panni Pannanum (2021)
 https://archive.org/download/plan-panni-pannanum-2021/Plan%20Panni%20Pannanum%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Velan (2021) PreDVD
-https://archive.org/download/Velan/Velan.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Velan (2021)
+http://c9.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Velan%20(2021)/Velan%20(2021)%20HDRip/Velan%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Samaiyalkaari (2021)
 http://c5.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202021%20Movies/Samaiyalkaari%20(2021)/Samaiyalkaari%20(2021)%20HDRip/Samaiyalkaari%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Maaya Nizhal (2021)
@@ -618,24 +625,6 @@ http://c5.sendfilesda.xyz/files/Tamil%20Dubbed%20Movies/Tamil%202018%20Dubbed%20
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (01) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP01%20-%20Red%20Light%20Green%20Light.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (02) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP02%20-%20Hell.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (03) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP03%20-%20The%20Man%20with%20the%20Umbrella.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (04) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP04%20-%20Stick%20to%20the%20Team.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (05) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP05%20-%20A%20Fair%20World.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (06) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP06%20-%20Gganbu.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (07) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP07%20-%20VIPS.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (08) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP08%20-%20Front%20Man.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",SQUID GAME (2021) S01 EP (09) (2021)
-https://archive.org/download/squid-game-.-2021-.-s-01-ep-01-red-light-green-light/SQUID%20GAME%20.%202021%20.%20S01%20EP09%20-%20One%20Lucky%20Day.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",Money Heist (2021) S05 Vol.2 EP (06) (2021)
 https://archive.org/download/money-heist-.-2021-.-s-05-vol.-2-.-ep-10-a-family-tradition/Money%20Heist%20.%202021%20.%20S05%20Vol.2%20.%20EP06%20-%20Escape%20Valve.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Series English (Tamil Dub)",Money Heist (2021) S05 Vol.2 EP (07) (2021)
