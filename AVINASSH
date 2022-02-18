@@ -21,9 +21,6 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 http://89.187.162.89/Capital_TV-LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",CTN TV
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8?token=GTR
-https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Ezhil TV
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",GTA Tamil
@@ -59,8 +56,8 @@ http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",MN TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Mon Tamil
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Palar TV
 http://account13.livebox.co.in/palartvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Sana TV
@@ -69,24 +66,14 @@ http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",SMCV TV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Sooriyan TV
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Tamilan TV
-http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",TTV
 http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",TVi
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Vani TV
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Yaal TV
-http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Hari TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local" TAMIL SHOWS
 http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Sai TV
-http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Krishna TV
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",KRP TV
@@ -107,10 +94,6 @@ http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
 http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Nine TV
 http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Orange TV
-http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Sai TV
-http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Thirumalai TV
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Tamil TV
@@ -146,10 +129,6 @@ http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
 http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Prakalya TV
 http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Singam TV
-http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",SSV TV
-http://live.singamcloud.in:1935/ssvtv/ssvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",TET
 https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",JM TV
@@ -184,8 +163,6 @@ http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 http://103.98.62.134:8080/hls/kings.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Phoenix TV
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="Tamil Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",YOGAA TV
-http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",SRV TV
 http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Vasanth TV
@@ -233,7 +210,7 @@ http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Jaya Max
-http://iptv.tvmalaysia.cc/live/186867/186867/6802.ts
+http://iptv.tvmalaysia.cc/live/186867/186867/6802.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Tunes 6
 http://62.176.93.133:8004/play/a02t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Music",Sana TV 2
@@ -300,20 +277,20 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ZEE TAMIL HD
-http://iptv.tvmalaysia.cc/live/186867/186867/6742.ts
+http://iptv.tvmalaysia.cc/live/186867/186867/6742.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Star Vijay
-http://iptv.tvmalaysia.cc/live/186867/186867/6732.ts
+http://iptv.tvmalaysia.cc/live/186867/186867/6732.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",SUN TV
-http://iptv.tvmalaysia.cc/live/186867/186867/6733.ts
+http://iptv.tvmalaysia.cc/live/186867/186867/6733.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",COLORS TAMIL
-http://iptv.tvmalaysia.cc/live/186867/186867/6716.ts
+http://iptv.tvmalaysia.cc/live/186867/186867/6716.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
-http://iptv.tvmalaysia.cc/live/186867/186867/6738.ts
+http://iptv.tvmalaysia.cc/live/186867/186867/6738.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vinmeen HD
-http://iptv.tvmalaysia.cc/live/186867/186867/6739.ts
+http://iptv.tvmalaysia.cc/live/186867/186867/6739.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Bollyone HD
-http://iptv.tvmalaysia.cc/live/186867/186867/6754.ts
+http://iptv.tvmalaysia.cc/live/186867/186867/6754.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",ABO Movies Thangathirai HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Malaysia",Astro Vellithirai
@@ -363,7 +340,7 @@ http://iptv.tvmalaysia.cc/live/titi3/titi3/6707.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Arena 2 HD
 http://iptv.tvmalaysia.cc/live/titi3/titi3/9028.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport HD
-http://iptv.tvmalaysia.cc/live/titi3/titi3/6708.ts
+http://iptv.tvmalaysia.cc/live/titi3/titi3/6708.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 2 HD
 http://iptv.tvmalaysia.cc/live/titi3/titi3/9025.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro Supersport 3 HD
@@ -441,13 +418,13 @@ https://astro3.rastream.com/raaga
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Anbarivu (2022)
-
+http://c10.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Anbarivu%20(2022)/Anbarivu%20(2022)%20HDRip/Anbarivu%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Mahaan (2022)
 http://c6.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Mahaan%20(2022)/Mahaan%20(2022)%20HDRip/Mahaan%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",FIR (2022) PreDvD
 http://c10.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Fir%20(2022)/Fir%20(2022)%20HQ%20DVDScr/Fir%20(2022)%20HQ%20DVDScr%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Veeramae Vaagai Soodum (2022)
-https://s43.vidsharcdn.com/hls/pdomkgobi2m4f4kmlfrsfy33o4uzz3m7jhyvitwu7mgetgwxgmdpak6xarka/index-v1-a1.m3u8
+http://c6.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Veeramae%20Vaagai%20Soodum%20(2022)/Veeramae%20Vaagai%20Soodum%20(2022)%20HDRip/Veeramae%20Vaagai%20Soodum%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Carbon (2022)
 http://c9.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Carbon%20(2022)/Carbon%20(2022)%20HDRip/Carbon%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Kadaisi Vivasayi 2022)
@@ -472,7 +449,7 @@ http://c5.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202021%20Movies/Pon%20Manic
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Bachelor (2021)
 http://c7.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Bachelor%20(2021)/Bachelor%20(2021)%20HDRip/Bachelor%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Enemy (2021)
-http://c4.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202021%20Movies/Enemy%20(2021)/Enemy%20(2021)%20HDRip/Enemy%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
+http://c6.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Enemy%20(2021)/Enemy%20(2021)%20BDRip/Enemy%20(2021)%20BDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Sabhaapathy (2021)
 http://c6.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Sabhaapathy%20(2021)/Sabhaapathy%20(2021)%20HDRip/Sabhaapathy%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2021)",Rudra Thandavam (2021)
